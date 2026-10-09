@@ -1,0 +1,97 @@
+# Where each voicing of data/chords/diminished.toml is published, keyed by its frets from the 6th string to the 1st.
+# The format is described in data/README.md.
+
+"8xx87x" = [
+  { by = "jamplay", url = "https://www.jamplay.com/tools/guitar-chords/1-standard/7-g/110-dim", chord = "G#dim", frets = "4xx43x", fingers = "M--RI-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g-sharp/dim/textual/", chord = "G# dim (position 6)", frets = "4xx43x", fingers = "M--RI-" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/how-to-play-diminished-chords-on-guitar/", chord = "C dim (6th string, 7th fret)", frets = "8xx87x", fingers = "M--RI-", via = "image" },
+]
+
+"xx(10)87x" = [
+  { by = "jamplay", url = "https://www.jamplay.com/tools/guitar-chords/1-standard/7-g/124-dim", chord = "GDim", frets = "xx532x", fingers = "--LMI-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g/dim/textual/", chord = "G dim (position 6)", frets = "xx532x", fingers = "--LMI-" },
+  { by = "fender", url = "https://www.fender.com/articles/scales/harmonic-minor-guitar-scale", chord = "F# Diminished", frets = "xx421x", fingers = "--LMI-", via = "image" },
+]
+
+"x3454x" = [
+  { by = "jamplay", url = "https://www.jamplay.com/tools/guitar-chords/1-standard/2-b/124-dim", chord = "BDim", frets = "x2343x", fingers = "-IMLR-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a-flat/dim/textual/", chord = "Ab dim (position 2)", frets = "x(11)(12)(13)(12)x", fingers = "-IMLR-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a-sharp/dim/textual/", chord = "A# dim (position 1)", frets = "x1232x" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b-flat/dim/textual/", chord = "Bb dim (position 1)", frets = "x1232x", fingers = "-IMLR-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b/dim/textual/", chord = "B dim (position 1)", frets = "x2343x", fingers = "-IMLR-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c-sharp/dim/textual/", chord = "C# dim (position 1)", frets = "x4565x", fingers = "-IMLR-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/dim/textual/", chord = "C dim (position 1)", frets = "x3454x" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d-flat/dim/textual/", chord = "Db dim (position 1)", frets = "x4565x", fingers = "-IMLR-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d-sharp/dim/textual/", chord = "D# dim (position 2)", frets = "x6787x" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d/dim/textual/", chord = "D dim (position 1)", frets = "x5676x", fingers = "-IMLR-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e-flat/dim/textual/", chord = "Eb dim (position 2)", frets = "x6787x" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e/dim/textual/", chord = "E dim (position 3)", frets = "x7898x", fingers = "-IMLR-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f-sharp/dim/textual/", chord = "F# dim (position 3)", frets = "x9(10)(11)(10)x" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f/dim/textual/", chord = "F dim (position 3)", frets = "x89(10)9x" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g-flat/dim/textual/", chord = "Gb dim (position 3)", frets = "x9(10)(11)(10)x" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g-sharp/dim/textual/", chord = "G# dim (position 3)", frets = "x(11)(12)(13)(12)x", fingers = "-IMLR-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g/dim/textual/", chord = "G dim (position 3)", frets = "x(10)(11)(12)(11)x", fingers = "-IMLR-" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Abdim-guitar-chord,770.html", chord = "Abdim", frets = "x(11)(12)(13)(12)x" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Cdim (also Abdim, Bbdim, Bdim, C#dim, Ddim, Ebdim, Edim, F#dim, Fdim, Gdim)", frets = "x3454x", fingers = "-IMLR-" },
+]
+
+"89(10)8xx" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a-sharp/dim/textual/", chord = "A# dim (position 3)", frets = "6786xx", fingers = "IMRI--" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b-flat/dim/textual/", chord = "Bb dim (position 3)", frets = "6786xx", fingers = "IMRI--" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c-sharp/dim/textual/", chord = "C# dim (position 3)", frets = "9(10)(11)9xx", fingers = "IMRI--" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/dim/textual/", chord = "C dim (position 3)", frets = "89(10)8xx" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d-flat/dim/textual/", chord = "Db dim (position 3)", frets = "9(10)(11)9xx", fingers = "IMRI--" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d/dim/textual/", chord = "D dim (position 3)", frets = "(10)(11)(12)(10)xx", fingers = "IMRI--" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f-sharp/dim/textual/", chord = "F# dim (position 1)", frets = "2342xx", fingers = "IMRI--" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f/dim/textual/", chord = "F dim (position 1)", frets = "1231xx", fingers = "IMRI--" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g-flat/dim/textual/", chord = "Gb dim (position 1)", frets = "2342xx", fingers = "IMRI--" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g-sharp/dim/textual/", chord = "G# dim (position 2)", frets = "4564xx", fingers = "IMLI--" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Abdim-guitar-chord,753.html", chord = "Abdim", frets = "4564xx" },
+]
+
+"x34x4x" = [
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/how-to-play-diminished-chords-on-guitar/", chord = "C dim (5th string, 3rd fret)", frets = "x34x4x", fingers = "-IR-L-", via = "image" },
+  { by = "jazz-guitar-licks", url = "https://www.jazz-guitar-licks.com/pages/chords/diminished-triad-chords-guitar-diagrams-charts.html", chord = "diminished triad, open voicing, bass on 5th string (root position)", frets = "x45x5x", via = "image" },
+]
+
+"xx(10)(11)x(11)" = [
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/how-to-play-diminished-chords-on-guitar/", chord = "C dim (4th string, 10th fret)", frets = "xx(10)(11)x(11)", fingers = "--IR-L", via = "image" },
+  { by = "jazz-guitar-licks", url = "https://www.jazz-guitar-licks.com/pages/chords/diminished-triad-chords-guitar-diagrams-charts.html", chord = "diminished triad, open voicing, bass on 4th string (root position)", frets = "xx45x5", via = "image" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Cdim (also Abdim, Adim, Bbdim, Bdim, C#dim, Ebdim, Edim, F#dim, Fdim, Gdim)", frets = "xx(10)(11)x(11)", fingers = "--IM-R" },
+]
+
+"0120x0" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e/dim/textual/", chord = "E dim (position 1)", frets = "0120x0", fingers = "-IR---" },
+]
+
+"8x(10)87x" = [
+  { by = "jamplay", url = "https://www.jamplay.com/tools/guitar-chords/1-standard/6-f/110-dim", chord = "F#dim", frets = "(14)x(16)(14)(13)x", fingers = "M-LRI-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f-sharp/dim/textual/", chord = "F# dim (position 5)", frets = "(14)x(16)(14)(13)x", fingers = "M-LRI-" },
+]
+
+"xx(10)(11)(13)(11)" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b/dim/textual/", chord = "B dim (position 3)", frets = "xx9(10)(12)(10)", fingers = "--IMLR" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d-sharp/dim/textual/", chord = "D# dim (position 1)", frets = "xx1242" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e-flat/dim/textual/", chord = "Eb dim (position 1)", frets = "xx1242", fingers = "--IMLR" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e/dim/textual/", chord = "E dim (position 2)", frets = "xx2353", fingers = "--IMLR" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f-sharp/dim/textual/", chord = "F# dim (position 2)", frets = "xx4575", fingers = "--IMLR" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f/dim/textual/", chord = "F dim (position 2)", frets = "xx3464", fingers = "--IMLR" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g-flat/dim/textual/", chord = "Gb dim (position 2)", frets = "xx4575", fingers = "--IMLR" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g/dim/textual/", chord = "G dim (position 2)", frets = "xx5686", fingers = "--IMLR" },
+]
+
+"xx(10)878" = [
+  { by = "jamplay", url = "https://www.jamplay.com/tools/guitar-chords/1-standard/2-b/124-dim", chord = "BDim", frets = "xx9767", fingers = "--LMIR" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a-flat/dim/textual/", chord = "Ab dim (position 1)", frets = "xx6434", fingers = "--LRIM" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a-sharp/dim/textual/", chord = "A# dim (position 2)", frets = "xx8656", fingers = "--LRIM" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b-flat/dim/textual/", chord = "Bb dim (position 2)", frets = "xx8656", fingers = "--LRIM" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b/dim/textual/", chord = "B dim (position 2)", frets = "xx9767", fingers = "--LRIM" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c-sharp/dim/textual/", chord = "C# dim (position 2)", frets = "xx(11)989", fingers = "--LRIM" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/dim/textual/", chord = "C dim (position 2)", frets = "xx(10)878", fingers = "--LRIM" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d-flat/dim/textual/", chord = "Db dim (position 2)", frets = "xx(11)989", fingers = "--LRIM" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d-sharp/dim/textual/", chord = "D# dim (position 3)", frets = "xx(13)(11)(10)(11)", fingers = "--LRIM" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d/dim/textual/", chord = "D dim (position 2)", frets = "xx(12)(10)9(10)", fingers = "--LRIM" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e-flat/dim/textual/", chord = "Eb dim (position 3)", frets = "xx(13)(11)(10)(11)", fingers = "--LRIM" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g-sharp/dim/textual/", chord = "G# dim (position 1)", frets = "xx6434", fingers = "--LRIM" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g/dim/textual/", chord = "G dim (position 1)", frets = "xx5323", fingers = "--LRIM" },
+]

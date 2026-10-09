@@ -1,0 +1,1089 @@
+# Where each slash chord of data/slash.toml is published, keyed by its name and frets from the 6th string to the 1st.
+# The format is described in data/README.md.
+
+"C/E 032010" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/guitar-lessons/essential-slash-chords-bg-1401", chord = "C/E option 1", frets = "032010", fingers = "-LM-I-", via = "image", note = "diagram shows finger 4 on the 5th string; the lesson text says this is a mistake and it should be finger 3 (-RM-I-)" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/guitar-lessons/essential-slash-chords-bg-1401", chord = "C/E option 1 (as corrected in the lesson text)", frets = "032010", fingers = "-RM-I-", via = "image", note = "lesson text: the finger on the 5th string should be 3; the diagram image still shows 4" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/maj/textual/", chord = "C", frets = "032010", fingers = "-RM-I-", note = "Position 1" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/how-to-read-slash-chords-on-guitar/", chord = "C/E", frets = "032010", fingers = "-RM-I-" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "C/E", frets = "032010", fingers = "-RM-I-" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/inverted-chords.html", chord = "C/E", frets = "032010", via = "image" },
+]
+
+"C/G 332010" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/c-over-g-2v2", chord = "C/G", frets = "332010", fingers = "RLM-I-", via = "browser", note = "diagram label 'Open'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/guitar-lessons/essential-slash-chords-bg-1401", chord = "C/G option 1", frets = "332010", fingers = "RLM-I-", via = "image" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/85-major", chord = "C", frets = "332010", fingers = "RLM-I-", note = "caption: This is the C/G.  This means it is a regular C open chord played with a G bass note." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/maj/textual/", chord = "C", frets = "332010", fingers = "RLM-I-", note = "Position 8" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/how-to-read-slash-chords-on-guitar/", chord = "C/G", frets = "332010", fingers = "RLM-I-" },
+  { by = "mike-tyka", url = "https://miketyka.com/guitar/chordshp.htm", chord = "C/G", frets = "332010", note = "frets only, no fingers" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "C/G", frets = "332010", fingers = "RLM-I-" },
+  { by = "fender", url = "https://www.fender.com/play/lessons/c-over-g-1st-position-v1", chord = "C/G 1st Position (v1)", frets = "332010", fingers = "RLM-I-", via = "reader" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/c-inversions.html", chord = "C/G", frets = "332010", via = "image" },
+]
+
+"C/B x22010" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/guitar-lessons/essential-slash-chords-bg-1401", chord = "C/B", frets = "x22010", fingers = "-MR-I-", via = "image" },
+  { by = "fender", url = "https://www.fender.com/play/lessons/c-over-b-open-position-v1", chord = "C/B Open Position (v1)", frets = "x22010", fingers = "-MR-I-", via = "reader", note = "instructor: Nikki Stevens" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "C/B", frets = "x22010", fingers = "-MR-I-" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/slash-chords.html", chord = "C/B", frets = "x22010", via = "image" },
+  { by = "guitar-com", url = "https://guitar.com/lessons/chord-clinic-part-4/", chord = "C/B (Fig 2)", frets = "x22010", fingers = "-MR-I-", via = "image" },
+]
+
+"D/F♯ 2x0232" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/guitar-lessons/essential-slash-chords-bg-1401", chord = "D/F# option 2", frets = "2x0232", fingers = "I--MLR", via = "image" },
+  { by = "mike-tyka", url = "https://miketyka.com/guitar/chordshp.htm", chord = "D", frets = "2x0232", note = "frets only, no fingers" },
+  { by = "guitar-com", url = "https://guitar.com/lessons/chord-clinic-part-4/", chord = "D/F# (Fig 1)", frets = "2x0232", fingers = "I--MLR", via = "image" },
+  { by = "guitar-player", url = "https://www.guitarplayer.com/lessons/a-crash-course-in-slash-chords", chord = "D/F# (Ex. 1)", frets = "2x0232", via = "image", note = "fingers printed T--132: thumb on the 6th string; the book uses no thumb" },
+]
+
+"D/A x00232" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/guitar-lessons/essential-slash-chords-bg-1401", chord = "D/A", frets = "x00232", fingers = "---IRM", via = "image" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/4-d/85-major", chord = "D", frets = "x00232", fingers = "---IRM", note = "caption: This open D chord has the fifth in the bass." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d/maj/textual/", chord = "D", frets = "x00232", fingers = "---IRM", note = "Position 1" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "D/A", frets = "x00232", fingers = "---IMI" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/d-inversions.html", chord = "D/A", frets = "x00232", via = "image" },
+]
+
+"G/B x20033" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/g-over-b-1v2", chord = "G/B", frets = "x20033", fingers = "-I--RL", via = "browser", note = "diagram label 'Open'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/guitar-lessons/essential-slash-chords-bg-1401", chord = "G/B option 1", frets = "x20033", fingers = "-I--RL", via = "image" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/7-g/85-major", chord = "G", frets = "x20033", fingers = "-I--RL", note = "caption: This voicing of G major features the third, B, in the bass." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g/maj/textual/", chord = "G", frets = "x20033", fingers = "-I--RL", note = "Position 12" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/how-to-read-slash-chords-on-guitar/", chord = "G/B", frets = "x20033", fingers = "-I--RL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "G/B", frets = "x20033", fingers = "-I--MM" },
+  { by = "fender", url = "https://www.fender.com/play/lessons/g-over-b-open-position-v4", chord = "G/B Open Position (v4) ", frets = "x20033", fingers = "-I--RL", via = "reader" },
+  { by = "guitar-com", url = "https://guitar.com/lessons/chord-clinic-part-4/", chord = "G/B (Fig 1)", frets = "x20033", fingers = "-I--RL", via = "image" },
+  { by = "guitar-player", url = "https://www.guitarplayer.com/lessons/a-crash-course-in-slash-chords", chord = "G/B (Ex. 3)", frets = "x20033", fingers = "-I--RL", via = "image" },
+]
+
+"A/C♯ x4222x" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/guitar-lessons/essential-slash-chords-bg-1401", chord = "A/C#", frets = "x4222x", fingers = "-RIII-", via = "image" },
+  { by = "fender", url = "https://www.fender.com/play/lessons/a-over-c-sharp-2nd-position-v1", chord = "A/C# 2nd Position (v1)", frets = "x4222x", fingers = "-RIII-", via = "reader", note = "instructor: Nikki Stevens" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/85-major", chord = "A", frets = "x4222x", fingers = "-RIII-", note = "caption: This voicing of A major features the third (C#) in the bass." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a/maj/textual/", chord = "A", frets = "x4222x", fingers = "-RIII-", note = "Position 13" },
+  { by = "acoustic-guitar", url = "https://acousticguitar.com/strengthen-chord-progressions-and-bass-lines-with-slash-chords/", chord = "A/C# (Ex. 5)", frets = "x4222x", fingers = "-RIII-", via = "image" },
+  { by = "guitar-com", url = "https://guitar.com/lessons/chord-clinic-slash-chords-descending-basslines/", chord = "A/C# (Fig 4)", frets = "x4222x", fingers = "-RIII-", via = "image" },
+]
+
+"F/A x03211" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/f-over-a", chord = "F/A", frets = "x03211", fingers = "--RMII", via = "browser", note = "diagram label 'Open'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/guitar-lessons/essential-slash-chords-bg-1401", chord = "F/A", frets = "x03211", fingers = "--RMII", via = "image" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/how-to-read-slash-chords-on-guitar/", chord = "F/A", frets = "x03211", fingers = "--RMII" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "F/A", frets = "x03211", fingers = "--RMII" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/f-inversions.html", chord = "F/A", frets = "x03211", via = "image" },
+]
+
+"F/C x3321x" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/f", chord = "F/C", frets = "x3321x", fingers = "-RLMI-", via = "browser", note = "diagram label 'Open'" },
+  { by = "fender", url = "https://www.fender.com/play/lessons/f-over-c-1st-position-v1", chord = "F/C 1st Position (v1)", frets = "x3321x", fingers = "-RLMI-", via = "reader", note = "instructor: Nikki Stevens" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/how-to-read-slash-chords-on-guitar/", chord = "F/C", frets = "x3321x", fingers = "-RLMI-" },
+  { by = "acoustic-guitar", url = "https://acousticguitar.com/strengthen-chord-progressions-and-bass-lines-with-slash-chords/", chord = "F/C (Ex. 1)", frets = "x3321x", fingers = "-RLMI-", via = "image" },
+]
+
+"D/C x3x232" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/d-over-c", chord = "D/C", frets = "x3x232", fingers = "-M-IRI", via = "browser", note = "diagram label 'Open'" },
+  { by = "acoustic-guitar", url = "https://acousticguitar.com/strengthen-chord-progressions-and-bass-lines-with-slash-chords/", chord = "D/C (Ex. 2)", frets = "x3x232", fingers = "-M-IRI", via = "image" },
+  { by = "guitar-com", url = "https://guitar.com/lessons/chord-clinic-part-4/", chord = "D/C (Fig 5)", frets = "x3x232", fingers = "-M-IRI", via = "image" },
+]
+
+"Dm/A x00231" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/4-d/92-minor", chord = "Dm", frets = "x00231", fingers = "---MLI", note = "caption: This \"open\" Dm chord is played with an A bass note." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d/m/textual/", chord = "Dm", frets = "x00231", fingers = "---MRI", note = "Position 1" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Dm/A", frets = "x00231", fingers = "---MRI" },
+  { by = "acoustic-guitar", url = "https://acousticguitar.com/strengthen-chord-progressions-and-bass-lines-with-slash-chords/", chord = "Dm/A (Ex. 6)", frets = "x00231", fingers = "---MLI", via = "image" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/dm-inversions.html", chord = "Dm/A", frets = "x00231", via = "image" },
+]
+
+"Dm/F xx3231" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/dmin", chord = "Dm", frets = "xx3231", fingers = "--RMLI", via = "browser", note = "diagram label 'Fret 1'" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Dm/F", frets = "xx3231", fingers = "--RMLI" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/dm-inversions.html", chord = "Dm/F", frets = "xx3231", via = "image" },
+  { by = "guitar-com", url = "https://guitar.com/lessons/chord-clinic-slash-chords-descending-basslines/", chord = "Dm/F (Fig 2)", frets = "xx3231", fingers = "--RMLI", via = "image" },
+]
+
+"A/C♯ xx(11)9(10)x" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/85-major", chord = "A", frets = "xx(11)9(10)x", fingers = "--RIM-", note = "caption: This A major triad features the third of the chord (C#) in the bass." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a/maj/textual/", chord = "A", frets = "xx(11)9(10)x", fingers = "--RIM-", note = "Position 16" },
+  { by = "fender", url = "https://www.fender.com/play/lessons/a-over-c-sharp-9th-position-v1", chord = "A/C# 9th Position (v1)", frets = "xx(11)9(10)x", fingers = "--RIM-", via = "reader" },
+]
+
+"A/C♯ x47xx5" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/85-major", chord = "A", frets = "x47xx5", fingers = "-IL--M", note = "caption: Another variation of the A Major Chord." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a/maj/textual/", chord = "A", frets = "x47xx5", fingers = "-IL--M", note = "Position 5" },
+]
+
+"A/C♯ x47xxx" = [
+  { by = "fender", url = "https://www.fender.com/play/lessons/a-over-c-sharp-4th-position-v1", chord = "A/C# 4th Position (v1)", frets = "x47xxx", fingers = "-IL---", via = "reader", note = "instructor: Nikki Stevens" },
+]
+
+"A/E 002220" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/a-over-e", chord = "A/E", frets = "002220", fingers = "--MIR-", via = "browser", note = "diagram label 'Open'" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "A/E", frets = "002220", fingers = "--IMR-" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/a-inversions.html", chord = "A/E", frets = "002220", via = "image" },
+]
+
+"A/E 04x250" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/85-major", chord = "A", frets = "04x250", fingers = "-R-IL-", note = "caption: A variation of the A Major Chord." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a/maj/textual/", chord = "A", frets = "04x250", fingers = "-R-IL-", note = "Position 4" },
+]
+
+"A/E 0x2220" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/guitar-lessons/essential-slash-chords-bg-1401", chord = "A/E", frets = "0x2220", fingers = "--MIR-", via = "image", note = "lesson: play an A chord and let the 6th string ring; better to mute the 5th string with the tip of finger 2 (diagram shows the 5th string muted)" },
+]
+
+"A/E x77655" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/85-major", chord = "A", frets = "x77655", fingers = "-RLMII", note = "caption: This A major chord is based on the \"open\" E chord shape.  This version of the fifth fret A major barre chord i" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a/maj/textual/", chord = "A", frets = "x77655", fingers = "-RLMII", note = "Position 17" },
+]
+
+"A/E xx2225" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/a", chord = "A", frets = "xx2225", fingers = "--IIIL", via = "browser", note = "diagram label 'Fret 1'" },
+]
+
+"A/E xx222x" = [
+  { by = "fender", url = "https://www.fender.com/play/lessons/a-open-position-v2", chord = "A Open Position (v2)", frets = "xx222x", fingers = "--IMR-", via = "reader", note = "instructor: Nikki Stevens" },
+]
+
+"A/E xxx9(10)9" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/85-major", chord = "A", frets = "xxx9(10)9", fingers = "---IRM", note = "caption: A variation of the A chord played using the D shape on the 9th fret." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a/maj/textual/", chord = "A", frets = "xxx9(10)9", fingers = "---IRM", note = "Position 8" },
+]
+
+"A/E 0x222x" = [
+  { by = "acoustic-guitar", url = "https://acousticguitar.com/strengthen-chord-progressions-and-bass-lines-with-slash-chords/", chord = "A/E (Ex. 4)", frets = "0x222x", fingers = "--III-", via = "image" },
+]
+
+"A/G 3x222x" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/a-over-g", chord = "A/G", frets = "3x222x", fingers = "M-III-", via = "browser", note = "diagram label 'Open'" },
+  { by = "acoustic-guitar", url = "https://acousticguitar.com/strengthen-chord-progressions-and-bass-lines-with-slash-chords/", chord = "A/G (Ex. 3)", frets = "3x222x", fingers = "M-III-", via = "image" },
+]
+
+"A/G♯ 4x222x" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/a-over-g-sharp", chord = "A/G#", frets = "4x222x", fingers = "R-III-", via = "browser" },
+]
+
+"Am/C x32210" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/92-minor", chord = "Am", frets = "x32210", fingers = "-LMRI-", note = "caption: A variation of the A Minor Chord." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a/m/textual/", chord = "Am", frets = "x32210", fingers = "-LMRI-", note = "Position 5" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Am/C", frets = "x32210", fingers = "-LMRI-" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/am-inversions.html", chord = "Am/C", frets = "x32210", via = "image" },
+]
+
+"Am/C 8x79x8" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/92-minor", chord = "Am", frets = "8x79x8", fingers = "M-IL-R", note = "caption: This Am/C chord is played fingerstyle." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a/m/textual/", chord = "Am", frets = "8x79x8", fingers = "M-IL-R", note = "Position 14" },
+]
+
+"Am/C xx(10)9(10)8" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/amin", chord = "Am", frets = "xx(10)9(10)8", fingers = "--RMLI", via = "browser", note = "diagram label 'Fret 7'" },
+]
+
+"Am/C xxx555" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/92-minor", chord = "Am", frets = "xxx555", fingers = "---III", note = "caption: This is an abbreviated version of an Am barre chord." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a/m/textual/", chord = "Am", frets = "xxx555", fingers = "---III", note = "Position 10" },
+]
+
+"Am/E 002210" = [
+  { by = "acoustic-guitar", url = "https://acousticguitar.com/strengthen-chord-progressions-and-bass-lines-with-slash-chords/", chord = "Am/E (Ex. 6)", frets = "002210", fingers = "--MRI-", via = "image" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/am-inversions.html", chord = "Am/E", frets = "002210", via = "image" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Am/E", frets = "002210", fingers = "--MRI-" },
+]
+
+"Am/E 0xx9(10)8" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/92-minor", chord = "Am", frets = "0xx9(10)8", fingers = "---MRI", note = "caption: This is a unique second inversion voicing for Am." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a/m/textual/", chord = "Am", frets = "0xx9(10)8", fingers = "---MRI", note = "Position 16" },
+]
+
+"Am/E x77555" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/92-minor", chord = "Am", frets = "x77555", fingers = "-RLIII", note = "caption: This is an abbreviated version of the full A minor barre chord." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a/m/textual/", chord = "Am", frets = "x77555", fingers = "-RLIII", note = "Position 8" },
+]
+
+"Am/E 00221x" = [
+  { by = "acoustic-guitar", url = "https://acousticguitar.com/strengthen-chord-progressions-and-bass-lines-with-slash-chords/", chord = "Am/E (Ex. 1)", frets = "00221x", fingers = "--MRI-", via = "image" },
+]
+
+"Am/F♯ 2x2210" = [
+  { by = "guitar-com", url = "https://guitar.com/lessons/chord-clinic-part-4/", chord = "Am/F# (Fig 3)", frets = "2x2210", fingers = "M-RLI-", via = "image" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/guitar-lessons/essential-slash-chords-bg-1401", chord = "Am/F# (image Am:Fs.png)", frets = "2x2210", fingers = "M-RLI-", via = "image" },
+]
+
+"Am/G 302210" = [
+  { by = "fender", url = "https://www.fender.com/play/lessons/am-over-g-open-position-v1", chord = "Am/G Open Position (v1)", frets = "302210", fingers = "L-MRI-", via = "reader", note = "instructor: Matt Lake" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Am/G", frets = "302210", fingers = "L-MRI-" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/slash-chords.html", chord = "Am/G", frets = "302210", via = "image" },
+]
+
+"Am/G 3x2210" = [
+  { by = "fender", url = "https://www.fender.com/play/lessons/am-over-g-open-position-v1", chord = "Am/G Open Position (v1)", frets = "3x2210", fingers = "L-MRI-", via = "reader", note = "the pinky instruction ends 'and mute the A (5th) string'; evidence/major_m_5_slash.json recorded this lesson as 302210, which misses the muted 5th string" },
+  { by = "guitar-com", url = "https://guitar.com/lessons/chord-clinic-part-4/", chord = "Am/G (Fig 3)", frets = "3x2210", fingers = "L-MRI-", via = "image" },
+]
+
+"A♭/C 8x(10)89x" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/66-bmajor", chord = "Ab", frets = "8x(10)89x", fingers = "I-RIM-", note = "caption: This is an Ab major chord played in first inversion." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a-flat/maj/textual/", chord = "Ab", frets = "8x(10)89x", fingers = "I-RIM-", note = "Position 8" },
+]
+
+"A♭/C 8x68xx" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/66-bmajor", chord = "Ab", frets = "8x68xx", fingers = "R-IL--" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a-flat/maj/textual/", chord = "Ab", frets = "8x68xx", fingers = "R-IL--", note = "Position 18" },
+]
+
+"A♭/C x3111x" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/66-bmajor", chord = "Ab", frets = "x3111x", fingers = "-RIII-", note = "caption: This is a movable voicing for a first inversion major chord." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/7-g/31-major", chord = "G#", frets = "x3111x", fingers = "-RIII-", note = "caption: This G# major chord is played in first inversion." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a-flat/maj/textual/", chord = "Ab", frets = "x3111x", fingers = "-RIII-", note = "Position 5" },
+]
+
+"A♭/C x3654x" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/66-bmajor", chord = "Ab", frets = "x3654x", fingers = "-ILRM-", note = "caption: This is an Ab major chord played in first inversion." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a-flat/maj/textual/", chord = "Ab", frets = "x3654x", fingers = "-ILRM-", note = "Position 6" },
+]
+
+"A♭/E♭ xx1114" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/a-flat", chord = "Ab", frets = "xx1114", fingers = "--IIIL", via = "browser", note = "diagram label 'Fret 1'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/g-sharp", chord = "G#", frets = "xx1114", fingers = "--IIIL", via = "browser", note = "diagram label 'Fret 1'" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/66-bmajor", chord = "Ab", frets = "xx1114", fingers = "--IIIL", note = "caption: This is an Ab chord." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a-flat/maj/textual/", chord = "Ab", frets = "xx1114", fingers = "--IIIL", note = "Position 1" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Ab/Eb", frets = "xx1114", fingers = "--IIIL" },
+]
+
+"A♭/E♭ x66544" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/66-bmajor", chord = "Ab", frets = "x66544", fingers = "-RLMII" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a-flat/maj/textual/", chord = "Ab", frets = "x66544", fingers = "-RLMII", note = "Position 17" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Ab/Eb", frets = "x66544", fingers = "-RLMII" },
+]
+
+"A♭/E♭ x6654x" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/66-bmajor", chord = "Ab", frets = "x6654x", fingers = "-RLMI-", note = "caption: This is an Ab/Eb chord." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a-flat/maj/textual/", chord = "Ab", frets = "x6654x", fingers = "-RLMI-", note = "Position 14" },
+]
+
+"A♭/E♭ xx111x" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/66-bmajor", chord = "Ab", frets = "xx111x", fingers = "--III-", note = "caption: This is an Ab major chord played in second inversion." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a-flat/maj/textual/", chord = "Ab", frets = "xx111x", fingers = "--III-", note = "Position 11" },
+]
+
+"A♭m/B xx9897" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/a-flat-m", chord = "Abm", frets = "xx9897", fingers = "--RMLI", via = "browser", note = "diagram label 'Fret 6'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/g-sharp-m", chord = "G#m", frets = "xx9897", fingers = "--RMLI", via = "browser", note = "diagram label 'Fret 6'" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Abm", frets = "xx9897", fingers = "--RMLI" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Abm/B", frets = "xx9897", fingers = "--RMLI" },
+]
+
+"A♭m/E♭ x6644x" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/7-g/38-minor", chord = "G#m", frets = "x6644x", fingers = "-RLII-", note = "caption: This is a G#m barre chord played in second inversion." },
+]
+
+"B/E♭ x6444x" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/2-b/85-major", chord = "B", frets = "x6444x", fingers = "-RIII-", note = "caption: This B major chord is played in first inversion." },
+]
+
+"B/F♯ xx4442" = [
+  { by = "fender", url = "https://www.fender.com/play/lessons/b-2nd-position-v2", chord = "B 2nd Position (v2)", frets = "xx4442", fingers = "--MRLI", via = "reader", note = "instructor: Barrett Wilson" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/2-b/85-major", chord = "B", frets = "xx4442", fingers = "--MRLI", note = "caption: The B major chord is tough for beginners since it requires using all four fingers.  This chord also features a" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "B/F#", frets = "xx4442", fingers = "--MRLI" },
+]
+
+"B/F♯ xx4447" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/b", chord = "B", frets = "xx4447", fingers = "--IIIL", via = "browser", note = "diagram label 'Fret 3'" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/2-b/85-major", chord = "B", frets = "xx4447", fingers = "--IIIL", note = "caption: This voicing for B major is commonly used in blues music." },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "B", frets = "xx4447", fingers = "--IIIL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "B/F#", frets = "xx4447", fingers = "--IIIL" },
+]
+
+"B/F♯ xx444x" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/2-b/85-major", chord = "B", frets = "xx444x", fingers = "--MIR-", note = "caption: This B major chord is played in second inversion." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/2-b/85-major", chord = "B", frets = "xx444x", fingers = "--RRR-", note = "caption: This is a three-string voicing for B major played with a 3rd finger barre." },
+]
+
+"B/F♯ xxx(11)(12)(11)" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/2-b/85-major", chord = "B", frets = "xxx(11)(12)(11)", fingers = "---IRM", note = "caption: This is a high three-string voicing for B major using the open \"D\" shape." },
+]
+
+"Bm/A x0443x" = [
+  { by = "acoustic-guitar", url = "https://acousticguitar.com/strengthen-chord-progressions-and-bass-lines-with-slash-chords/", chord = "Bm/A (Next Level)", frets = "x0443x", fingers = "--RLM-", via = "image" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/slash-chords.html", chord = "Bm/A", frets = "x0443x", via = "image" },
+]
+
+"Bm/A x04432" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/2-b/92-minor", chord = "Bm", frets = "x04432", fingers = "--RLMI", note = "caption: This Bm chord is played with an A note in the bass." },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Bm/A", frets = "x04432", fingers = "--RLMI" },
+]
+
+"Bm/D xx(12)(11)(12)(10)" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/b-m", chord = "Bm", frets = "xx(12)(11)(12)(10)", fingers = "--RMLI", via = "browser", note = "diagram label 'Fret 9'" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/2-b/92-minor", chord = "Bm", frets = "xx(12)(11)(12)(10)", fingers = "--RMLI", note = "caption: This is an alternate version of the B minor chord played in tenth position." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b/m/textual/", chord = "Bm", frets = "xx(12)(11)(12)(10)", fingers = "--RMLI", note = "Position 6" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Bm", frets = "xx(12)(11)(12)(10)", fingers = "--RMLI" },
+]
+
+"Bm/F♯ x99777" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/2-b/92-minor", chord = "Bm", frets = "x99777", fingers = "-RLIII", note = "caption: This is an abbreviation of the full B minor barre chord." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b/m/textual/", chord = "Bm", frets = "x99777", fingers = "-RLIII", note = "Position 8" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Bm/F#", frets = "x99777", fingers = "-RLIII" },
+]
+
+"Bm/F♯ xx4432" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/2-b/92-minor", chord = "Bm", frets = "xx4432", fingers = "--RLMI", note = "caption: This Bm chord shape eliminates the low root note from the  common barre chord shape." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b/m/textual/", chord = "Bm", frets = "xx4432", fingers = "--RLMI", note = "Position 4" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Bm/F#", frets = "xx4432", fingers = "--RLMI" },
+]
+
+"B♭/C x3333x" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/2-b/66-bmajor", chord = "Bb", frets = "x3333x", fingers = "-IIII-", note = "caption: This chord diagram features a Bb major played against a C bass note." },
+]
+
+"B♭/D x5333x" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/2-b/66-bmajor", chord = "Bb", frets = "x5333x", fingers = "-RIII-", note = "caption: This Bb major chord is played in first inversion." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b-flat/maj/textual/", chord = "Bb", frets = "x5333x", fingers = "-RIII-", note = "Position 15" },
+]
+
+"B♭/D x58xxx" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/2-b/66-bmajor", chord = "Bb", frets = "x58xxx", fingers = "-IL---", note = "caption: This two string Bb chord is played on the A and D strings." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b-flat/maj/textual/", chord = "Bb", frets = "x58xxx", fingers = "-IL---", note = "Position 8" },
+]
+
+"B♭/D xx0331" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/2-b/66-bmajor", chord = "Bb", frets = "xx0331", fingers = "---RLI", note = "caption: This Bb chord is played in first inversion." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b-flat/maj/textual/", chord = "Bb", frets = "xx0331", fingers = "---RLI", note = "Position 10" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Bb/D", frets = "xx0331", fingers = "---RLI" },
+]
+
+"B♭/D xxxx36" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/2-b/66-bmajor", chord = "Bb", frets = "xxxx36", fingers = "----IL", note = "caption: This two string Bb chord is played on the B and E strings." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b-flat/maj/textual/", chord = "Bb", frets = "xxxx36", fingers = "----IL", note = "Position 6" },
+]
+
+"B♭/F xx3336" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/a-sharp", chord = "A#", frets = "xx3336", fingers = "--IIIL", via = "browser", note = "diagram label 'Fret 2'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/b-flat", chord = "Bb", frets = "xx3336", fingers = "--IIIL", via = "browser", note = "diagram label 'Fret 2'" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/2-b/66-bmajor", chord = "Bb", frets = "xx3336", fingers = "--IIIL", note = "caption: This Bb chord is played in second inversion." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b-flat/maj/textual/", chord = "Bb", frets = "xx3336", fingers = "--IIIL", note = "Position 16" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Bb/F", frets = "xx3336", fingers = "--IIIL" },
+]
+
+"B♭/F x88766" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/2-b/66-bmajor", chord = "Bb", frets = "x88766", fingers = "-RLMII", note = "caption: The low sixth string is omitted from the Bb barre chord to form Bb/F." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b-flat/maj/textual/", chord = "Bb", frets = "x88766", fingers = "-RLMII", note = "Position 13" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Bb/F", frets = "x88766", fingers = "-RLMII" },
+]
+
+"B♭/F x8x766" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/2-b/66-bmajor", chord = "Bb", frets = "x8x766", fingers = "-R-MII", note = "caption: This Bb chord is played in second inversion." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b-flat/maj/textual/", chord = "Bb", frets = "x8x766", fingers = "-R-MII", note = "Position 12" },
+]
+
+"B♭/F xx333x" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/2-b/66-bmajor", chord = "Bb", frets = "xx333x", fingers = "--III-", note = "caption: This voicing for Bb major is geared towards playing in third position." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b-flat/maj/textual/", chord = "Bb", frets = "xx333x", fingers = "--III-", note = "Position 14" },
+]
+
+"B♭/F xxxx66" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/2-b/66-bmajor", chord = "Bb", frets = "xxxx66", fingers = "----II", note = "caption: This two string Bb chord is played on the B and E strings.; this voicing has no 3rd" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b-flat/maj/textual/", chord = "Bb", frets = "xxxx66", fingers = "----II", note = "Position 7; this voicing has no 3rd" },
+]
+
+"B♭m/C♯ xx(11)(10)(11)9" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/a-sharp-m", chord = "A#m", frets = "xx(11)(10)(11)9", fingers = "--RMLI", via = "browser", note = "diagram label 'Fret 8'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/b-flat-m", chord = "Bbm", frets = "xx(11)(10)(11)9", fingers = "--RMLI", via = "browser", note = "diagram label 'Fret 8'" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Bbm/C#", frets = "xx(11)(10)(11)9", fingers = "--RMLI" },
+]
+
+"B♭m/C♯ xxx666" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/2-b/73-bminor", chord = "Bbm", frets = "xxx666", fingers = "---III", note = "caption: This is a rootless voicing for Bbm." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b-flat/m/textual/", chord = "Bbm", frets = "xxx666", fingers = "---III", note = "Position 7" },
+]
+
+"B♭m/F x886xx" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/2-b/73-bminor", chord = "Bbm", frets = "x886xx", fingers = "-RLI--", note = "caption: This Bbm voicing is played in second inversion." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b-flat/m/textual/", chord = "Bbm", frets = "x886xx", fingers = "-RLI--", note = "Position 8" },
+]
+
+"B♭m/F xx3321" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/2-b/73-bminor", chord = "Bbm", frets = "xx3321", fingers = "--RLMI", note = "caption: This is a B flat minor chord, which is based on the full Bbm barre chord." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b-flat/m/textual/", chord = "Bbm", frets = "xx3321", fingers = "--RLMI", note = "Position 4" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Bbm/F", frets = "xx3321", fingers = "--RLMI" },
+]
+
+"C/B x2x010" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/c-over-b", chord = "C/B", frets = "x2x010", fingers = "-M--I-", via = "browser", note = "diagram label 'Open'" },
+]
+
+"C/D xx0010" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/c", chord = "C/D", frets = "xx0010", fingers = "----I-", via = "browser", note = "diagram label 'Open'" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "C/D", frets = "xx0010", fingers = "----I-" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/slash-chords.html", chord = "C/D", frets = "xx0010", via = "image" },
+]
+
+"C/D xx0553" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/85-major", chord = "C", frets = "xx0553", fingers = "---RLI", note = "caption: This C chord is played with a D bass note." },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "C/D", frets = "xx0553", fingers = "---RLI" },
+]
+
+"C/E xx2010" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/guitar-lessons/essential-slash-chords-bg-1401", chord = "C/E option 2", frets = "xx2010", fingers = "--M-I-", via = "image" },
+  { by = "fender", url = "https://www.fender.com/play/lessons/c-over-e-open-position-v2", chord = "C/E Open Position (v2)", frets = "xx2010", fingers = "--M-I-", via = "reader", note = "instructor: Scott Goldbaum" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "C/E", frets = "xx2010", fingers = "--M-I-" },
+  { by = "guitar-com", url = "https://guitar.com/lessons/chord-clinic-slash-chords-descending-basslines/", chord = "C/E (Fig 2)", frets = "xx2010", fingers = "--M-I-", via = "image" },
+]
+
+"C/E 032xxx" = [
+  { by = "fender", url = "https://www.fender.com/play/lessons/c-over-e-open-position-v1", chord = "C/E Open Position (v1)", frets = "032xxx", fingers = "-RM---", via = "reader", note = "instructor: Scott Goldbaum" },
+]
+
+"C/E 03201x" = [
+  { by = "acoustic-guitar", url = "https://acousticguitar.com/strengthen-chord-progressions-and-bass-lines-with-slash-chords/", chord = "C/E (Ex. 2)", frets = "03201x", fingers = "-RM-I-", via = "image" },
+]
+
+"C/E 0x2010" = [
+  { by = "guitar-com", url = "https://guitar.com/lessons/chord-clinic-part-4/", chord = "C/E (Fig 1)", frets = "0x2010", fingers = "--M-I-", via = "image" },
+]
+
+"C/G 3x2010" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/c-over-g-2v2", chord = "C/G", frets = "3x2010", fingers = "R-M-I-", via = "browser", note = "diagram label 'Open'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/guitar-lessons/essential-slash-chords-bg-1401", chord = "C/G option 2", frets = "3x2010", fingers = "R-M-I-", via = "image" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/85-major", chord = "C", frets = "3x2010", fingers = "R-M-I-", note = "caption: The low root note is omitted from this voicing of C/G." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/maj/textual/", chord = "C", frets = "3x2010", fingers = "R-M-I-", note = "Position 18" },
+  { by = "guitar-com", url = "https://guitar.com/lessons/chord-clinic-part-4/", chord = "C/G (Fig 2)", frets = "3x2010", fingers = "R-M-I-", via = "image" },
+  { by = "guitar-player", url = "https://www.guitarplayer.com/lessons/a-crash-course-in-slash-chords", chord = "C/G (Ex. 6)", frets = "3x2010", fingers = "R-M-I-", via = "image" },
+]
+
+"C/G xx5558" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/c", chord = "C", frets = "xx5558", fingers = "--IIIL", via = "browser", note = "diagram label 'Fret 4'" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/85-major", chord = "C", frets = "xx5558", fingers = "--IIIL", note = "caption: This C/G chord is used in the intro to \"Stairway to Heaven.\"" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/maj/textual/", chord = "C", frets = "xx5558", fingers = "--IIIL", note = "Position 11" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "C", frets = "xx5558", fingers = "--IIIL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "C/G", frets = "xx5558", fingers = "--IIIL" },
+  { by = "fender", url = "https://www.fender.com/play/lessons/c-5th-position-v1", chord = "C 5th Position (v1)", frets = "xx5558", fingers = "--IIIL", via = "reader" },
+]
+
+"C/G xxx010" = [
+  { by = "fender", url = "https://www.fender.com/play/lessons/c-open-position-v2", chord = "C Open Position (v2)", frets = "xxx010", fingers = "----I-", via = "reader", note = "instructor: Scott Goldbaum" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/85-major", chord = "C", frets = "xxx010", fingers = "----I-", note = "caption: Too lazy to play the full \"C\" chord? No problem. This variation is a lot easier to play." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/maj/textual/", chord = "C", frets = "xxx010", fingers = "----I-", note = "Position 5" },
+]
+
+"C/G 3320xx" = [
+  { by = "fender", url = "https://www.fender.com/play/lessons/c-over-g-open-position-v1", chord = "C/G Open Position (v1)", frets = "3320xx", fingers = "RLM---", via = "reader", note = "instructor: Scott Goldbaum" },
+]
+
+"C/G xx555x" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/85-major", chord = "C", frets = "xx555x", fingers = "--III-", note = "caption: This C major triad features the fifth of the chord (G) in the bass." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/maj/textual/", chord = "C", frets = "xx555x", fingers = "--III-", note = "Position 13" },
+]
+
+"C/G 3x201x" = [
+  { by = "acoustic-guitar", url = "https://acousticguitar.com/strengthen-chord-progressions-and-bass-lines-with-slash-chords/", chord = "C/G (Ex. 1)", frets = "3x201x", fingers = "R-M-I-", via = "image" },
+]
+
+"Cm/E♭ (11)(10)(10)xxx" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/92-minor", chord = "Cm", frets = "(11)(10)(10)xxx", fingers = "MII---", note = "caption: This Cm triad is played in first inversion." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/m/textual/", chord = "Cm", frets = "(11)(10)(10)xxx", fingers = "MII---", note = "Position 16" },
+]
+
+"Cm/E♭ x655xx" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/92-minor", chord = "Cm", frets = "x655xx", fingers = "-MII--", note = "caption: This is a Cm triad played in first inversion.  The third of the chord (Eb) is played as the lowest note." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/m/textual/", chord = "Cm", frets = "x655xx", fingers = "-MII--", note = "Position 18" },
+]
+
+"Cm/E♭ xx(13)(12)(13)(11)" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/c-m", chord = "Cm", frets = "xx(13)(12)(13)(11)", fingers = "--RMLI", via = "browser", note = "diagram label 'Fret 10'" },
+]
+
+"Cm/E♭ xx1013" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/c-m", chord = "Cm", frets = "xx1013", fingers = "--I-ML", via = "browser", note = "diagram label 'Open'" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Cm/Eb", frets = "xx1013", fingers = "--I-ML" },
+]
+
+"Cm/E♭ xxx888" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/92-minor", chord = "Cm", frets = "xxx888", fingers = "---III", note = "caption: This is a Cm triad played in first inversion." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/m/textual/", chord = "Cm", frets = "xxx888", fingers = "---III", note = "Position 12" },
+]
+
+"Cm/G x(10)(10)8xx" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/92-minor", chord = "Cm", frets = "x(10)(10)8xx", fingers = "-RLI--", note = "caption: This three string Cm triad is played in second inversion." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/m/textual/", chord = "Cm", frets = "x(10)(10)8xx", fingers = "-RLI--", note = "Position 15" },
+]
+
+"Cm/G xx5543" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/92-minor", chord = "Cm", frets = "xx5543", fingers = "--RLMI", note = "caption: This is an abbreviated version of the C minor barre chord." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/m/textual/", chord = "Cm", frets = "xx5543", fingers = "--RLMI", note = "Position 5" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Cm/G", frets = "xx5543", fingers = "--RLMI" },
+]
+
+"Cm/G xx554x" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/92-minor", chord = "Cm", frets = "xx554x", fingers = "--RLM-", note = "caption: This is a Cm triad played in second inversion. In other words, the fifth of the chord (G) is played as the low" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/m/textual/", chord = "Cm", frets = "xx554x", fingers = "--RLM-", note = "Position 17" },
+]
+
+"C♯/A x0312x" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/4-d/66-bmajor", chord = "Db", frets = "x0312x", fingers = "--RIM-" },
+]
+
+"C♯/A♭ 4x36xx" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/4-d/66-bmajor", chord = "Db", frets = "4x36xx", fingers = "M-IL--" },
+]
+
+"C♯/A♭ xx6669" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/c-sharp", chord = "C#", frets = "xx6669", fingers = "--IIIL", via = "browser", note = "diagram label 'Fret 5'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/d-flat", chord = "Db", frets = "xx6669", fingers = "--IIIL", via = "browser", note = "diagram label 'Fret 5'" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "C#/Ab", frets = "xx6669", fingers = "--IIIL" },
+]
+
+"C♯/A♭ xx666x" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/31-major", chord = "C#", frets = "xx666x", fingers = "--RRR-", note = "caption: This is a three-string voicing for C# major played with a 3rd finger barre." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/4-d/66-bmajor", chord = "Db", frets = "xx666x", fingers = "--RRR-", note = "caption: This is a Db major chord played in second inversion." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/4-d/66-bmajor", chord = "Db", frets = "xx666x", fingers = "--III-", note = "caption: This is a Db major chord played in second inversion." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c-sharp/maj/textual/", chord = "C#", frets = "xx666x", fingers = "--RRR-", note = "Position 4" },
+]
+
+"C♯/A♭ xxx121" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/4-d/66-bmajor", chord = "Db", frets = "xxx121", fingers = "---IRM", note = "caption: This Db chord utilizes a movable chord shape.  The fifth of the chord (Ab) is played as the lowest note." },
+]
+
+"C♯/C 8x666x" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/4-d/66-bmajor", chord = "Db", frets = "8x666x", fingers = "R-III-", note = "caption: This chord diagram shows a Db major triad played against a C bass note." },
+]
+
+"C♯/F x8666x" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/4-d/66-bmajor", chord = "Db", frets = "x8666x", fingers = "-RIII-", note = "caption: This is a common, movable first inversion voicing." },
+]
+
+"C♯/F xx3124" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/4-d/66-bmajor", chord = "Db", frets = "xx3124", fingers = "--RIML", note = "caption: This Db major chord is played in first inversion." },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "C#/F", frets = "xx3124", fingers = "--RIML" },
+]
+
+"C♯/F xxx(10)99" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/4-d/66-bmajor", chord = "Db", frets = "xxx(10)99", fingers = "---MII" },
+]
+
+"C♯m/A♭ x(11)(11)99x" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/38-minor", chord = "C#m", frets = "x(11)(11)99x", fingers = "-RLII-", note = "caption: This abbreviated form of a C#m barre chord is played in second inversion." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c-sharp/m/textual/", chord = "C#m", frets = "x(11)(11)99x", fingers = "-RLII-", note = "Position 5" },
+]
+
+"C♯m/E xx(14)(13)(14)(12)" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/c-sharp-m", chord = "C#m", frets = "xx(14)(13)(14)(12)", fingers = "--RMLI", via = "browser", note = "diagram label 'Fret 11'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/d-flat-m", chord = "Dbm", frets = "xx(14)(13)(14)(12)", fingers = "--RMLI", via = "browser", note = "diagram label 'Fret 11'" },
+]
+
+"C♯m/E xxx999" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/4-d/73-bminor", chord = "Dbm", frets = "xxx999", fingers = "---III", note = "caption: This is a rootless voicing for Dbm." },
+]
+
+"D/A xx777(10)" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/d", chord = "D", frets = "xx777(10)", fingers = "--IIIL", via = "browser", note = "diagram label 'Fret 6'" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/4-d/85-major", chord = "D", frets = "xx777(10)", fingers = "--IIIL", note = "caption: This voicing for D major is commonly used in blues music." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d/maj/textual/", chord = "D", frets = "xx777(10)", fingers = "--IIIL", note = "Position 14" },
+]
+
+"D/A x0423x" = [
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/how-to-read-slash-chords-on-guitar/", chord = "D/A", frets = "x0423x", fingers = "--RIM-", note = "the open 1st string is marked optional '(E)'" },
+  { by = "acoustic-guitar", url = "https://acousticguitar.com/strengthen-chord-progressions-and-bass-lines-with-slash-chords/", chord = "D/A (Ex. 3)", frets = "x0423x", fingers = "--RIM-", via = "image" },
+]
+
+"D/A xx777x" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/4-d/85-major", chord = "D", frets = "xx777x", fingers = "--III-", note = "caption: This D major triad features the fifth of the chord (A) in the bass." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d/maj/textual/", chord = "D", frets = "xx777x", fingers = "--III-", note = "Position 12" },
+  { by = "fender", url = "https://www.fender.com/play/lessons/d-7th-position-v1", chord = "D 7th Position (v1)", frets = "xx777x", fingers = "--III-", via = "reader" },
+]
+
+"D/A x04232" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/4-d/85-major", chord = "D", frets = "x04232", fingers = "--RIMI", note = "caption: A variation of the D major chord." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d/maj/textual/", chord = "D", frets = "x04232", fingers = "--RIMI", note = "Position 7" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "D/A", frets = "x04232", fingers = "--RIMI" },
+]
+
+"D/A xxx232" = [
+  { by = "fender", url = "https://www.fender.com/play/lessons/d-2nd-position-v1", chord = "D 2nd Position (v1)", frets = "xxx232", fingers = "---IRM", via = "reader", note = "instructor: Scott Goldbaum" },
+]
+
+"D/B x2x232" = [
+  { by = "guitar-com", url = "https://guitar.com/lessons/chord-clinic-part-4/", chord = "D/B (Fig 5)", frets = "x2x232", fingers = "-M-IRI", via = "image" },
+  { by = "guitar-com", url = "https://guitar.com/lessons/chord-clinic-slash-chords-descending-basslines/", chord = "D/B (Fig 4)", frets = "x2x232", fingers = "-I-MLR", via = "image" },
+]
+
+"D/C♯ x4x232" = [
+  { by = "acoustic-guitar", url = "https://acousticguitar.com/strengthen-chord-progressions-and-bass-lines-with-slash-chords/", chord = "D/C# (Next Level)", frets = "x4x232", fingers = "-R-IMI", via = "image" },
+  { by = "guitar-com", url = "https://guitar.com/lessons/chord-clinic-slash-chords-descending-basslines/", chord = "D/C# (Fig 4)", frets = "x4x232", fingers = "-R-IMI", via = "image" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/d-over-c-sharp", chord = "D/C#", frets = "x4x232", fingers = "-L-IMI", via = "browser" },
+]
+
+"D/F♯ 2x023x" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/guitar-lessons/essential-slash-chords-bg-1401", chord = "D/F# option 3", frets = "2x023x", fingers = "I--MR-", via = "image", note = "Justin: the D/F# he plays most" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/guitar-lessons/essential-slash-chords-bg-1401", chord = "D/F# option 4", frets = "2x023x", fingers = "M--RL-", via = "image" },
+  { by = "fender", url = "https://www.fender.com/play/lessons/d-over-f-sharp-open-position-v2", chord = "D/F# Open Position (v2)", frets = "2x023x", fingers = "I--MR-", via = "reader", note = "instructor: Nikki Stevens" },
+]
+
+"D/F♯ 20023x" = [
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/how-to-read-slash-chords-on-guitar/", chord = "D/F#", frets = "20023x", fingers = "I--MR-", note = "the open 1st string is marked optional '(E)'" },
+  { by = "acoustic-guitar", url = "https://acousticguitar.com/strengthen-chord-progressions-and-bass-lines-with-slash-chords/", chord = "D/F# (Ex. 4)", frets = "20023x", fingers = "I--ML-", via = "image" },
+]
+
+"D/F♯ xx4232" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/4-d/85-major", chord = "D", frets = "xx4232", fingers = "--RIMI", note = "caption: This D/F# chord is used in the intro to \"Stairway to Heaven.\"" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d/maj/textual/", chord = "D", frets = "xx4232", fingers = "--RIMI", note = "Position 11" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "D/F#", frets = "xx4232", fingers = "--RIMI" },
+  { by = "guitar-com", url = "https://guitar.com/lessons/chord-clinic-slash-chords-descending-basslines/", chord = "D/F# (Fig 6)", frets = "xx4232", fingers = "--RIMI", via = "image" },
+]
+
+"D/F♯ 25xxxx" = [
+  { by = "fender", url = "https://www.fender.com/play/lessons/d-over-f-sharp-2nd-position-v6", chord = "D/F# 2nd Position (v6)", frets = "25xxxx", fingers = "IL----", via = "reader" },
+]
+
+"D/F♯ x9(12)xxx" = [
+  { by = "fender", url = "https://www.fender.com/play/lessons/d-over-f-sharp-9th-position-v1", chord = "D/F# 9th Position (v1)", frets = "x9(12)xxx", fingers = "-IL---", via = "reader" },
+]
+
+"Dm/A x03x3x" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/4-d/92-minor", chord = "Dm", frets = "x03x3x", fingers = "--M-R-", note = "caption: This Dm chord is played in second inversion." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d/m/textual/", chord = "Dm", frets = "x03x3x", fingers = "--M-R-", note = "Position 16" },
+]
+
+"Dm/A xx7765" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/4-d/92-minor", chord = "Dm", frets = "xx7765", fingers = "--RLMI", note = "caption: This is an abbreviated version of the full D minor barre chord." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d/m/textual/", chord = "Dm", frets = "xx7765", fingers = "--RLMI", note = "Position 7" },
+]
+
+"Dm/A xx776x" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/4-d/92-minor", chord = "Dm", frets = "xx776x", fingers = "--RLM-", note = "caption: This Dm chord is played in second inversion." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d/m/textual/", chord = "Dm", frets = "xx776x", fingers = "--RLM-", note = "Position 9" },
+]
+
+"Dm/B x2x231" = [
+  { by = "guitar-com", url = "https://guitar.com/lessons/chord-clinic-part-4/", chord = "Dm/B (Fig 4)", frets = "x2x231", fingers = "-M-RLI", via = "image" },
+]
+
+"Dm/C x3x231" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/dmin", chord = "Dm/C", frets = "x3x231", fingers = "-R-MLI", via = "browser", note = "diagram label 'Open'" },
+  { by = "guitar-com", url = "https://guitar.com/lessons/chord-clinic-part-4/", chord = "Dm/C (Fig 4)", frets = "x3x231", fingers = "-R-MLI", via = "image" },
+]
+
+"Dm/F 1x023x" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/4-d/92-minor", chord = "Dm", frets = "1x023x", fingers = "I--ML-", note = "caption: This Dm chord is played in first inversion." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d/m/textual/", chord = "Dm", frets = "1x023x", fingers = "I--ML-", note = "Position 8" },
+]
+
+"E/A♭ 422100" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/85-major", chord = "E", frets = "422100", fingers = "LMRI--", note = "caption: This E major chord is played in first inversion." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e/maj/textual/", chord = "E", frets = "422100", fingers = "LMRI--", note = "Position 20" },
+]
+
+"E/A♭ 476454" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/85-major", chord = "E", frets = "476454", fingers = "ILRIMI", note = "caption: This is an E major barre chord played with the C shape at the 4th fret.  Use this E barre chord chart, tablatu" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e/maj/textual/", chord = "E", frets = "476454", fingers = "ILRIMI", note = "Position 4" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "E/Ab", frets = "476454", fingers = "ILRIMI" },
+]
+
+"E/A♭ 47xxxx" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/85-major", chord = "E", frets = "47xxxx", fingers = "IL----", note = "caption: The fifth is omitted from this inverted E major chord." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e/maj/textual/", chord = "E", frets = "47xxxx", fingers = "IL----", note = "Position 21" },
+]
+
+"E/A♭ xxx(13)(12)(12)" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/85-major", chord = "E", frets = "xxx(13)(12)(12)", fingers = "---MII", note = "caption: This is a partial voicing of the E shape barre chord." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e/maj/textual/", chord = "E", frets = "xxx(13)(12)(12)", fingers = "---MII", note = "Position 19" },
+]
+
+"E/B xx999(12)" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/e", chord = "E", frets = "xx999(12)", fingers = "--IIIL", via = "browser", note = "diagram label 'Fret 8'" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/85-major", chord = "E", frets = "xx999(12)", fingers = "--IIIL", note = "caption: This voicing for E major is commonly used in blues music." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e/maj/textual/", chord = "E", frets = "xx999(12)", fingers = "--IIIL", note = "Position 13" },
+]
+
+"E/B x22100" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/85-major", chord = "E", frets = "x22100", fingers = "-MRI--", note = "caption: The sixth string is omitted from this voicing of E major." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e/maj/textual/", chord = "E", frets = "x22100", fingers = "-MRI--", note = "Position 17" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "E/B", frets = "x22100", fingers = "-MRI--" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/e-inversions.html", chord = "E/B", frets = "x22100", via = "image" },
+]
+
+"E/B xx999x" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/85-major", chord = "E", frets = "xx999x", fingers = "--III-", note = "caption: This E major triad features the fifth of the chord (B) in the bass." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e/maj/textual/", chord = "E", frets = "xx999x", fingers = "--III-", note = "Position 11" },
+  { by = "fender", url = "https://www.fender.com/play/lessons/e-9th-position-v1", chord = "E 9th Position (v1)", frets = "xx999x", fingers = "--III-", via = "reader" },
+]
+
+"E/B xxx454" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/85-major", chord = "E", frets = "xxx454", fingers = "---IRM", note = "caption: This version of the E chord is played using the D shape at the 4th fret." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e/maj/textual/", chord = "E", frets = "xxx454", fingers = "---IRM", note = "Position 5" },
+]
+
+"E/D xx0100" = [
+  { by = "acoustic-guitar", url = "https://acousticguitar.com/strengthen-chord-progressions-and-bass-lines-with-slash-chords/", chord = "E/D (Ex. 4)", frets = "xx0100", fingers = "---I--", via = "image" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "E/D", frets = "xx0100", fingers = "---I--" },
+]
+
+"E/G♯ 422100" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e/maj/textual/", chord = "E", frets = "422100", fingers = "LMRI--", note = "Position 20" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/e-inversions.html", chord = "E/G#", frets = "422100", via = "image" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/85-major", chord = "E", frets = "422100", fingers = "LMRI--", note = "caption: This E major chord is played in first inversion." },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/E-G_-guitar-chord,871.html", chord = "E/G# (4,2,2,1,0,0)", frets = "422100", note = "no fingering on the page; same frets as the JamPlay/fachords E chart, so counted with cluster JP" },
+]
+
+"E/G♯ 476454" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e/maj/textual/", chord = "E", frets = "476454", fingers = "ILRIMI", note = "Position 4" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/85-major", chord = "E", frets = "476454", fingers = "ILRIMI", note = "caption: This is an E major barre chord played with the C shape at the 4th fret.  Use this E barre chord chart, tablatu" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "E/Ab", frets = "476454", fingers = "ILRIMI" },
+]
+
+"E/G♯ 47xxxx" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e/maj/textual/", chord = "E", frets = "47xxxx", fingers = "IL----", note = "Position 21" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/85-major", chord = "E", frets = "47xxxx", fingers = "IL----", note = "caption: The fifth is omitted from this inverted E major chord." },
+]
+
+"E/G♯ xxx(13)(12)(12)" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e/maj/textual/", chord = "E", frets = "xxx(13)(12)(12)", fingers = "---MII", note = "Position 19" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/85-major", chord = "E", frets = "xxx(13)(12)(12)", fingers = "---MII", note = "caption: This is a partial voicing of the E shape barre chord." },
+]
+
+"Em/B x22000" = [
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/em-inversions.html", chord = "Em/B", frets = "x22000", via = "image" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/slash-chords.html", chord = "Em/B", frets = "x22000", via = "image" },
+  { by = "guitar-com", url = "https://guitar.com/lessons/chord-clinic-slash-chords-descending-basslines/", chord = "Em/B (Fig 1)", frets = "x22000", fingers = "-IM---", via = "image" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Em/B", frets = "x22000", fingers = "-IM---" },
+]
+
+"Em/B 779987" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/92-minor", chord = "Em", frets = "779987", fingers = "IIRLMI", note = "caption: This Em/B chord is based on the visual shape of the \"open\" Am chord." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e/m/textual/", chord = "Em", frets = "779987", fingers = "IIRLMI", note = "Position 19" },
+]
+
+"Em/B x2545x" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/92-minor", chord = "Em", frets = "x2545x", fingers = "-IRML-", note = "caption: This voicing for Em is played with the fifth of the chord, B, in the bass." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e/m/textual/", chord = "Em", frets = "x2545x", fingers = "-IRML-", note = "Position 10" },
+]
+
+"Em/B xx9987" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/92-minor", chord = "Em", frets = "xx9987", fingers = "--RLMI", note = "caption: This is an abbreviated version of the full E minor barre chord." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e/m/textual/", chord = "Em", frets = "xx9987", fingers = "--RLMI", note = "Position 11" },
+]
+
+"Em/B x2200x" = [
+  { by = "acoustic-guitar", url = "https://acousticguitar.com/strengthen-chord-progressions-and-bass-lines-with-slash-chords/", chord = "Em/B (Ex. 1)", frets = "x2200x", fingers = "-MR---", via = "image" },
+]
+
+"Em/D xx0987" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/92-minor", chord = "Em", frets = "xx0987", fingers = "---RMI", note = "caption: This Em chord is played with a D bass note." },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Em/D", frets = "xx0987", fingers = "---RMI" },
+]
+
+"Em/G xx5453" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/emin", chord = "Em", frets = "xx5453", fingers = "--RMLI", via = "browser", note = "diagram label 'Fret 2'" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/92-minor", chord = "Em", frets = "xx5453", fingers = "--RMLI", note = "caption: This is an alternate version of the E minor chord.  This version of the E minor is often used to facilitate th" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e/m/textual/", chord = "Em", frets = "xx5453", fingers = "--RMLI", note = "Position 4" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Em/G", frets = "xx5453", fingers = "--RMLI" },
+]
+
+"Em/G 322000" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/92-minor", chord = "Em", frets = "322000", fingers = "LMR---", note = "caption: This \"open\" Em chord is played in first inversion." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e/m/textual/", chord = "Em", frets = "322000", fingers = "LMR---", note = "Position 18" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Em/G", frets = "322000", fingers = "RIM---" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/em-inversions.html", chord = "Em/G", frets = "322000", via = "image" },
+]
+
+"Em/G xxx000" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/92-minor", chord = "Em", frets = "xxx000", fingers = "------", note = "caption: This is an easy version of the \"open\" Em chord." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e/m/textual/", chord = "Em", frets = "xxx000", fingers = "------", note = "Position 15" },
+  { by = "fender", url = "https://www.fender.com/play/lessons/em-open-position-v5", chord = "Em Open Position (v5)", frets = "xxx000", fingers = "------", via = "reader" },
+]
+
+"Em/G xx5450" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/92-minor", chord = "Em", frets = "xx5450", fingers = "--MIR-", note = "caption: This Em triad is played in first inversion." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e/m/textual/", chord = "Em", frets = "xx5450", fingers = "--MIR-", note = "Position 16" },
+]
+
+"E♭/B♭ 66888x" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/66-bmajor", chord = "Eb", frets = "66888x", fingers = "IIRRR-", note = "caption: This Eb chord is played in second inversion." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e-flat/maj/textual/", chord = "Eb", frets = "66888x", fingers = "IIRRR-", note = "Position 12" },
+]
+
+"E♭/B♭ 6x888x" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/66-bmajor", chord = "Eb", frets = "6x888x", fingers = "I-RRR-", note = "caption: This Eb voicing features the 5th (Bb) in the bass." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e-flat/maj/textual/", chord = "Eb", frets = "6x888x", fingers = "I-RRR-", note = "Position 7" },
+]
+
+"E♭/B♭ x1134x" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/66-bmajor", chord = "Eb", frets = "x1134x", fingers = "-IIRL-", note = "caption: This voicing of Eb major features the 5th (Bb) in the bass; this voicing has no 3rd" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e-flat/maj/textual/", chord = "Eb", frets = "x1134x", fingers = "-IIRL-", note = "Position 8; this voicing has no 3rd" },
+]
+
+"E♭/B♭ xx888(11)" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/d-sharp", chord = "D#", frets = "xx888(11)", fingers = "--IIIL", via = "browser", note = "diagram label 'Fret 7'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/e-flat", chord = "Eb", frets = "xx888(11)", fingers = "--IIIL", via = "browser", note = "diagram label 'Fret 7'" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Eb", frets = "xx888(11)", fingers = "--IIIL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Eb/Bb", frets = "xx888(11)", fingers = "--IIIL" },
+]
+
+"E♭/B♭ xx888x" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/66-bmajor", chord = "Eb", frets = "xx888x", fingers = "--III-", note = "caption: This is a three string Eb major triad." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/66-bmajor", chord = "Eb", frets = "xx888x", fingers = "--RRR-", note = "caption: This is an Eb major chord played in second inversion." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e-flat/maj/textual/", chord = "Eb", frets = "xx888x", fingers = "--III-", note = "Position 10" },
+]
+
+"E♭/G x(10)888x" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/66-bmajor", chord = "Eb", frets = "x(10)888x", fingers = "-RIII-", note = "caption: This Eb chord is played in first inversion." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e-flat/maj/textual/", chord = "Eb", frets = "x(10)888x", fingers = "-RIII-", note = "Position 6" },
+]
+
+"E♭/G xx534x" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/66-bmajor", chord = "Eb", frets = "xx534x", fingers = "--RIM-", note = "caption: This is a three string Eb major triad." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e-flat/maj/textual/", chord = "Eb", frets = "xx534x", fingers = "--RIM-", note = "Position 9" },
+]
+
+"E♭/G xx58xx" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/66-bmajor", chord = "Eb", frets = "xx58xx", fingers = "--IL--", note = "caption: The fifth is omitted from this Eb chord." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e-flat/maj/textual/", chord = "Eb", frets = "xx58xx", fingers = "--IL--", note = "Position 13" },
+]
+
+"E♭/G xxx(12)(11)(11)" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/66-bmajor", chord = "Eb", frets = "xxx(12)(11)(11)", fingers = "---MII", note = "caption: This is an Eb major triad." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e-flat/maj/textual/", chord = "Eb", frets = "xxx(12)(11)(11)", fingers = "---MII", note = "Position 14" },
+]
+
+"E♭m/F♯ xx4342" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/d-sharp-m", chord = "D#m", frets = "xx4342", fingers = "--RMLI", via = "browser", note = "diagram label 'Fret 1'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/e-flat-m", chord = "Ebm", frets = "xx4342", fingers = "--RMLI", via = "browser", note = "diagram label 'Fret 1'" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e-flat/m/textual/", chord = "Ebm", frets = "xx4342", fingers = "--RMLI", note = "Position 1" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Ebm", frets = "xx4342", fingers = "--RMLI" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Ebm/F#", frets = "xx4342", fingers = "--RMLI" },
+]
+
+"E♭m/F♯ xx434x" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/73-bminor", chord = "Ebm", frets = "xx434x", fingers = "--MIR-", note = "caption: This is an Ebm chord played in first inversion." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e-flat/m/textual/", chord = "Ebm", frets = "xx434x", fingers = "--MIR-", note = "Position 4" },
+]
+
+"F/A 5x356x" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/6-f/85-major", chord = "F", frets = "5x356x", fingers = "M-IRL-", note = "caption: This F major chord is played in first inversion." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f/maj/textual/", chord = "F", frets = "5x356x", fingers = "M-IRL-", note = "Position 11" },
+]
+
+"F/A x(12)(10)(10)(10)x" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/6-f/85-major", chord = "F", frets = "x(12)(10)(10)(10)x", fingers = "-RIII-", note = "caption: This F major chord is played in first inversion." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f/maj/textual/", chord = "F", frets = "x(12)(10)(10)(10)x", fingers = "-RIII-", note = "Position 13" },
+]
+
+"F/A xx756x" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/6-f/85-major", chord = "F", frets = "xx756x", fingers = "--RIM-", note = "caption: This F major chord is played in first inversion." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f/maj/textual/", chord = "F", frets = "xx756x", fingers = "--RIM-", note = "Position 14" },
+]
+
+"F/A xxx211" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/6-f/85-major", chord = "F", frets = "xxx211", fingers = "---MII", note = "caption: This F is a miniature version of the full F chord which is played using the E shape barre chord.  One JamPlay " },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f/maj/textual/", chord = "F", frets = "xxx211", fingers = "---MII", note = "Position 9" },
+]
+
+"F/A x0321x" = [
+  { by = "acoustic-guitar", url = "https://acousticguitar.com/strengthen-chord-progressions-and-bass-lines-with-slash-chords/", chord = "F/A (Ex. 1)", frets = "x0321x", fingers = "--RMI-", via = "image" },
+]
+
+"F/C x33211" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/f", chord = "F/C", frets = "x33211", fingers = "-RLMII", via = "browser", note = "diagram label 'Fret 1'" },
+  { by = "fender", url = "https://www.fender.com/play/lessons/f-over-c-1st-position-v2", chord = "F/C 1st Position (v2)", frets = "x33211", fingers = "-RLMII", via = "reader", note = "instructor: Nikki Stevens" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/6-f/85-major", chord = "F", frets = "x33211", fingers = "-RLMII", note = "caption: This is the F/C chord.  This means it is the F chord played with a C bass note." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f/maj/textual/", chord = "F", frets = "x33211", fingers = "-RLMII", note = "Position 5" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "F/C", frets = "x33211", fingers = "-RLMII" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/f-inversions.html", chord = "F/C", frets = "x33211", via = "image" },
+]
+
+"F/C xx(10)(10)(10)(13)" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/f", chord = "F", frets = "xx(10)(10)(10)(13)", fingers = "--IIIL", via = "browser", note = "diagram label 'Fret 9'" },
+]
+
+"F/C xxx565" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/6-f/85-major", chord = "F", frets = "xxx565", fingers = "---IRM", note = "caption: This F major chord is based on the open D shape." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f/maj/textual/", chord = "F", frets = "xxx565", fingers = "---IRM", note = "Position 16" },
+]
+
+"F/C xx(10)(10)(10)x" = [
+  { by = "fender", url = "https://www.fender.com/play/lessons/f-10th-position-v1", chord = "F 10th Position (v1)", frets = "xx(10)(10)(10)x", fingers = "--III-", via = "reader" },
+]
+
+"F/G 3x321x" = [
+  { by = "fender", url = "https://www.fender.com/play/lessons/f-over-g-open-position-v1", chord = "F/G Open Position (v1)", frets = "3x321x", fingers = "R-LMI-", via = "reader" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/slash-chords.html", chord = "F/G", frets = "3x321x", note = "listed as text '3X321X' under 'Slash chords sorted by note'" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/how-to-read-slash-chords-on-guitar/", chord = "F / G (image F-G-slash-chord-.webp)", frets = "3x321x", fingers = "R-LMI-", via = "image" },
+]
+
+"Fm/A♭ xx6564" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/f-m", chord = "Fm", frets = "xx6564", fingers = "--RMLI", via = "browser", note = "diagram label 'Fret 3'" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Fm/Ab", frets = "xx6564", fingers = "--RMLI" },
+]
+
+"Fm/C x33111" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/6-f/92-minor", chord = "Fm", frets = "x33111", fingers = "-RLIII", note = "caption: This version of the F minor chord is based on the full, 6 string version.  The 6th string is simply not frette" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f/m/textual/", chord = "Fm", frets = "x33111", fingers = "-RLIII", note = "Position 5" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Fm/C", frets = "x33111", fingers = "-RLIII" },
+]
+
+"Fm/C xxx564" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/6-f/92-minor", chord = "Fm", frets = "xxx564", fingers = "---MRI", note = "caption: This three string Fm triad is played in second inversion." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f/m/textual/", chord = "Fm", frets = "xxx564", fingers = "---MRI", note = "Position 9" },
+]
+
+"F♯/B♭ 644xxx" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/7-g/66-bmajor", chord = "Gb", frets = "644xxx", fingers = "RII---", note = "caption: This is an inverted Gb major triad." },
+]
+
+"F♯/B♭ 69xxxx" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/6-f/31-major", chord = "F#", frets = "69xxxx", fingers = "IL----", note = "caption: This F# major chord is played in first inversion.  The fifth (C#) is omitted from the chord." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f-sharp/maj/textual/", chord = "F#", frets = "69xxxx", fingers = "IL----", note = "Position 11" },
+]
+
+"F♯/B♭ xx867x" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/6-f/31-major", chord = "F#", frets = "xx867x", fingers = "--RIM-", note = "caption: This F# major chord is played in first inversion." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f-sharp/maj/textual/", chord = "F#", frets = "xx867x", fingers = "--RIM-", note = "Position 5" },
+]
+
+"F♯/C 8x(11)(11)(11)x" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/7-g/66-bmajor", chord = "Gb", frets = "8x(11)(11)(11)x", fingers = "I-LLL-", note = "caption: This chord diagram shows a Gb major triad played against a C bass note." },
+]
+
+"F♯/C♯ xx(11)(11)(11)(14)" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/f-sharp", chord = "F#", frets = "xx(11)(11)(11)(14)", fingers = "--IIIL", via = "browser", note = "diagram label 'Fret 10'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/g-flat", chord = "Gb", frets = "xx(11)(11)(11)(14)", fingers = "--IIIL", via = "browser", note = "diagram label 'Fret 10'" },
+]
+
+"F♯/C♯ xx(11)(11)(11)x" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/6-f/31-major", chord = "F#", frets = "xx(11)(11)(11)x", fingers = "--RRR-", note = "caption: This F# major triad is played with a third finger barre and features the fifth of the chord (C#) in the bass." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f-sharp/maj/textual/", chord = "F#", frets = "xx(11)(11)(11)x", fingers = "--RRR-", note = "Position 9" },
+]
+
+"F♯/C♯ xxx676" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/6-f/31-major", chord = "F#", frets = "xxx676", fingers = "---IRM", note = "caption: This is a 3-string voicing of an F# major chord using the D shape" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f-sharp/maj/textual/", chord = "F#", frets = "xxx676", fingers = "---IRM", note = "Position 7" },
+]
+
+"F♯m/A xx7675" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/f-sharp-m", chord = "F#m", frets = "xx7675", fingers = "--RMLI", via = "browser", note = "diagram label 'Fret 4'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/g-flat-m", chord = "Gbm", frets = "xx7675", fingers = "--RMLI", via = "browser", note = "diagram label 'Fret 4'" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "F#m", frets = "xx7675", fingers = "--RMLI" },
+]
+
+"G/A x05433" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/7-g/85-major", chord = "G", frets = "x05433", fingers = "--RMII", note = "caption: This chord is a G/A slash chord.  That means it is a G Major chord with an A bass note." },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "G/A", frets = "x05433", fingers = "--RMII" },
+]
+
+"G/A x054xx" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/7-g/85-major", chord = "G", frets = "x054xx", fingers = "--RM--", note = "caption: This G triad features the note A as a low pedal tone." },
+]
+
+"G/B x20003" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/g-over-b-1v2", chord = "G/B", frets = "x20003", fingers = "-M---L", via = "browser", note = "diagram label 'Open'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/g-over-b-1v2", chord = "G/B", frets = "x20003", fingers = "-I---L", via = "browser", note = "diagram label 'Open'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/guitar-lessons/essential-slash-chords-bg-1401", chord = "G/B option 3", frets = "x20003", fingers = "-M---L", via = "image" },
+  { by = "fender", url = "https://www.fender.com/play/lessons/g-over-b-open-position-v1", chord = "G/B Open Position (v1)", frets = "x20003", fingers = "-I---R", via = "reader", note = "instructor: Johnny Ashby" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/7-g/85-major", chord = "G", frets = "x20003", fingers = "-I---L", note = "caption: This G/B chord is used in the intro to \"Stairway to Heaven.\"" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g/maj/textual/", chord = "G", frets = "x20003", fingers = "-I---L", note = "Position 15" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "G/B", frets = "x20003", fingers = "-I---M" },
+  { by = "fender", url = "https://www.fender.com/play/lessons/g-over-b-open-position-v1", chord = "G/B Open Position (v1) ", frets = "x20003", fingers = "-I---R", via = "reader" },
+  { by = "fender", url = "https://www.fender.com/play/lessons/g-over-b-open-position-v6", chord = "G/B Open Position (v6)", frets = "x20003", fingers = "-I---L", via = "reader" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/g-inversions.html", chord = "G/B", frets = "x20003", via = "image" },
+]
+
+"G/B x2003x" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/guitar-lessons/essential-slash-chords-bg-1401", chord = "G/B option 2", frets = "x2003x", fingers = "-M--L-", via = "image" },
+  { by = "fender", url = "https://www.fender.com/play/lessons/g-over-b-open-position-v2", chord = "G/B Open Position (v2)", frets = "x2003x", fingers = "-I--R-", via = "reader", note = "instructor: Scott Goldbaum" },
+  { by = "acoustic-guitar", url = "https://acousticguitar.com/strengthen-chord-progressions-and-bass-lines-with-slash-chords/", chord = "G/B (Ex. 3)", frets = "x2003x", fingers = "-I--R-", via = "image" },
+]
+
+"G/B x25xxx" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/7-g/85-major", chord = "G", frets = "x25xxx", fingers = "-IL---", note = "caption: This voicing for G/B omits the fifth of the chord." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g/maj/textual/", chord = "G", frets = "x25xxx", fingers = "-IL---", note = "Position 14" },
+  { by = "fender", url = "https://www.fender.com/play/lessons/g-over-b-2nd-position-v2", chord = "G/B 2nd Position (v2) ", frets = "x25xxx", fingers = "-IL---", via = "reader" },
+]
+
+"G/B xx978x" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/7-g/85-major", chord = "G", frets = "xx978x", fingers = "--RIM-", note = "caption: This G major triad features the third of the chord (B) in the bass." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g/maj/textual/", chord = "G", frets = "xx978x", fingers = "--RIM-", note = "Position 17" },
+  { by = "fender", url = "https://www.fender.com/play/lessons/g-over-b-7th-position-v1", chord = "G/B 7th Position (v1)", frets = "xx978x", fingers = "--RIM-", via = "reader" },
+]
+
+"G/B x2000x" = [
+  { by = "fender", url = "https://www.fender.com/play/lessons/g-over-b-open-position-v3", chord = "G/B Open Position (v3)", frets = "x2000x", fingers = "-M----", via = "reader", note = "instructor: Johnny Ashby" },
+  { by = "fender", url = "https://www.fender.com/play/lessons/g-over-b-open-position-v3", chord = "G/B Open Position (v3) ", frets = "x2000x", fingers = "-M----", via = "reader" },
+]
+
+"G/B xx9787" = [
+  { by = "fender", url = "https://www.fender.com/play/lessons/g-7th-position-v1", chord = "G 7th Position (v1) ", frets = "xx9787", fingers = "--RIMI", via = "reader" },
+]
+
+"G/B xxx433" = [
+  { by = "fender", url = "https://www.fender.com/play/lessons/g-3rd-position-v3", chord = "G 3rd Position (v3)", frets = "xxx433", fingers = "---MII", via = "reader" },
+]
+
+"G/D xx(12)(12)(12)(15)" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/g", chord = "G", frets = "xx(12)(12)(12)(15)", fingers = "--IIIL", via = "browser", note = "diagram label 'Fret 11'" },
+]
+
+"G/D xxx787" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/7-g/85-major", chord = "G", frets = "xxx787", fingers = "---IMI", note = "caption: This version of a G chord utilizes the shape of an open D chord." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g/maj/textual/", chord = "G", frets = "xxx787", fingers = "---IMI", note = "Position 6" },
+]
+
+"G/D x5543x" = [
+  { by = "fender", url = "https://www.fender.com/play/lessons/g-over-d-3rd-position-v1", chord = "G/D 3rd Position (v1)", frets = "x5543x", fingers = "-RLMI-", via = "reader" },
+]
+
+"G/D xx000x" = [
+  { by = "acoustic-guitar", url = "https://acousticguitar.com/strengthen-chord-progressions-and-bass-lines-with-slash-chords/", chord = "G/D (Ex. 2)", frets = "xx000x", fingers = "------", via = "image" },
+]
+
+"G/F 1x0003" = [
+  { by = "acoustic-guitar", url = "https://acousticguitar.com/strengthen-chord-progressions-and-bass-lines-with-slash-chords/", chord = "G/F (Ex. 1)", frets = "1x0003", fingers = "I----L", via = "image" },
+]
+
+"G/F♯ 2x0033" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/g-over-fsharp", chord = "G/F#", frets = "2x0033", fingers = "I---RL", via = "browser", note = "diagram label 'Open'; this voicing has no 3rd" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/guitar-lessons/essential-slash-chords-bg-1401", chord = "G/F#", frets = "2x0033", fingers = "M---RL", via = "image", note = "this voicing has no 3rd" },
+  { by = "fender", url = "https://www.fender.com/play/lessons/g-over-f-sharp-open-position-v1", chord = "G/F# Open Position (v1)", frets = "2x0033", fingers = "I---RL", via = "reader", note = "instructor: Barrett Wilson; this voicing has no 3rd" },
+]
+
+"G/F♯ 220003" = [
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/slash-chords.html", chord = "G/F#", frets = "220003", via = "image" },
+  { by = "guitar-com", url = "https://guitar.com/lessons/chord-clinic-slash-chords-descending-basslines/", chord = "G/F# (Fig 5)", frets = "220003", fingers = "IM---L", via = "image" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "G/F#", frets = "220003", fingers = "IM---R" },
+]
+
+"G/F♯ 2x0003" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/7-g/85-major", chord = "G", frets = "2x0003", fingers = "I----L", note = "caption: This is the open G chord with F# in the bass." },
+]
+
+"G/F♯ 2x000x" = [
+  { by = "acoustic-guitar", url = "https://acousticguitar.com/strengthen-chord-progressions-and-bass-lines-with-slash-chords/", chord = "G/F# (Next Level)", frets = "2x000x", fingers = "I-----", via = "image" },
+]
+
+"G/F♯ xx4003" = [
+  { by = "guitar-com", url = "https://guitar.com/lessons/chord-clinic-slash-chords-descending-basslines/", chord = "G/F# (Fig 6)", frets = "xx4003", fingers = "--M--I", via = "image" },
+]
+
+"Gm/B♭ xx8786" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/g-m", chord = "Gm", frets = "xx8786", fingers = "--RMLI", via = "browser", note = "diagram label 'Fret 5'" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Gm/Bb", frets = "xx8786", fingers = "--RMLI" },
+]
+
+"Gm/B♭ xx878x" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/7-g/92-minor", chord = "Gm", frets = "xx878x", fingers = "--MIR-", note = "caption: This is a Gm triad played in first inversion." },
+]
+
+"Gm/D x55333" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/7-g/92-minor", chord = "Gm", frets = "x55333", fingers = "-RLIII", note = "caption: This is a G minor chord played in second inversion." },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Gm/D", frets = "x55333", fingers = "-RLIII" },
+]
+
+"Gm/D x5x333" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/7-g/92-minor", chord = "Gm", frets = "x5x333", fingers = "-R-III", note = "caption: This Gm chord is played with a D bass note." },
+]
+
+"Gm/D xx(12)(12)(11)(10)" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/7-g/92-minor", chord = "Gm", frets = "xx(12)(12)(11)(10)", fingers = "--RLMI", note = "caption: This is an abbreviated version of the full G minor barre chord." },
+]
+
+"Gm/D xx(12)(12)(11)x" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/7-g/92-minor", chord = "Gm", frets = "xx(12)(12)(11)x", fingers = "--MRI-", note = "caption: This is a Gm triad played in second inversion." },
+]

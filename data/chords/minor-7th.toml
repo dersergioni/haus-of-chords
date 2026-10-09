@@ -1,0 +1,49 @@
+# Minor 7th chords (Cm7). The format is described in data/README.md; the sources are in data/evidence/minor-7th.toml.
+symbol   = "m7"
+name     = "minor 7th"
+formula  = "1 ♭3 5 ♭7"
+optional = ["5"]
+about    = "minor + minor 7th"
+
+voicings = [
+  # movable shapes are written with the root on C; the book shows the open voicings of a root in this order
+  { chord = "Dm7",  strings = "x x 0 2M 1I 1I" },
+  { chord = "Em7",  strings = "0 2M 0 0 0 0" },
+  { chord = "Em7",  strings = "0 2I 2M 0 3R 3L", pin = "Wonderwall: the ring and little fingers stay on the 3rd fret through the song" },
+  { chord = "Em7",  strings = "0 2I 2M 0 3R 0" },
+  { chord = "Am7",  strings = "x 0 2M 0 1I 0" },
+  { chord = "Am7",  strings = "x 0 2M 2R 1I 3L" },
+  { chord = "Bm7",  strings = "x 2M 0 2R 0 2L" },
+  { chord = "Bm7",  strings = "x 2M 0 2R 3L x" },
+  { chord = "Cm7",  strings = "8I 10R 8I 8I 8I 8I" },
+  { chord = "Cm7",  strings = "x 3I 5R 3I 4M 3I" },
+  { chord = "Cm7",  strings = "x x 10I 12R 11M 11M" },
+  { chord = "Em7",  strings = "x x 2M 0 3R 3L" },
+  { chord = "Cm7",  strings = "8I x 8M 8R 8L x" },
+  { chord = "Em7",  strings = "0 2M 0 0 3L 0" },
+  { chord = "Cm7",  strings = "8I 10R 8I 8I 11L 8I" },
+  { chord = "Cm7",  strings = "8I x 8I 8I x x" },
+  { chord = "Cm7",  strings = "x 3M 1I 3R 4L x" },
+  { chord = "Cm7",  strings = "x 3M 1I 3R x x" },
+  { chord = "Cm7",  strings = "x 3I 5R 3I 4M x" },
+  { chord = "Am7",  strings = "x 0 2M 0 1I 3L" },
+  { chord = "Em7",  strings = "0 2I 0 0 3R 3L" },
+  { chord = "Cm7",  strings = "8I 10R 8I 8I 8I 11L" },
+  { chord = "Cm7",  strings = "8M x 8R 8R 8R 8R" },
+  { chord = "Cm7",  strings = "x 3R 1I 3L 1I x" },
+  { chord = "Cm7",  strings = "x 3I 5R 3I 4M 6L" },
+  { chord = "Cm7",  strings = "x 3I x 3M 4L 3R" },
+  { chord = "A♭m7", strings = "4M 2I 4R 4L 0 x" },
+  { chord = "Cm7",  strings = "8I 10R 8I 8I 8I x" },
+  { chord = "Cm7",  strings = "8I x 8I 8I 11L x" },
+  { chord = "Cm7",  strings = "8I 10M 10R 8I 11L 8I" },
+  { chord = "Cm7",  strings = "8M x x 8R 8L 6I" },
+  { chord = "Cm7",  strings = "x 3I x x 4M 6L" },
+  { chord = "Am7",  strings = "x 0 2M 0 1I x" },
+  { chord = "Am7",  strings = "x 0 x 0 1I x" },
+  { chord = "Bm7",  strings = "x 2M 0 2R 0 x" },
+  { chord = "Cm7",  strings = "x 3M x 3R 4L x" },
+  { chord = "Cm7",  strings = "x 3I x 3I 4M 6L" },
+  { chord = "C♯m7", strings = "x 4R x x 0 0" },
+  { chord = "Em7",  strings = "x x 2M 0 3L 0" },
+]

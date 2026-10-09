@@ -1,0 +1,29 @@
+# Power chord chords (C5). The format is described in data/README.md; the sources are in data/evidence/power-chord.toml.
+symbol   = "5"
+name     = "power chord"
+formula  = "1 5"
+optional = []
+about    = "no 3rd"
+
+voicings = [
+  # movable shapes are written with the root on C; the book shows the open voicings of a root in this order
+  { chord = "D5", strings = "x x 0 2I 3R x" },
+  { chord = "E5", strings = "0 2I 2I x x x" },
+  { chord = "A5", strings = "x 0 2I 2I x x" },
+  { chord = "C5", strings = "8I 10R 10L x x x" },
+  { chord = "C5", strings = "x 3I 5R 5L x x" },
+  { chord = "C5", strings = "x x 10I 12R 13L x" },
+  { chord = "C5", strings = "x 3I 5R x x x" },
+  { chord = "C5", strings = "8I 10L x x x x" },
+  { chord = "E5", strings = "0 2I x x x x" },
+  { chord = "D5", strings = "x x 0 2I x x" },
+  { chord = "E5", strings = "0 2M 2R x 0 0" },
+  { chord = "A5", strings = "x 0 2I x x x" },
+  { chord = "C5", strings = "x x 10I 12R x x" },
+  { chord = "G5", strings = "3M x 0 0 3R 3L" },
+  { chord = "G5", strings = "3M x 0 0 3R x" },
+  { chord = "G5", strings = "3M x 0 0 x x" },
+  { chord = "C5", strings = "8L x 5I 5I x x" },
+  { chord = "B5", strings = "x 2I 4R 4L 0 x" },
+  { chord = "C5", strings = "x 15L x 12I 13M x" },
+]

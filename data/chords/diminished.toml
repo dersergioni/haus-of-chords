@@ -1,0 +1,21 @@
+# Diminished triad (°) chords (Cdim). The format is described in data/README.md; the sources are in data/evidence/diminished.toml.
+symbol   = "dim"
+name     = "diminished"
+also     = "°"
+formula  = "1 ♭3 ♭5"
+optional = []
+about    = "minor 3rd + ♭5"
+
+voicings = [
+  # movable shapes are written with the root on C; the book shows the open voicings of a root in this order
+  { chord = "Cdim", strings = "8M x x 8R 7I x" },
+  { chord = "Cdim", strings = "x x 10L 8M 7I x" },
+  { chord = "Cdim", strings = "x 3I 4M 5L 4R x" },
+  { chord = "Cdim", strings = "8I 9M 10R 8I x x" },
+  { chord = "Cdim", strings = "x 3I 4R x 4L x" },
+  { chord = "Cdim", strings = "x x 10I 11R x 11L" },
+  { chord = "Edim", strings = "0 1I 2R 0 x 0" },
+  { chord = "Cdim", strings = "8M x 10L 8R 7I x" },
+  { chord = "Cdim", strings = "x x 10I 11M 13L 11R" },
+  { chord = "Cdim", strings = "x x 10L 8R 7I 8M" },
+]

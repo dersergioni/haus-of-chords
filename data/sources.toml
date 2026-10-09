@@ -1,0 +1,120 @@
+# Every publisher cited in data/evidence/*.toml, keyed by the id used in `by = "..."`.
+# counts_as: publishers that copy one another, or share a publisher, count as one independent source.
+# confirms = false: cited, but never counted as confirmation (chords-db and the sites that copy it).
+
+[8notes]
+name = "8notes"
+site = "https://8notes.com/"
+counts_as = "chords-db"
+note = "copies most of its diagrams from chords-db"
+
+[akordy]
+name = "akordy.kytary.cz"
+site = "https://akordy.kytary.cz/"
+counts_as = "chords-db"
+note = "reproduces chords-db"
+
+[chordbank]
+name = "ChordBank"
+site = "https://chordbank.com/"
+
+[chords-db]
+name = "chords-db"
+site = "https://github.com/tombatossals/chords-db"
+confirms = false
+
+[dummies]
+name = "Guitar For Dummies"
+site = "https://dummies.com/"
+
+[fachords]
+name = "fachords"
+site = "https://fachords.com/"
+counts_as = "jamplay"
+note = "copies JamPlay’s charts"
+
+[fender]
+name = "Fender"
+site = "https://fender.com/"
+
+[guitar-chord-org]
+name = "guitar-chord.org"
+site = "https://guitar-chord.org/"
+
+[guitar-chords-org-uk]
+name = "guitar-chords.org.uk"
+site = "https://guitar-chords.org.uk/"
+
+[guitar-com]
+name = "guitar.com"
+site = "https://guitar.com/"
+
+[guitar-command]
+name = "Guitar Command"
+site = "https://guitarcommand.com/"
+
+[guitar-player]
+name = "Guitar Player"
+site = "https://guitarplayer.com/"
+counts_as = "guitar-world"
+note = "Future plc"
+
+[guitar-tricks]
+name = "Guitar Tricks"
+site = "https://guitartricks.com/"
+
+[guitar-world]
+name = "Guitar World"
+site = "https://guitarworld.com/"
+note = "Future plc"
+
+[jamplay]
+name = "JamPlay chord library"
+site = "https://jamplay.com/"
+
+[jazz-guitar-licks]
+name = "jazz-guitar-licks.com"
+site = "https://jazz-guitar-licks.com/"
+
+[jg-music-lessons]
+name = "JG Music Lessons"
+site = "https://jgmusiclessons.com/"
+
+[justinguitar]
+name = "JustinGuitar"
+site = "https://justinguitar.com/"
+
+[mike-tyka]
+name = "Mike Tyka, chord-shape tables"
+site = "https://miketyka.com/"
+
+[musicradar]
+name = "MusicRadar / Total Guitar"
+site = "https://musicradar.com/"
+counts_as = "guitar-world"
+note = "Future plc"
+
+[onlineguitarbooks]
+name = "onlineguitarbooks.com"
+site = "https://onlineguitarbooks.com/"
+
+[tabs4acoustic]
+name = "tabs4acoustic"
+site = "https://tabs4acoustic.com/"
+copies = "jamplay"             # reuses JamPlay's charts: where its chart of a voicing is the same, it counts as JamPlay
+
+[wikipedia]
+name = "Wikipedia"
+site = "https://wikipedia.org/"
+
+[acoustic-guitar]
+name = "Acoustic Guitar magazine"
+site = "https://acousticguitar.com/"
+
+[jazzguitar-be]
+name = "jazzguitar.be"
+site = "https://www.jazzguitar.be/"
+
+[lauren-bateman]
+name = "Lauren Bateman"
+site = "https://www.laurenbateman.com/"

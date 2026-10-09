@@ -1,0 +1,27 @@
+# Dominant 9th chords (C9). The format is described in data/README.md; the sources are in data/evidence/dominant-9th.toml.
+symbol   = "9"
+name     = "dominant 9th"
+formula  = "1 3 5 ♭7 9"
+optional = ["5"]
+about    = "7th chord + 9"
+
+voicings = [
+  # movable shapes are written with the root on C; the book shows the open voicings of a root in this order
+  { chord = "C9",  strings = "x 3M 2I 3R 3L 0", skip = "x32333 (six sources) is the same shape in the same place" },
+  { chord = "A9",  strings = "x 0 2I 4R 2I 3M" },
+  { chord = "B♭9", strings = "x 1M 0 1R 1L x" },
+  { chord = "C9",  strings = "x 3M 2I 3R 3R 3R" },
+  { chord = "C9",  strings = "x x 10M 9I 11L 10R" },
+  { chord = "C9",  strings = "8I 10R 8I 9M 8I 10L" },
+  { chord = "C9",  strings = "x 3M 2I 3R 3L x" },
+  { chord = "C9",  strings = "8M 7I 8R 7I 8L x" },
+  { chord = "E9",  strings = "0 2M 0 1I 0 2R" },
+  { chord = "E9",  strings = "0 2M 0 1I 3L 2R" },
+  { chord = "F9",  strings = "1I 0 1M 0 1R 1L" },
+  { chord = "G9",  strings = "3R x 0 2M 0 1I" },
+  { chord = "C9",  strings = "8M 7I 8R 7I x x" },
+  { chord = "C9",  strings = "8L x 5I 7R 5I 6M" },
+  { chord = "C9",  strings = "8I x 8I 9M 8I 10L" },
+  { chord = "C9",  strings = "8I x 8M 9R x 10L" },
+  { chord = "B♭9", strings = "x 1M 0 1R 1R 1R" },
+]

@@ -1,0 +1,30 @@
+# The book: its title and edition, and the order of its pages. The format is described in data/README.md.
+title    = "Haus of Chords"
+subtitle = "A guitar chord reference"
+version  = "1.0"
+date     = "October 2026"
+author   = "dersergioni"
+github   = "https://github.com/dersergioni/haus-of-chords"   # the book and the site link to it for corrections
+site     = "https://dersergioni.github.io/haus-of-chords/"   # the published website (its address in shared links and the sitemap)
+
+# Every root gets one page per [[page]], with these chord types (data/chords/<name>.toml) in this order.
+
+[[page]]
+title = "Basic chords"
+short = "Basic chords"
+types = ["major", "minor", "suspended-2nd", "suspended-4th", "power-chord"]
+
+[[page]]
+title = "Seventh chords"
+short = "Seventh chords"
+types = ["dominant-7th", "major-7th", "minor-7th", "minor-major-7th", "half-diminished", "diminished-7th", "augmented-7th", "7th-suspended-4th"]
+
+[[page]]
+title = "Sixths and ninths"
+short = "Sixths and ninths"
+types = ["major-6th", "minor-6th", "six-nine", "added-9th", "dominant-9th", "major-9th", "minor-9th"]
+
+[[page]]
+title = "Colour chords"
+short = "Colour chords"
+types = ["dominant-13th", "dominant-7-flat-9", "dominant-7-sharp-9", "minor-11th", "diminished", "augmented", "9th-suspended-4th"]

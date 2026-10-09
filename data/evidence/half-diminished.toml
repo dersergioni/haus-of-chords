@@ -1,0 +1,210 @@
+# Where each voicing of data/chords/half-diminished.toml is published, keyed by its frets from the 6th string to the 1st.
+# The format is described in data/README.md.
+
+"xx0111" = [
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Dm7-b5-guitar-chord,964.html", chord = "Dm7/b5", frets = "xx0111", fingers = "---III" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/how-to-play-minor-7-b5-chords-half-diminished-on-guitar/", chord = "D minor 7 b5", frets = "xx0111", fingers = "---III", via = "image" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Dm7b5", frets = "xx0111", fingers = "---III" },
+]
+
+"1x110x" = [
+  { by = "jamplay", url = "https://www.jamplay.com/tools/guitar-chords/1-standard/6-f/84-minor-7-b5", chord = "Fminor 7 (b5)", frets = "1x110x", fingers = "I-MR--" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f/m7b5/textual/", chord = "F m7b5 (position 3)", frets = "1x110x", fingers = "I-MR--" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Fm7-b5-guitar-chord,1015.html", chord = "Fm7/b5", frets = "1x110x", fingers = "I-MR--" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/how-to-play-minor-7-b5-chords-half-diminished-on-guitar/", chord = "F minor 7 b5", frets = "1x110x", fingers = "M-RL--", via = "image" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Fm7b5", frets = "1x110x", fingers = "I-MR--" },
+]
+
+"x0101x" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/a-min-7-b5", chord = "Amin 7 b5 (Open)", frets = "x0101x", fingers = "--I-M-", via = "browser" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Am7b5-guitar-chord,923.html", chord = "Am7/b5", frets = "x0101x", fingers = "--I-M-" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/how-to-play-minor-7-b5-chords-half-diminished-on-guitar/", chord = "A minor 7 b5", frets = "x0101x", fingers = "--M-R-", via = "image" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Am7b5", frets = "x0101x", fingers = "--M-R-" },
+]
+
+"8x887x" = [
+  { by = "jamplay", url = "https://www.jamplay.com/tools/guitar-chords/1-standard/1-a/65-bhalf-dim-7", chord = "Abhalf dim 7", frets = "4x443x", fingers = "M-RLI-" },
+  { by = "jamplay", url = "https://www.jamplay.com/tools/guitar-chords/1-standard/1-a/84-minor-7-b5", chord = "Aminor 7 (b5)", frets = "5x554x", fingers = "M-RLI-" },
+  { by = "jamplay", url = "https://www.jamplay.com/tools/guitar-chords/1-standard/2-b/84-minor-7-b5", chord = "Bminor 7 (b5)", frets = "7x776x", fingers = "M-RLI-" },
+  { by = "jamplay", url = "https://www.jamplay.com/tools/guitar-chords/1-standard/3-c/84-minor-7-b5", chord = "Cminor 7 (b5)", frets = "8x887x", fingers = "M-RLI-" },
+  { by = "jamplay", url = "https://www.jamplay.com/tools/guitar-chords/1-standard/3-c/145-minor-7-b5", chord = "C#minor 7 (b5)", frets = "9x998x", fingers = "M-RLI-" },
+  { by = "jamplay", url = "https://www.jamplay.com/tools/guitar-chords/1-standard/6-f/145-minor-7-b5", chord = "F#minor 7 (b5)", frets = "(14)x(14)(14)(13)x", fingers = "M-RLI-" },
+  { by = "jamplay", url = "https://www.jamplay.com/tools/guitar-chords/1-standard/7-g/145-minor-7-b5", chord = "G#minor 7 (b5)", frets = "4x443x", fingers = "M-RLI-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a-flat/m7b5/textual/", chord = "Ab m7b5 (position 1)", frets = "4x443x", fingers = "M-RLI-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a/m7b5/textual/", chord = "A m7b5 (position 1)", frets = "5x554x", fingers = "M-RLI-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b/m7b5/textual/", chord = "B m7b5 (position 3)", frets = "7x776x", fingers = "M-RLI-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c-sharp/m7b5/textual/", chord = "C# m7b5 (position 3)", frets = "9x998x", fingers = "M-RLI-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/m7b5/textual/", chord = "C m7b5 (position 2)", frets = "8x887x", fingers = "M-RLI-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g-sharp/m7b5/textual/", chord = "G# m7b5 (position 1)", frets = "4x443x", fingers = "M-RLI-" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/a-flat-min-7-b5", chord = "Abmin 7 b5 (Fret 2)", frets = "4x443x", fingers = "M-RLI-", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/a-min-7-b5", chord = "Amin 7 b5 (Fret 3)", frets = "5x554x", fingers = "M-RLI-", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/b-flat-min-7-b5", chord = "Bbmin 7 b5 (Fret 4)", frets = "6x665x", fingers = "M-RLI-", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/b-min-7-b5", chord = "Bmin 7 b5 (Fret 5)", frets = "7x776x", fingers = "M-RLI-", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/c-min-7-b5", chord = "Cmin 7 b5 (Fret 6)", frets = "8x887x", fingers = "M-RLI-", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/c-sharp-min-7-b5", chord = "C#min 7 b5 (Fret 7)", frets = "9x998x", fingers = "M-RLI-", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/d-min-7-b5", chord = "Dmin 7 b5 (Fret 8)", frets = "(10)x(10)(10)9x", fingers = "M-RLI-", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/e-flat-min-7-b5", chord = "Ebmin 7 b5 (Fret 9)", frets = "(11)x(11)(11)(10)x", fingers = "M-RLI-", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/e-min-7-b5", chord = "Emin 7 b5 (Fret 10)", frets = "(12)x(12)(12)(11)x", fingers = "M-RLI-", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/f-min-7-b5", chord = "Fmin 7 b5 (Fret 11)", frets = "(13)x(13)(13)(12)x", fingers = "M-RLI-", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/f-sharp-min-7-b5", chord = "F#min 7 b5 (Fret 1)", frets = "2x221x", fingers = "M-RLI-", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/g-min-7-b5", chord = "Gmin 7 b5 (Fret 1)", frets = "3x332x", fingers = "M-RLI-", via = "browser" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Gm7b5-guitar-chord,1076.html", chord = "Gm7/b5", frets = "3x332x", fingers = "M-RLI-" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Am7-b5-guitar-chord,924.html", chord = "Am7/b5", frets = "5x554x", fingers = "M-RLI-" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Bm7-b5-guitar-chord,936.html", chord = "Bm7/b5", frets = "7x776x", fingers = "M-RLI-" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Cm7-b5-guitar-chord,949.html", chord = "Cm7/b5", frets = "8x887x", fingers = "M-RLI-" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Dm7-b5-guitar-chord,975.html", chord = "Dm7/b5", frets = "(10)x(10)(10)9x", fingers = "M-RLI-" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/guitar-lessons/10-basic-jazz-chords-ja-001", chord = "Min7b5 (6th-string root grip; diagram has no fret number)", frets = "8x887x", fingers = "M-RLI-", via = "image" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/how-to-play-minor-7-b5-chords-half-diminished-on-guitar/", chord = "G minor 7 b5", frets = "3x332x", fingers = "M-RLI-", via = "image" },
+  { by = "musicradar", url = "https://www.musicradar.com/how-to/jazz-guitar-chords-for-beginners", chord = "Min7b5 (6th-string root; diagram has no fret number)", frets = "8x887x", fingers = "M-RLI-", via = "image" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/F%23m7b5-guitar-chord,1031.html", chord = "F#m7/b5", frets = "2x221x" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Gbm7-b5-guitar-chord,1045.html", chord = "Gbm7/b5", frets = "2x221x" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/G_m7-b5-guitar-chord,1100.html", chord = "G#m7/b5", frets = "4x443x" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Abm7b5-guitar-chord,1118.html", chord = "Abm7/b5", frets = "4x443x" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Bbm7-b5-guitar-chord,932.html", chord = "Bbm7/b5", frets = "6x665x" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/C_m7-b5-guitar-chord,967.html", chord = "C#m7/b5", frets = "9x998x" },
+  { by = "mike-tyka", url = "https://miketyka.com/guitar/chordshp.htm", chord = "Gmin7b5,Gdim", frets = "3x332x" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "C#m7b5 (also Abm7b5, Am7b5, Bbm7b5, Bm7b5, Ebm7b5, Em7b5, Gm7b5)", frets = "9x998x", fingers = "M-RLI-" },
+]
+
+"x3434x" = [
+  { by = "jamplay", url = "https://www.jamplay.com/tools/guitar-chords/1-standard/2-b/84-minor-7-b5", chord = "Bminor 7 (b5)", frets = "x(14)(15)(14)(15)x", fingers = "-IMIR-" },
+  { by = "jamplay", url = "https://www.jamplay.com/tools/guitar-chords/1-standard/2-b/84-minor-7-b5", chord = "Bminor 7 (b5)", frets = "x(14)(15)(14)(15)x", fingers = "-IRML-" },
+  { by = "jamplay", url = "https://www.jamplay.com/tools/guitar-chords/1-standard/3-c/84-minor-7-b5", chord = "Cminor 7 (b5)", frets = "x3434x", fingers = "-IRML-" },
+  { by = "jamplay", url = "https://www.jamplay.com/tools/guitar-chords/1-standard/3-c/145-minor-7-b5", chord = "C#minor 7 (b5)", frets = "x4545x", fingers = "-IRML-" },
+  { by = "jamplay", url = "https://www.jamplay.com/tools/guitar-chords/1-standard/6-f/84-minor-7-b5", chord = "Fminor 7 (b5)", frets = "x8989x", fingers = "-IRML-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b/m7b5/textual/", chord = "B m7b5 (position 2)", frets = "x(14)(15)(14)(15)x", fingers = "-IMIR-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b/m7b5/textual/", chord = "B m7b5 (position 4)", frets = "x2323x", fingers = "-IRML-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c-sharp/m7b5/textual/", chord = "C# m7b5 (position 4)", frets = "x4545x", fingers = "-IRML-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/m7b5/textual/", chord = "C m7b5 (position 1)", frets = "x3434x", fingers = "-IRML-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f/m7b5/textual/", chord = "F m7b5 (position 1)", frets = "x8989x", fingers = "-IRML-" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/a-flat-min-7-b5", chord = "Abmin 7 b5 (Fret 10)", frets = "x(11)(12)(11)(12)x", fingers = "-IRML-", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/a-min-7-b5", chord = "Amin 7 b5 (Fret 11)", frets = "x(12)(13)(12)(13)x", fingers = "-IRML-", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/b-flat-min-7-b5", chord = "Bbmin 7 b5 (Fret 1)", frets = "x1212x", fingers = "-IRML-", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/b-min-7-b5", chord = "Bmin 7 b5 (Fret 1)", frets = "x2323x", fingers = "-IRML-", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/c-min-7-b5", chord = "Cmin 7 b5 (Fret 2)", frets = "x3434x", fingers = "-IRML-", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/c-sharp-min-7-b5", chord = "C#min 7 b5 (Fret 3)", frets = "x4545x", fingers = "-IRML-", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/d-min-7-b5", chord = "Dmin 7 b5 (Fret 4)", frets = "x5656x", fingers = "-IRML-", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/e-flat-min-7-b5", chord = "Ebmin 7 b5 (Fret 5)", frets = "x6767x", fingers = "-IRML-", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/e-min-7-b5", chord = "Emin 7 b5 (Fret 6)", frets = "x7878x", fingers = "-IRML-", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/f-min-7-b5", chord = "Fmin 7 b5 (Fret 7)", frets = "x8989x", fingers = "-IRML-", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/f-sharp-min-7-b5", chord = "F#min 7 b5 (Fret 8)", frets = "x9(10)9(10)x", fingers = "-IRML-", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/g-min-7-b5", chord = "Gmin 7 b5 (Fret 9)", frets = "x(10)(11)(10)(11)x", fingers = "-IRML-", via = "browser" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Em7b5-guitar-chord,1005.html", chord = "Em7/b5", frets = "x7878x", fingers = "-IRML-" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Fm7b5-guitar-chord,1013.html", chord = "Fm7/b5", frets = "x8989x", fingers = "-IRML-" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Gm7-b5-guitar-chord,1078.html", chord = "Gm7/b5", frets = "x(10)(11)(10)(11)x", fingers = "-IRML-" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Cm7-b5-guitar-chord,915.html", chord = "Cm7/b5", frets = "x3434x", fingers = "-IRML-" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Cm7b5-guitar-chord,920.html", chord = "Cm7/b5", frets = "x3434x", fingers = "-IRML-" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Bm7b5-guitar-chord,935.html", chord = "Bm7/b5", frets = "x2323x", fingers = "-IRML-" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Dbm7-b5-guitar-chord,965.html", chord = "Dbm7/b5", frets = "x4545x", fingers = "-IRML-" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Dm7b5-guitar-chord,974.html", chord = "Dm7/b5", frets = "x5656x", fingers = "-IRML-" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/guitar-lessons/10-basic-jazz-chords-ja-001", chord = "Min7b5 (5th-string root grip; diagram has no fret number)", frets = "x3434x", fingers = "-IRML-", via = "image" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/how-to-play-minor-7-b5-chords-half-diminished-on-guitar/", chord = "C minor 7 b5", frets = "x3434x", fingers = "-IRML-", via = "image" },
+  { by = "musicradar", url = "https://www.musicradar.com/how-to/jazz-guitar-chords-for-beginners", chord = "Min7b5 (5th-string root; diagram has no fret number)", frets = "x3434x", fingers = "-IRML-", via = "image" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/F_m7-b5-guitar-chord,1032.html", chord = "F#m7/b5", frets = "x9(10)9(10)x" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Abm7-b5-guitar-chord,1120.html", chord = "Abm7/b5", frets = "x(11)(12)(11)(12)x" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/C%23m7b5-guitar-chord,922.html", chord = "C#m7/b5", frets = "x4545x" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/A_m7-b5-guitar-chord,926.html", chord = "A#m7/b5", frets = "x1212x" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Bbm7b5-guitar-chord,931.html", chord = "Bbm7/b5", frets = "x1212x" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/D_m7-b5-guitar-chord,978.html", chord = "D#m7/b5", frets = "x6767x" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Ebm7b5-guitar-chord,998.html", chord = "Ebm7/b5", frets = "x6767x" },
+  { by = "mike-tyka", url = "https://miketyka.com/guitar/chordshp.htm", chord = "Cmin7b5", frets = "x3434x" },
+  { by = "musicradar", url = "https://www.musicradar.com/guitartechniques/shapes-of-things-diminished-360941", chord = "D#dim (notes D# F# A C#)", frets = "x6767x", via = "reader", note = "page text: 'Low to high strings: X 6 7 6 7 X' (notes D# F# A C# = D#m7♭5)" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Cm7b5 (also Abm7b5, Bbm7b5, Bm7b5, C#m7b5, Dm7b5, Ebm7b5, Em7b5, F#m7b5, Fm7b5, Gm7b5)", frets = "x3434x", fingers = "-IRML-" },
+]
+
+"xx(10)(11)(11)(11)" = [
+  { by = "jamplay", url = "https://www.jamplay.com/tools/guitar-chords/1-standard/3-c/84-minor-7-b5", chord = "Cminor 7 (b5)", frets = "xx(10)(11)(11)(11)", fingers = "--IMMM" },
+  { by = "jamplay", url = "https://www.jamplay.com/tools/guitar-chords/1-standard/3-c/145-minor-7-b5", chord = "C#minor 7 (b5)", frets = "xx(11)(12)(12)(12)", fingers = "--IRRR" },
+  { by = "jamplay", url = "https://www.jamplay.com/tools/guitar-chords/1-standard/6-f/145-minor-7-b5", chord = "F#minor 7 (b5)", frets = "xx4555", fingers = "--IMMM" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c-sharp/m7b5/textual/", chord = "C# m7b5 (position 5)", frets = "xx(11)(12)(12)(12)", fingers = "--IRRR" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/m7b5/textual/", chord = "C m7b5 (position 4)", frets = "xx(10)(11)(11)(11)", fingers = "--IMMM" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/a-flat-min-7-b5", chord = "Abmin 7 b5 (Fret 5)", frets = "xx6777", fingers = "--IRRR", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/a-min-7-b5", chord = "Amin 7 b5 (Fret 6)", frets = "xx7888", fingers = "--IRRR", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/b-flat-min-7-b5", chord = "Bbmin 7 b5 (Fret 7)", frets = "xx8999", fingers = "--IRRR", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/b-min-7-b5", chord = "Bmin 7 b5 (Fret 8)", frets = "xx9(10)(10)(10)", fingers = "--IRRR", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/c-min-7-b5", chord = "Cmin 7 b5 (Fret 9)", frets = "xx(10)(11)(11)(11)", fingers = "--IRRR", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/c-sharp-min-7-b5", chord = "C#min 7 b5 (Fret 10)", frets = "xx(11)(12)(12)(12)", fingers = "--IRRR", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/d-min-7-b5", chord = "Dmin 7 b5 (Fret 11)", frets = "xx(12)(13)(13)(13)", fingers = "--IRRR", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/e-flat-min-7-b5", chord = "Ebmin 7 b5 (Fret 1)", frets = "xx1222", fingers = "--IRRR", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/e-min-7-b5", chord = "Emin 7 b5 (Fret 1)", frets = "xx2333", fingers = "--IRRR", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/f-min-7-b5", chord = "Fmin 7 b5 (Fret 2)", frets = "xx3444", fingers = "--IRRR", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/f-sharp-min-7-b5", chord = "F#min 7 b5 (Fret 3)", frets = "xx4555", fingers = "--IRRR", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/g-min-7-b5", chord = "Gmin 7 b5 (Fret 4)", frets = "xx5666", fingers = "--IRRR", via = "browser" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Em7-b5-guitar-chord,1006.html", chord = "Em7/b5", frets = "xx2333", fingers = "--IMRL" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Fm7-b5-guitar-chord,1014.html", chord = "Fm7/b5", frets = "xx3444", fingers = "--IMRL" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Gm7-b5-guitar-chord,1077.html", chord = "Gm7/b5", frets = "xx5666", fingers = "--IMMM" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Am7-b5-guitar-chord,1107.html", chord = "Am7/b5", frets = "xx7888", fingers = "--IRRR" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Bm7-b5-guitar-chord,940.html", chord = "Bm7/b5", frets = "xx9(10)(10)(10)", fingers = "--IRRR" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Cm7-b5-guitar-chord,950.html", chord = "Cm7/b5", frets = "xx(10)(11)(11)(11)", fingers = "--IMRL" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/how-to-play-minor-7-b5-chords-half-diminished-on-guitar/", chord = "Minor 7th b5 movable shape, 4th string (no fret number)", frets = "xx(10)(11)(11)(11)", fingers = "--IRML", via = "image" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/F_m7-b5-guitar-chord,1033.html", chord = "F#m7/b5", frets = "xx4555" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Abm7-b5-guitar-chord,1117.html", chord = "Abm7/b5", frets = "xx6777" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Bbm7-b5-guitar-chord,939.html", chord = "Bbm7/b5", frets = "xx8999" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Ebm7-b5-guitar-chord,999.html", chord = "Ebm7/b5", frets = "xx1222" },
+  { by = "mike-tyka", url = "https://miketyka.com/guitar/chordshp.htm", chord = "Fmin7b5", frets = "xx3444" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Cm7b5", frets = "xx(10)(11)(11)(11)", fingers = "--IRRR" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "C#m7b5 (also Abm7b5, Am7b5, Bbm7b5, Bm7b5, Ebm7b5, F#m7b5, Fm7b5, Gm7b5)", frets = "xx(11)(12)(12)(12)", fingers = "--IMMM" },
+]
+
+"x3x342" = [
+  { by = "jamplay", url = "https://www.jamplay.com/tools/guitar-chords/1-standard/2-b/124-dim", chord = "BDim", frets = "x2x231", fingers = "-M-RLI" },
+  { by = "jamplay", url = "https://www.jamplay.com/tools/guitar-chords/1-standard/3-c/84-minor-7-b5", chord = "Cminor 7 (b5)", frets = "x(15)x(15)(16)(14)", fingers = "-M-RLI" },
+  { by = "jamplay", url = "https://www.jamplay.com/tools/guitar-chords/1-standard/6-f/84-minor-7-b5", chord = "Fminor 7 (b5)", frets = "x8x897", fingers = "-M-RLI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/m7b5/textual/", chord = "C m7b5 (position 5)", frets = "x(15)x(15)(16)(14)", fingers = "-M-RLI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f/m7b5/textual/", chord = "F m7b5 (position 2)", frets = "x8x897", fingers = "-M-RLI" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/a-flat-min-7-b5", chord = "Abmin 7 b5 (Fret 9)", frets = "x(11)x(11)(12)(10)", fingers = "-M-RLI", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/a-min-7-b5", chord = "Amin 7 b5 (Fret 10)", frets = "x(12)x(12)(13)(11)", fingers = "-M-RLI", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/b-flat-min-7-b5", chord = "Bbmin 7 b5 (Fret 11)", frets = "x(13)x(13)(14)(12)", fingers = "-M-RLI", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/b-min-7-b5", chord = "Bmin 7 b5 (Fret 1)", frets = "x2x231", fingers = "-M-RLI", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/c-min-7-b5", chord = "Cmin 7 b5 (Fret 1)", frets = "x3x342", fingers = "-M-RLI", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/c-sharp-min-7-b5", chord = "C#min 7 b5 (Fret 2)", frets = "x4x453", fingers = "-M-RLI", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/d-min-7-b5", chord = "Dmin 7 b5 (Fret 3)", frets = "x5x564", fingers = "-M-RLI", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/e-flat-min-7-b5", chord = "Ebmin 7 b5 (Fret 4)", frets = "x6x675", fingers = "-M-RLI", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/e-min-7-b5", chord = "Emin 7 b5 (Fret 5)", frets = "x7x786", fingers = "-M-RLI", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/f-min-7-b5", chord = "Fmin 7 b5 (Fret 6)", frets = "x8x897", fingers = "-M-RLI", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/f-sharp-min-7-b5", chord = "F#min 7 b5 (Fret 7)", frets = "x9x9(10)8", fingers = "-M-RLI", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/g-min-7-b5", chord = "Gmin 7 b5 (Fret 8)", frets = "x(10)x(10)(11)9", fingers = "-M-RLI", via = "browser" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/how-to-play-minor-7-b5-chords-half-diminished-on-guitar/", chord = "Minor 7th b5 movable shape, 5th string (no fret number)", frets = "x3x342", fingers = "-M-RLI", via = "image" },
+  { by = "mike-tyka", url = "https://miketyka.com/guitar/chordshp.htm", chord = "Cmin7b5", frets = "x3x342" },
+]
+
+"010030" = [
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/how-to-play-minor-7-b5-chords-half-diminished-on-guitar/", chord = "E minor 7 b5", frets = "010030", fingers = "-I--L-", via = "image" },
+]
+
+"012333" = [
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Em7-b5-guitar-chord,1083.html", chord = "Em7/b5", frets = "012333", fingers = "-IMRLL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Em7b5", frets = "012333", fingers = "-IMRRR" },
+]
+
+"89(10)(11)(11)(11)" = [
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Gm7-b5-guitar-chord,1079.html", chord = "Gm7/b5", frets = "345666", fingers = "IMRLLL" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Fm7-b5-guitar-chord,1082.html", chord = "Fm7/b5", frets = "123444", fingers = "IMRLLL" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Bm7-b5-guitar-chord,1110.html", chord = "Bm7/b5", frets = "789(10)(10)(10)", fingers = "IMRLLL" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Cm7-b5-guitar-chord,1111.html", chord = "Cm7/b5", frets = "89(10)(11)(11)(11)", fingers = "IMRLLL" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Dm7-b5-guitar-chord,1114.html", chord = "Dm7/b5", frets = "(10)(11)(12)(13)(13)(13)", fingers = "IMRLLL" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Am7-b5-guitar-chord,937.html", chord = "Am7/b5", frets = "567888", fingers = "IMRLLL" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/F_m7-b5-guitar-chord,1080.html", chord = "F#m7/b5", frets = "234555" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Bbm7-b5-guitar-chord,1109.html", chord = "Bbm7/b5", frets = "678999" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/C_m7-b5-guitar-chord,1112.html", chord = "C#m7/b5", frets = "9(10)(11)(12)(12)(12)" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Abm7-b5-guitar-chord,1119.html", chord = "Abm7/b5", frets = "456777" },
+]
+
+"8988(11)8" = [
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/how-to-play-minor-7-b5-chords-half-diminished-on-guitar/", chord = "Minor 7th b5 movable shape, 6th string, barre (no fret number)", frets = "8988(11)8", fingers = "IMIILI", via = "image" },
+]
+
+"8988xx" = [
+  { by = "jamplay", url = "https://www.jamplay.com/tools/guitar-chords/1-standard/3-c/84-minor-7-b5", chord = "Cminor 7 (b5)", frets = "8988xx", fingers = "IMII--" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/m7b5/textual/", chord = "C m7b5 (position 3)", frets = "8988xx", fingers = "IMII--" },
+]
+
+"x20231" = [
+  { by = "jamplay", url = "https://www.jamplay.com/tools/guitar-chords/1-standard/2-b/84-minor-7-b5", chord = "Bminor 7 (b5)", frets = "x20231", fingers = "-M-RLI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b/m7b5/textual/", chord = "B m7b5 (position 1)", frets = "x20231", fingers = "-M-RLI" },
+]
+
+"x42000" = [
+  { by = "jamplay", url = "https://www.jamplay.com/tools/guitar-chords/1-standard/3-c/145-minor-7-b5", chord = "C#minor 7 (b5)", frets = "x42000", fingers = "-RI---" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c-sharp/m7b5/textual/", chord = "C# m7b5 (position 1)", frets = "x42000", fingers = "-RI---" },
+]

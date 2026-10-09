@@ -1,0 +1,117 @@
+# Where each voicing of data/chords/six-nine.toml is published, keyed by its frets from the 6th string to the 1st.
+# The format is described in data/README.md.
+
+"x32233" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/4-d/54-b69", chord = "Db6/9", frets = "x43344", fingers = "-MIIRL" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/54-b69", chord = "Eb6/9", frets = "x65566", fingers = "-MIIRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a-flat/6-9/textual/", chord = "Ab6/9", frets = "x(11)(10)(10)(11)(11)", fingers = "-MIIRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b/6-9/textual/", chord = "B6/9", frets = "x21122", fingers = "-MIIRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c-sharp/6-9/textual/", chord = "C#6/9", frets = "x43344", fingers = "-MIIRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/6-9/textual/", chord = "C6/9", frets = "x32233", fingers = "-MIIRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d-flat/6-9/textual/", chord = "Db6/9", frets = "x43344", fingers = "-MIIRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d-sharp/6-9/textual/", chord = "D#6/9", frets = "x65566", fingers = "-MIIRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d/6-9/textual/", chord = "D6/9", frets = "x54455", fingers = "-MIIRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e-flat/6-9/textual/", chord = "Eb6/9", frets = "x65566", fingers = "-MIIRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f-sharp/6-9/textual/", chord = "F#6/9", frets = "x98899", fingers = "-MIIRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f/6-9/textual/", chord = "F6/9", frets = "x87788", fingers = "-MIIRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g-flat/6-9/textual/", chord = "Gb6/9", frets = "x98899", fingers = "-MIIRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g-sharp/6-9/textual/", chord = "G#6/9", frets = "x(11)(10)(10)(11)(11)", fingers = "-MIIRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g/6-9/textual/", chord = "G6/9", frets = "x(10)99(10)(10)", fingers = "-MIIRL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "G69", frets = "x(10)99(10)(10)", fingers = "-MIIRL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Ab69", frets = "x(11)(10)(10)(11)(11)", fingers = "-MIIRL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "A69", frets = "x(12)(11)(11)(12)(12)", fingers = "-MIIRL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Bb69", frets = "x(13)(12)(12)(13)(13)", fingers = "-MIIRL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "B69", frets = "x21122", fingers = "-MIIRL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "C69", frets = "x32233", fingers = "-RIIRL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "C#69", frets = "x43344", fingers = "-MIIRL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "D69", frets = "x54455", fingers = "-MIIRL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Eb69", frets = "x65566", fingers = "-MIIRL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "E69", frets = "x76677", fingers = "-MIIRL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "F69", frets = "x87788", fingers = "-MIIRL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "F#69", frets = "x98899", fingers = "-MIIRL" },
+  { by = "guitar-command", url = "https://www.guitarcommand.com/major-6-9-guitar-chord-of-the-week/", chord = "movable 6/9 shape (no key named; example in C)", frets = "x32233", fingers = "-MIIRR" },
+  { by = "guitar-command", url = "https://www.guitarcommand.com/major-6-9-guitar-chord-of-the-week/", chord = "movable 6/9 shape (no key named; example in C)", frets = "x32233", fingers = "-MIIRL" },
+  { by = "jazz-guitar-licks", url = "https://www.jazz-guitar-licks.com/pages/chords/6-9-guitar-chords-diagrams-and-voicings.html", chord = "movable 6/9 shape (no key named; example in C)", frets = "x32233" },
+  { by = "onlineguitarbooks", url = "https://onlineguitarbooks.com/c69-chord/", chord = "C6/9", frets = "x32233", fingers = "-MIIRL" },
+]
+
+"xx(10)9(10)(10)" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a-flat/6-9/textual/", chord = "Ab6/9", frets = "xx6566", fingers = "--MIRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a-sharp/6-9/textual/", chord = "A#6/9", frets = "xx8788", fingers = "--MIRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b-flat/6-9/textual/", chord = "Bb6/9", frets = "xx8788", fingers = "--MIRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b/6-9/textual/", chord = "B6/9", frets = "xx9899", fingers = "--MIRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c-sharp/6-9/textual/", chord = "C#6/9", frets = "xx(11)(10)(11)(11)", fingers = "--MIRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/6-9/textual/", chord = "C6/9", frets = "xx(10)9(10)(10)", fingers = "--MIRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d-flat/6-9/textual/", chord = "Db6/9", frets = "xx(11)(10)(11)(11)", fingers = "--MIRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d/6-9/textual/", chord = "D6/9", frets = "xx(12)(11)(12)(12)", fingers = "--MIRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f-sharp/6-9/textual/", chord = "F#6/9", frets = "xx4344", fingers = "--MIRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f/6-9/textual/", chord = "F6/9", frets = "xx3233", fingers = "--MIRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g-flat/6-9/textual/", chord = "Gb6/9", frets = "xx4344", fingers = "--MIRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g-sharp/6-9/textual/", chord = "G#6/9", frets = "xx6566", fingers = "--MIRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g/6-9/textual/", chord = "G6/9", frets = "xx5455", fingers = "--MIRL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "C#69", frets = "xx(11)(10)(11)(11)", fingers = "--MIRL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "F69", frets = "xx3233", fingers = "--MIRL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "F#69", frets = "xx4344", fingers = "--MIRL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Ab69", frets = "xx6566", fingers = "--MIRL" },
+  { by = "jazz-guitar-licks", url = "https://www.jazz-guitar-licks.com/pages/chords/6-9-guitar-chords-diagrams-and-voicings.html", chord = "movable 6/9 shape (no key named; example in C)", frets = "xx(10)9(10)(10)" },
+  { by = "onlineguitarbooks", url = "https://onlineguitarbooks.com/c69-chord/", chord = "C6/9", frets = "xx(10)9(10)(10)", fingers = "--MIRL" },
+]
+
+"877788" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/54-b69", chord = "Ab6/9", frets = "433344", fingers = "MIIIRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a-flat/6-9/textual/", chord = "Ab6/9", frets = "433344", fingers = "MIIIRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a-sharp/6-9/textual/", chord = "A#6/9", frets = "655566", fingers = "MIIIRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b-flat/6-9/textual/", chord = "Bb6/9", frets = "655566", fingers = "MIIIRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b/6-9/textual/", chord = "B6/9", frets = "766677", fingers = "MIIIRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c-sharp/6-9/textual/", chord = "C#6/9", frets = "988899", fingers = "MIIIRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/6-9/textual/", chord = "C6/9", frets = "877788", fingers = "MIIIRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d-flat/6-9/textual/", chord = "Db6/9", frets = "988899", fingers = "MIIIRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d-sharp/6-9/textual/", chord = "D#6/9", frets = "(11)(10)(10)(10)(11)(11)", fingers = "MIIIRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d/6-9/textual/", chord = "D6/9", frets = "(10)999(10)(10)", fingers = "MIIIRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e-flat/6-9/textual/", chord = "Eb6/9", frets = "(11)(10)(10)(10)(11)(11)", fingers = "MIIIRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f-sharp/6-9/textual/", chord = "F#6/9", frets = "211122", fingers = "MIIIRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g-flat/6-9/textual/", chord = "Gb6/9", frets = "211122", fingers = "MIIIRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g-sharp/6-9/textual/", chord = "G#6/9", frets = "433344", fingers = "MIIIRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g/6-9/textual/", chord = "G6/9", frets = "322233", fingers = "MIIIRL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "D69", frets = "(10)999(10)(10)", fingers = "MIIIRL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Eb69", frets = "(11)(10)(10)(10)(11)(11)", fingers = "MIIIRL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "F#69", frets = "211122", fingers = "MIIIRL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "G69", frets = "322233", fingers = "MIIIRL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Ab69", frets = "433344", fingers = "MIIIRL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "A69", frets = "544455", fingers = "MIIIRL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Bb69", frets = "655566", fingers = "MIIIRL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "B69", frets = "766677", fingers = "MIIIRL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "C69", frets = "877788", fingers = "MIIIRL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "C#69", frets = "988899", fingers = "MIIIRL" },
+  { by = "guitar-command", url = "https://www.guitarcommand.com/bb-6-9-chord/", chord = "B♭6/9", frets = "655566", fingers = "MIIIRR" },
+  { by = "jazz-guitar-licks", url = "https://www.jazz-guitar-licks.com/pages/chords/6-9-guitar-chords-diagrams-and-voicings.html", chord = "movable 6/9 shape (no key named; example in C)", frets = "877788" },
+]
+
+"x3223x" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/4-69", chord = "C6/9", frets = "x3223x", fingers = "-MIIR-" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/6-f/4-69", chord = "F6/9", frets = "x8778x", fingers = "-MIIR-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/6-9/textual/", chord = "C6/9", frets = "x3223x", fingers = "-MIIR-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f/6-9/textual/", chord = "F6/9", frets = "x8778x", fingers = "-MIIR-" },
+  { by = "jazz-guitar-licks", url = "https://www.jazz-guitar-licks.com/pages/chords/6-9-guitar-chords-diagrams-and-voicings.html", chord = "movable 6/9 shape (no key named; example in C)", frets = "x3223x" },
+]
+
+"0x2122" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e/6-9/textual/", chord = "E6/9", frets = "0x2122", fingers = "--MIRL" },
+]
+
+"100011" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f/6-9/textual/", chord = "F6/9", frets = "100011", fingers = "I---MR" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "F69", frets = "100011", fingers = "I---MR" },
+]
+
+"x10011" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a-sharp/6-9/textual/", chord = "A#6/9", frets = "x10011", fingers = "-I--MR" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b-flat/6-9/textual/", chord = "Bb6/9", frets = "x10011", fingers = "-I--MR" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Bb69", frets = "x10011", fingers = "-I--MR" },
+]
+
+"xx1011" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d-sharp/6-9/textual/", chord = "D#6/9", frets = "xx1011", fingers = "--I-MR" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e-flat/6-9/textual/", chord = "Eb6/9", frets = "xx1011", fingers = "--I-MR" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Eb69", frets = "xx1011", fingers = "--M-RL" },
+]

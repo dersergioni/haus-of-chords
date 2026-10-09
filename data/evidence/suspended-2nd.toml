@@ -1,0 +1,235 @@
+# Where each voicing of data/chords/suspended-2nd.toml is published, keyed by its frets from the 6th string to the 1st.
+# The format is described in data/README.md.
+
+"x3001x" = [
+  { by = "guitar-com", url = "https://guitar.com/lessons/tuition-chord-clinic-part-2-sus-chords/", chord = "Csus2 (Fig. 3)", frets = "x3001x", fingers = "-R--I-", via = "image" },
+  { by = "guitar-player", url = "https://www.guitarplayer.com/lessons/suspended-chords-liven-up-your-rhythm-playing-with-open-position-and-movable-voicings", chord = "Csus2 (Fig. 1)", frets = "x3001x", via = "image" },
+  { by = "guitar-world", url = "https://www.guitarworld.com/lessons/artist-lessons/the-ultimate-guide-to-sus-chords", chord = "Csus2", frets = "x3001x", via = "image" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/c-sus-2", chord = "Csus 2", frets = "x3001x", fingers = "-R--I-", via = "reader" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/7-ways-to-play-a-c-sus-2-chord-on-guitar/", chord = "C sus 2", frets = "x3001x", fingers = "-R--I-", via = "image" },
+]
+
+"xx0230" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d/sus2/textual", chord = "Dsus2", frets = "xx0230", fingers = "---IR-" },
+  { by = "fender", url = "https://www.fender.com/play/lessons/dsus2-open-position-v1", chord = "Dsus2 Open Position (v1)", frets = "xx0230", fingers = "---IR-", via = "reader", note = "instructor Nikki Stevens" },
+  { by = "guitar-com", url = "https://guitar.com/lessons/tuition-chord-clinic-part-2-sus-chords/", chord = "Dsus2 (Fig. 2)", frets = "xx0230", fingers = "---IR-", via = "image" },
+  { by = "guitar-player", url = "https://www.guitarplayer.com/lessons/suspended-chords-liven-up-your-rhythm-playing-with-open-position-and-movable-voicings", chord = "Dsus2 (Fig. 1)", frets = "xx0230", via = "image" },
+  { by = "guitar-world", url = "https://www.guitarworld.com/lessons/artist-lessons/the-ultimate-guide-to-sus-chords", chord = "Dsus2", frets = "xx0230", via = "image" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/d-sus-2", chord = "Dsus 2", frets = "xx0230", fingers = "---IR-", via = "reader" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/4-d/100-sus2", chord = "Dsus2", frets = "xx0230", fingers = "---IR-" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/4-d/100-sus2", chord = "Dsus2", frets = "xx0230", fingers = "---MR-", note = "JamPlay caption: This is one possible way to finger an \"open\" Dsus2 chord." },
+  { by = "mike-tyka", url = "https://miketyka.com/guitar/chordshp.htm", chord = "Dsus2", frets = "xx0230" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Dsus2", frets = "xx0230", fingers = "---MR-" },
+]
+
+"024400" = [
+  { by = "fender", url = "https://www.fender.com/play/lessons/esus2-2nd-position-v1", chord = "Esus2 2nd Position (v1)", frets = "024400", fingers = "-IRL--", via = "reader", note = "instructor Blake Straus" },
+  { by = "guitar-world", url = "https://www.guitarworld.com/lessons/artist-lessons/the-ultimate-guide-to-sus-chords", chord = "Esus2", frets = "024400", via = "image" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/e-sus-2", chord = "Esus 2", frets = "024400", fingers = "-IRL--", via = "reader" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/6-ways-to-play-an-e-sus-2-chord-on-guitar/", chord = "E sus 2", frets = "024400", fingers = "-IRL--", via = "image" },
+]
+
+"1330xx" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f/sus2/textual", chord = "Fsus2", frets = "1330xx", fingers = "IRL---" },
+  { by = "fender", url = "https://www.fender.com/play/lessons/fsus2-1st-position-v1", chord = "Fsus2 1st Position (v1)", frets = "1330xx", fingers = "IRL---", via = "reader", note = "instructor Nikki Stevens" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/7-ways-to-play-an-f-sus-2-chord-on-guitar/", chord = "F sus 2", frets = "1330xx", fingers = "IRL---", via = "image" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/6-f/100-sus2", chord = "Fsus2", frets = "1330xx", fingers = "IRL---", note = "JamPlay caption: This is an Fsus2 chord." },
+]
+
+"3x0233" = [
+  { by = "guitar-com", url = "https://guitar.com/lessons/tuition-chord-clinic-part-2-sus-chords/", chord = "Gsus2 (Fig. 5)", frets = "3x0233", fingers = "M--IRL", via = "image" },
+  { by = "guitar-player", url = "https://www.guitarplayer.com/lessons/suspended-chords-liven-up-your-rhythm-playing-with-open-position-and-movable-voicings", chord = "Gsus2 (Fig. 1)", frets = "3x0233", via = "image" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/g-add-9", chord = "Gadd 9", frets = "3x0233", fingers = "M--IRL", via = "reader", note = "JustinGuitar labels this diagram Gadd9, but it has no 3rd (G D A D G): it is Gsus2" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/6-ways-to-play-a-g-sus-2-chord-on-guitar/", chord = "G sus 2", frets = "3x0233", fingers = "M--IRL", via = "image" },
+]
+
+"x02200" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a/sus2/textual", chord = "Asus2", frets = "x02200", fingers = "--MR--" },
+  { by = "fender", url = "https://www.fender.com/play/lessons/asus2-open-position-v2", chord = "Asus2 Open Position (v2)", frets = "x02200", fingers = "--IM--", via = "reader", note = "instructor Matt Lake" },
+  { by = "guitar-com", url = "https://guitar.com/lessons/tuition-chord-clinic-part-2-sus-chords/", chord = "Asus2 (Fig. 1)", frets = "x02200", fingers = "--IM--", via = "image" },
+  { by = "guitar-player", url = "https://www.guitarplayer.com/lessons/suspended-chords-liven-up-your-rhythm-playing-with-open-position-and-movable-voicings", chord = "Asus2 (Fig. 1)", frets = "x02200", via = "image" },
+  { by = "guitar-world", url = "https://www.guitarworld.com/lessons/artist-lessons/the-ultimate-guide-to-sus-chords", chord = "Asus2", frets = "x02200", via = "image" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/A-sus2", chord = "A sus2", frets = "x02200", fingers = "--MR--", via = "reader" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/6-ways-to-play-an-a-sus-2-chord-on-guitar/", chord = "A sus 2", frets = "x02200", fingers = "--IM--", via = "image" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/100-sus2", chord = "Asus2", frets = "x02200", fingers = "--MR--", note = "JamPlay caption: This is the Asus2 chord in \"open\" position." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/100-sus2", chord = "Asus2", frets = "x02200", fingers = "--IM--", note = "JamPlay caption: This is an alternate way of fingering an \"open\" Asus2 chord." },
+  { by = "mike-tyka", url = "https://miketyka.com/guitar/chordshp.htm", chord = "Asus2", frets = "x02200" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Asus2", frets = "x02200", fingers = "--MR--" },
+]
+
+"x35533" = [
+  { by = "chordbank", url = "https://chordbank.com/chords/a-sharp-sus2/", chord = "A#sus2", frets = "x13311", fingers = "-IRLII", note = "frets and fingers taken from the page's 'Step by Step' text (one finger per sentence)" },
+  { by = "chordbank", url = "https://chordbank.com/chords/b-flat-sus2/", chord = "Bbsus2", frets = "x13311", fingers = "-IRLII", note = "frets and fingers taken from the page's 'Step by Step' text (one finger per sentence)" },
+  { by = "chordbank", url = "https://chordbank.com/chords/b-sus2/", chord = "Bsus2", frets = "x24422", fingers = "-IRLII", note = "frets and fingers taken from the page's 'Step by Step' text (one finger per sentence)" },
+  { by = "chordbank", url = "https://chordbank.com/chords/c-sharp-sus2/", chord = "C#sus2", frets = "x46644", fingers = "-IRLII", note = "frets and fingers taken from the page's 'Step by Step' text (one finger per sentence)" },
+  { by = "chordbank", url = "https://chordbank.com/chords/d-flat-sus2/", chord = "Dbsus2", frets = "x46644", fingers = "-IRLII", note = "frets and fingers taken from the page's 'Step by Step' text (one finger per sentence)" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b-flat/sus2/textual/", chord = "Bbsus2", frets = "x13311", fingers = "-IRLII" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/sus2/textual/", chord = "Csus2", frets = "x35533", fingers = "-IRLII" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d/sus2/textual/", chord = "Dsus2", frets = "x57755", fingers = "-IRLII" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e-flat/sus2/textual/", chord = "Ebsus2", frets = "x68866", fingers = "-IRLII" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f/sus2/textual/", chord = "Fsus2", frets = "x8(10)(10)88", fingers = "-IRLII" },
+  { by = "guitar-command", url = "https://www.guitarcommand.com/sus2-guitar-chord/", chord = "Sus2 guitar chord (movable; Dsus2 at 5th fret in the text)", frets = "x13311", fingers = "-IMRII", note = "diagram sus2-Guitar-Chord-Diagram.gif; the text also gives an alternative fingering with the 3rd and 4th fingers (i.e. -IRLII)" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/a-flat-sus2.html", chord = "Absus2 (Barre Asus2-shape)", frets = "x(11)(13)(13)(11)(11)", fingers = "-IRLII" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/asus2.html", chord = "Asus2 (Barre Asus2-shape)", frets = "x(12)(14)(14)(12)(12)", fingers = "-IRLII" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/b-flat-sus2.html", chord = "Bbsus2 (Barre Asus2-shape)", frets = "x13311", fingers = "-IRLII" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/bsus2.html", chord = "Bsus2 (Barre Asus2-shape RECOMMENDED)", frets = "x24422", fingers = "-IRLII" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/csus2.html", chord = "Csus2 (Barre Asus2-shape)", frets = "x35533", fingers = "-IRLII" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/d-flat-sus2.html", chord = "Dbsus2 (Barre Asus2-shape)", frets = "x46644", fingers = "-IRLII" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/dsus2.html", chord = "Dsus2 (Barre Asus2-shape)", frets = "x57755", fingers = "-IRLII" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/e-flat-sus2.html", chord = "Ebsus2 (Barre Asus2-shape)", frets = "x68866", fingers = "-IRLII" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/esus2.html", chord = "Esus2 (Barre Asus2-shape)", frets = "x79977", fingers = "-IRLII" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/fsus2.html", chord = "Fsus2 (Barre Asus2-shape)", frets = "x8(10)(10)88", fingers = "-IRLII" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/g-flat-sus2.html", chord = "Gbsus2 (Barre Asus2-shape)", frets = "x9(11)(11)99", fingers = "-IRLII" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/gsus2.html", chord = "Gsus2 (Barre Asus2-shape)", frets = "x(10)(12)(12)(10)(10)", fingers = "-IRLII" },
+  { by = "guitar-chords-org-uk", url = "https://www.guitar-chords.org.uk/c-sharp-sus2-chord.html", chord = "C# sus2 chord diagram", frets = "x46644", fingers = "-IMRII", note = "diagram image (chord-images/c-sharp-sus2.gif)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/A-chord/sus2", chord = "Asus2 Variation 3", frets = "x(12)(14)(14)(12)(12)", fingers = "-IRLII", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/Ab-chord/sus2", chord = "Absus2 Variation 3", frets = "x(11)(13)(13)(11)(11)", fingers = "-IRLII", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/B-chord/sus2", chord = "Bsus2 Variation 1", frets = "x24422", fingers = "-IRLII", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/Bb-chord/sus2", chord = "Bbsus2 Variation 1", frets = "x13311", fingers = "-IRLII", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/C-chord/sus2", chord = "Csus2 Variation 1", frets = "x35533", fingers = "-IRLII", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/D-chord/sus2", chord = "Dsus2 Variation 2", frets = "x57755", fingers = "-IRLII", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/Db-chord/sus2", chord = "Dbsus2 Variation 1", frets = "x46644", fingers = "-IRLII", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/E-chord/sus2", chord = "Esus2 Variation 2", frets = "x79977", fingers = "-IRLII", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/Eb-chord/sus2", chord = "Ebsus2 Variation 2", frets = "x68866", fingers = "-IRLII", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/F-chord/sus2", chord = "Fsus2 Variation 2", frets = "x8(10)(10)88", fingers = "-IRLII", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/G-chord/sus2", chord = "Gsus2 Variation 3", frets = "x(10)(12)(12)(10)(10)", fingers = "-IRLII", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/Gb-chord/sus2", chord = "Gbsus2 Variation 2", frets = "x9(11)(11)99", fingers = "-IRLII", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "8notes", url = "https://www.8notes.com/guitar_chord_chart/Csus2.asp", chord = "Csus2 (svg_csus2__3.svg)", frets = "x35533", fingers = "-IRLII" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b-flat/sus2/textual", chord = "Bbsus2", frets = "x13311", fingers = "-IRLII" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/sus2/textual", chord = "Csus2", frets = "x35533", fingers = "-IRLII" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d/sus2/textual", chord = "Dsus2", frets = "x57755", fingers = "-IRLII" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e-flat/sus2/textual", chord = "Ebsus2", frets = "x68866", fingers = "-IRLII" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f/sus2/textual", chord = "Fsus2", frets = "x8(10)(10)88", fingers = "-IRLII" },
+  { by = "fender", url = "https://www.fender.com/play/lessons/bsus2-2nd-position-v1", chord = "Bsus2 2nd Position (v1)", frets = "x24422", fingers = "-IRLII", via = "reader", note = "instructor Matt Lake" },
+  { by = "fender", url = "https://www.fender.com/play/lessons/ebsus2-6th-position-v1", chord = "Ebsus2 6th Position (v1)", frets = "x68866", fingers = "-IRLII", via = "reader", note = "instructor Blake Straus" },
+  { by = "guitar-player", url = "https://www.guitarplayer.com/lessons/suspended-chords-liven-up-your-rhythm-playing-with-open-position-and-movable-voicings", chord = "Dsus2 (Fig. 4)", frets = "x57755", via = "image" },
+  { by = "guitar-world", url = "https://www.guitarworld.com/lessons/artist-lessons/the-ultimate-guide-to-sus-chords", chord = "Csus2", frets = "x35533", via = "image" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/Bb-sus2", chord = "Bb sus2", frets = "x13311", fingers = "-IRLII", via = "reader" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/Eb-sus2", chord = "Eb sus2", frets = "x68866", fingers = "-IRLII", via = "reader" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/guitar-lessons/a-shape-barre-chords-sus2-ash-005", chord = "Csus2 (A Shape Barre Chords: Sus2)", frets = "x35533", fingers = "-IRLII", via = "image" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/6-ways-to-play-a-g-sus-2-chord-on-guitar/", chord = "G sus 2", frets = "x(10)(12)(12)(10)(10)", fingers = "-IRLII", via = "image" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/6-ways-to-play-an-e-sus-2-chord-on-guitar/", chord = "E sus 2", frets = "x79977", fingers = "-IRLII", via = "image" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/7-ways-to-play-a-b-sus-2-chord-on-guitar/", chord = "B sus 2", frets = "x24422", fingers = "-IRLII", via = "image" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/7-ways-to-play-a-c-sus-2-chord-on-guitar/", chord = "C sus 2", frets = "x35533", fingers = "-IRLII", via = "image" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/7-ways-to-play-an-f-sus-2-chord-on-guitar/", chord = "F sus 2", frets = "x8(10)(10)88", fingers = "-IRLII", via = "image" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/2-b/81-bsus2", chord = "Bbsus2", frets = "x13311", fingers = "-IRLII", note = "JamPlay caption: This Bbsus2 chord utilizes a common, movable chord shape." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/100-sus2", chord = "Csus2", frets = "x35533", fingers = "-IRLII", note = "JamPlay caption: This voicing for Csus2 utilizes a common, movable chord shape." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/4-d/100-sus2", chord = "Dsus2", frets = "x57755", fingers = "-IRLII", note = "JamPlay caption: This voicing for Dsus2 features a common, movable chord shape." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/81-bsus2", chord = "Ebsus2", frets = "x68866", fingers = "-IRLII", note = "JamPlay caption: This voicing for Ebsus2 utilizes a common, movable chord shape." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/6-f/100-sus2", chord = "Fsus2", frets = "x8(10)(10)88", fingers = "-IRLII", note = "JamPlay caption: This voicing for Fsus2 utilizes a common, movable chord shape." },
+]
+
+"xx(10)(12)(13)(10)" = [
+  { by = "chordbank", url = "https://chordbank.com/chords/a-flat-sus2/", chord = "Absus2", frets = "xx6896", fingers = "--IRLI", note = "frets and fingers taken from the page's 'Step by Step' text (one finger per sentence)" },
+  { by = "chordbank", url = "https://chordbank.com/chords/d-sharp-sus2/", chord = "D#sus2", frets = "xx1341", fingers = "--IRLI", note = "frets and fingers taken from the page's 'Step by Step' text (one finger per sentence)" },
+  { by = "chordbank", url = "https://chordbank.com/chords/e-flat-sus2/", chord = "Ebsus2", frets = "xx1341", fingers = "--IRLI", note = "frets and fingers taken from the page's 'Step by Step' text (one finger per sentence)" },
+  { by = "chordbank", url = "https://chordbank.com/chords/f-sharp-sus2/", chord = "F#sus2", frets = "xx4674", fingers = "--IRLI", note = "frets and fingers taken from the page's 'Step by Step' text (one finger per sentence)" },
+  { by = "chordbank", url = "https://chordbank.com/chords/g-flat-sus2/", chord = "Gbsus2", frets = "xx4674", fingers = "--IRLI", note = "frets and fingers taken from the page's 'Step by Step' text (one finger per sentence)" },
+  { by = "chordbank", url = "https://chordbank.com/chords/g-sharp-sus2/", chord = "G#sus2", frets = "xx6896", fingers = "--IRLI", note = "frets and fingers taken from the page's 'Step by Step' text (one finger per sentence)" },
+  { by = "chordbank", url = "https://chordbank.com/chords/g-sus2/", chord = "Gsus2", frets = "xx5785", fingers = "--IRLI", note = "frets and fingers taken from the page's 'Step by Step' text (one finger per sentence)" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e/sus2/textual/", chord = "Esus2", frets = "xx2452", fingers = "--IRLI" },
+  { by = "guitar-chords-org-uk", url = "https://www.guitar-chords.org.uk/c-sharp-sus2-chord.html", chord = "C# sus2 chord diagram", frets = "xx(11)(13)(14)(11)", fingers = "--IRLI", note = "diagram image (chord-images/c-sharp-sus2.gif)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/A-chord/sus2", chord = "Asus2 Variation 2", frets = "xx79(10)7", fingers = "--IRLI", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/Ab-chord/sus2", chord = "Absus2 Variation 2", frets = "xx6896", fingers = "--IRLI", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/B-chord/sus2", chord = "Bsus2 Variation 3", frets = "xx9(11)(12)9", fingers = "--IRLI", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/Bb-chord/sus2", chord = "Bbsus2 Variation 3", frets = "xx8(10)(11)8", fingers = "--IRLI", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/C-chord/sus2", chord = "Csus2 Variation 3", frets = "xx(10)(12)(13)(10)", fingers = "--IRLI", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/Db-chord/sus2", chord = "Dbsus2 Variation 3", frets = "xx(11)(13)(14)(11)", fingers = "--IRLI", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/E-chord/sus2", chord = "Esus2 Variation 1", frets = "xx2452", fingers = "--IRLI", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/Eb-chord/sus2", chord = "Ebsus2 Variation 1", frets = "xx1341", fingers = "--IRLI", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/F-chord/sus2", chord = "Fsus2 Variation 1", frets = "xx3563", fingers = "--IRLI", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/G-chord/sus2", chord = "Gsus2 Variation 2", frets = "xx5785", fingers = "--IRLI", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/Gb-chord/sus2", chord = "Gbsus2 Variation 1", frets = "xx4674", fingers = "--IRLI", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e/sus2/textual", chord = "Esus2", frets = "xx2452", fingers = "--IRLI" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/6-ways-to-play-a-g-sus-2-chord-on-guitar/", chord = "G sus 2", frets = "xx5785", fingers = "--IRLI", via = "image" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/7-ways-to-play-a-b-sus-2-chord-on-guitar/", chord = "B sus 2", frets = "xx9(11)(12)9", fingers = "--IRLI", via = "image" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/7-ways-to-play-a-c-sus-2-chord-on-guitar/", chord = "C sus 2", frets = "xx(10)(12)(13)(10)", fingers = "--IRLI", via = "image" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/7-ways-to-play-an-f-sus-2-chord-on-guitar/", chord = "F sus 2", frets = "xx3563", fingers = "--IRLI", via = "image" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/100-sus2", chord = "Esus2", frets = "xx2452", fingers = "--IRLI", note = "JamPlay caption: This Esus2 chord is played in second position." },
+]
+
+"8555xx" = [
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/Ab-chord/sus2", chord = "Absus2 Variation 1", frets = "4111xx", fingers = "LIII--", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/B-chord/sus2", chord = "Bsus2 Variation 2", frets = "7444xx", fingers = "LIII--", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/Bb-chord/sus2", chord = "Bbsus2 Variation 2", frets = "6333xx", fingers = "LIII--", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/C-chord/sus2", chord = "Csus2 Variation 2", frets = "8555xx", fingers = "LIII--", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/D-chord/sus2", chord = "Dsus2 Variation 3", frets = "(10)777xx", fingers = "LIII--", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/Db-chord/sus2", chord = "Dbsus2 Variation 2", frets = "9666xx", fingers = "LIII--", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/E-chord/sus2", chord = "Esus2 Variation 3", frets = "(12)999xx", fingers = "LIII--", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/Eb-chord/sus2", chord = "Ebsus2 Variation 3", frets = "(11)888xx", fingers = "LIII--", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/F-chord/sus2", chord = "Fsus2 Variation 3", frets = "(13)(10)(10)(10)xx", fingers = "LIII--", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/Gb-chord/sus2", chord = "Gbsus2 Variation 3", frets = "(14)(11)(11)(11)xx", fingers = "LIII--", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/7-ways-to-play-a-b-sus-2-chord-on-guitar/", chord = "B sus 2 chord starting on 6th string - variation", frets = "7444xx", fingers = "LIII--", note = "diagram image" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/7-ways-to-play-a-c-sus-2-chord-on-guitar/", chord = "C sus 2 chord - 6th string variation", frets = "8555xx", fingers = "LIII--", note = "diagram image" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/7-ways-to-play-a-b-sus-2-chord-on-guitar/", chord = "B sus 2", frets = "7444xx", fingers = "LIII--", via = "image" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/7-ways-to-play-a-c-sus-2-chord-on-guitar/", chord = "C sus 2", frets = "8555xx", fingers = "LIII--", via = "image" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/7-ways-to-play-an-f-sus-2-chord-on-guitar/", chord = "F sus 2", frets = "(13)(10)(10)(10)xx", fingers = "LIII--", via = "image" },
+]
+
+"x30033" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/sus2/textual", chord = "Csus2", frets = "x30033", fingers = "-M--RL" },
+  { by = "guitar-world", url = "https://www.guitarworld.com/lessons/artist-lessons/the-ultimate-guide-to-sus-chords", chord = "Csus2", frets = "x30033", via = "image" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/100-sus2", chord = "Csus2", frets = "x30033", fingers = "-M--RL", note = "JamPlay caption: This is an \"open\" chord voicing for Csus2." },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Csus2", frets = "x30033", fingers = "-I--MR" },
+]
+
+"x(15)(12)(12)(13)x" = [
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/A-chord/sus2", chord = "Asus2 Variation 4", frets = "x(12)99(10)x", fingers = "-LIIM-", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/Ab-chord/sus2", chord = "Absus2 Variation 4", frets = "x(11)889x", fingers = "-LIIM-", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/B-chord/sus2", chord = "Bsus2 Variation 4", frets = "x(14)(11)(11)(12)x", fingers = "-LIIM-", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/Bb-chord/sus2", chord = "Bbsus2 Variation 4", frets = "x(13)(10)(10)(11)x", fingers = "-LIIM-", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/D-chord/sus2", chord = "Dsus2 Variation 4", frets = "x5223x", fingers = "-LIIM-", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/Db-chord/sus2", chord = "Dbsus2 Variation 4", frets = "x4112x", fingers = "-LIIM-", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/E-chord/sus2", chord = "Esus2 Variation 4", frets = "x7445x", fingers = "-LIIM-", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/Eb-chord/sus2", chord = "Ebsus2 Variation 4", frets = "x6334x", fingers = "-LIIM-", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/F-chord/sus2", chord = "Fsus2 Variation 4", frets = "x8556x", fingers = "-LIIM-", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/G-chord/sus2", chord = "Gsus2 Variation 4", frets = "x(10)778x", fingers = "-LIIM-", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/Gb-chord/sus2", chord = "Gbsus2 Variation 4", frets = "x9667x", fingers = "-LIIM-", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/7-ways-to-play-a-b-sus-2-chord-on-guitar/", chord = "B sus 2 chord starting on 5th string variation", frets = "x(14)(11)(11)(12)x", fingers = "-LIIM-", note = "diagram image" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/7-ways-to-play-an-f-sus-2-chord-on-guitar/", chord = "F sus 2 chord starting 5th string variation", frets = "x8556x", fingers = "-LIIM-", note = "diagram image" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/6-ways-to-play-a-g-sus-2-chord-on-guitar/", chord = "G sus 2", frets = "x(10)778x", fingers = "-LIIM-", via = "image" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/6-ways-to-play-an-a-sus-2-chord-on-guitar/", chord = "A sus 2", frets = "x(12)99(10)x", fingers = "-LIIM-", via = "image" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/7-ways-to-play-a-b-sus-2-chord-on-guitar/", chord = "B sus 2", frets = "x(14)(11)(11)(12)x", fingers = "-LIIM-", via = "image" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/7-ways-to-play-an-f-sus-2-chord-on-guitar/", chord = "F sus 2", frets = "x8556x", fingers = "-LIIM-", via = "image" },
+]
+
+"8x578x" = [
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/7-ways-to-play-a-c-sus-2-chord-on-guitar/", chord = "C sus 2 chord - 6th string variation 2", frets = "8x578x", fingers = "R-IML-", note = "diagram image" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/7-ways-to-play-a-d-sus-2-chord-on-guitar/", chord = "D sus 2 chord - 6th string variation", frets = "(10)x79(10)x", fingers = "R-IML-", note = "diagram image" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/7-ways-to-play-a-b-sus-2-chord-on-guitar/", chord = "B sus 2", frets = "7x467x", fingers = "R-IML-", via = "image" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/7-ways-to-play-an-f-sus-2-chord-on-guitar/", chord = "F sus 2", frets = "(13)x(10)(12)(13)x", fingers = "R-IML-", via = "image" },
+]
+
+"x3553x" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e-flat/sus2/textual/", chord = "Ebsus2", frets = "x6886x", fingers = "-IRLI-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g/sus2/textual/", chord = "Gsus2", frets = "x(10)(12)(12)(10)x", fingers = "-IRLI-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e-flat/sus2/textual", chord = "Ebsus2", frets = "x6886x", fingers = "-IRLI-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g/sus2/textual", chord = "Gsus2", frets = "x(10)(12)(12)(10)x", fingers = "-IRLI-" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/81-bsus2", chord = "Ebsus2", frets = "x6886x", fingers = "-IRLI-" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/7-g/100-sus2", chord = "Gsus2", frets = "x(10)(12)(12)(10)x", fingers = "-IRLI-", note = "JamPlay caption: This is a Gsus2 chord played in tenth position." },
+]
+
+"x(15)(12)(12)xx" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g/sus2/textual/", chord = "Gsus2", frets = "x(10)77xx", fingers = "-LII--" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g/sus2/textual", chord = "Gsus2", frets = "x(10)77xx", fingers = "-LII--" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/7-g/100-sus2", chord = "Gsus2", frets = "x(10)77xx", fingers = "-LII--", note = "JamPlay caption: This Gsus2 voicing features notes played in seventh position." },
+]
+
+"x0220x" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a/sus2/textual", chord = "Asus2", frets = "x0220x", fingers = "--MR--" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/100-sus2", chord = "Asus2", frets = "x0220x", fingers = "--MR--", note = "JamPlay caption: The high E string is omitted from this Asus2 chord." },
+]
+
+"x30013" = [
+  { by = "guitar-com", url = "https://guitar.com/lessons/tuition-chord-clinic-part-2-sus-chords/", chord = "Csus2 (Fig. 4)", frets = "x30013", fingers = "-R--IL", via = "image" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Csus2", frets = "x30013", fingers = "-R--IL" },
+]
+
+"x3x033" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/sus2/textual", chord = "Csus2", frets = "x3x033", fingers = "-M--RL" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/100-sus2", chord = "Csus2", frets = "x3x033", fingers = "-M--RL", note = "JamPlay caption: This voicing for Csus2 is used in the introduction/verse to the song \"December\" by Collective Soul." },
+]
+
+"xx3011" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/f-sus-2", chord = "FSus 2", frets = "xx3011", fingers = "--R-II", via = "reader" },
+]

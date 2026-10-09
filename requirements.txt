@@ -1,0 +1,7 @@
+reportlab==5.0.1
+pdfplumber==0.11.10
+pypdf==6.19.0
+pychord==1.4.0
+pypdfium2==5.14.0
+fonttools==4.66.1
+brotli==1.2.0

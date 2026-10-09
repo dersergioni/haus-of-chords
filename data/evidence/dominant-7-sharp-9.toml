@@ -1,0 +1,166 @@
+# Where each voicing of data/chords/dominant-7-sharp-9.toml is published, keyed by its frets from the 6th string to the 1st.
+# The format is described in data/README.md.
+
+"x3234x" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/10-79", chord = "A7(#9)", frets = "x(12)(11)(12)(13)x", fingers = "-MIRL-", note = "caption: This is an A7(#9) voicing." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/59-b79", chord = "Ab7(#9)", frets = "x(11)(10)(11)(12)x", fingers = "-MIRL-", note = "caption: This is an Ab7(#9) voicing." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/2-b/10-79", chord = "B7(#9)", frets = "x2123x", fingers = "-MIRL-", note = "caption: This voicing for B7(#9) utilizes a common, movable chord shape." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/10-79", chord = "C7(#9)", frets = "x3234x", fingers = "-MIRL-", note = "caption: C7(#9) with its root note on the fifth string." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/24-79", chord = "C#7(#9)", frets = "x4345x", fingers = "-MIRL-", note = "caption: This is a C#7(#9) chord." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/4-d/10-79", chord = "D7(#9)", frets = "x5456x", fingers = "-MIRL-", note = "caption: This is the D7 #9 chord. It can be very difficult to finger for beginners, so do not give " },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/4-d/59-b79", chord = "Db7(#9)", frets = "x4345x", fingers = "-MIRL-", note = "caption: This is a Db7(#9)." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/10-79", chord = "E7(#9)", frets = "x7678x", fingers = "-MIRL-", note = "caption: This voicing of E7(#9) is used very commonly in the blues, jazz, and rock genres." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/59-b79", chord = "Eb7(#9)", frets = "x6567x", fingers = "-MIRL-", note = "caption: This is an Eb7(#9) chord." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/6-f/10-79", chord = "F7(#9)", frets = "x8789x", fingers = "-MIRL-", note = "caption: This voicing for F7(#9) utilizes a common, movable chord shape." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/6-f/24-79", chord = "F#7(#9)", frets = "x989(10)x", fingers = "-MIRL-", note = "caption: This voicing for F#7(#9) utilizes a common movable chord shape." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/7-g/59-b79", chord = "Gb7(#9)", frets = "x989(10)x", fingers = "-MIRL-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a-flat/7-sharp-9/textual/", chord = "Ab7#9", frets = "x(11)(10)(11)(12)x", fingers = "-MIRL-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a/7-sharp-9/textual/", chord = "A7#9", frets = "x(12)(11)(12)(13)x", fingers = "-MIRL-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b/7-sharp-9/textual/", chord = "B7#9", frets = "x2123x", fingers = "-MIRL-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c-sharp/7-sharp-9/textual/", chord = "C#7#9", frets = "x4345x", fingers = "-MIRL-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/7-sharp-9/textual/", chord = "C7#9", frets = "x3234x", fingers = "-MIRL-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d-flat/7-sharp-9/textual/", chord = "Db7#9", frets = "x4345x", fingers = "-MIRL-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d-sharp/7-sharp-9/textual/", chord = "D#7#9", frets = "x6567x", fingers = "-MIRL-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d/7-sharp-9/textual/", chord = "D7#9", frets = "x5456x", fingers = "-MIRL-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e-flat/7-sharp-9/textual/", chord = "Eb7#9", frets = "x6567x", fingers = "-MIRL-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e/7-sharp-9/textual/", chord = "E7#9", frets = "x7678x", fingers = "-MIRL-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f-sharp/7-sharp-9/textual/", chord = "F#7#9", frets = "x989(10)x", fingers = "-MIRL-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f/7-sharp-9/textual/", chord = "F7#9", frets = "x8789x", fingers = "-MIRL-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g-flat/7-sharp-9/textual/", chord = "Gb7#9", frets = "x989(10)x", fingers = "-MIRL-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g-sharp/7-sharp-9/textual/", chord = "G#7#9", frets = "x(11)(10)(11)(12)x", fingers = "-MIRL-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g/7-sharp-9/textual/", chord = "G7#9", frets = "x(10)9(10)(11)x", fingers = "-MIRL-" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db/blob/master/src/db/guitar/chords/A/7%239.js", chord = "A7#9", frets = "x(12)(11)(12)(13)x", fingers = "-MIRL-" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db/blob/master/src/db/guitar/chords/Ab/7%239.js", chord = "Ab7#9", frets = "x(11)(10)(11)(12)x", fingers = "-MIRL-" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db/blob/master/src/db/guitar/chords/B/7%239.js", chord = "B7#9", frets = "x2123x", fingers = "-MIRL-" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db/blob/master/src/db/guitar/chords/Bb/7%239.js", chord = "Bb7#9", frets = "x(13)(12)(13)(14)x", fingers = "-MIRL-" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db/blob/master/src/db/guitar/chords/C/7%239.js", chord = "C7#9", frets = "x3234x", fingers = "-MIRL-" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db/blob/master/src/db/guitar/chords/C%23/7%239.js", chord = "C#7#9", frets = "x4345x", fingers = "-MIRL-" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db/blob/master/src/db/guitar/chords/D/7%239.js", chord = "D7#9", frets = "x5456x", fingers = "-MIRL-" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db/blob/master/src/db/guitar/chords/E/7%239.js", chord = "E7#9", frets = "x7678x", fingers = "-MIRL-" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db/blob/master/src/db/guitar/chords/Eb/7%239.js", chord = "Eb7#9", frets = "x6567x", fingers = "-MIRL-" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db/blob/master/src/db/guitar/chords/F/7%239.js", chord = "F7#9", frets = "x8789x", fingers = "-MIRL-" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db/blob/master/src/db/guitar/chords/F%23/7%239.js", chord = "F#7#9", frets = "x989(10)x", fingers = "-MIRL-" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db/blob/master/src/db/guitar/chords/G/7%239.js", chord = "G7#9", frets = "x(10)9(10)(11)x", fingers = "-MIRL-" },
+  { by = "guitar-player", url = "https://www.guitarplayer.com/technique/extended-altered-chords-expand-your-vocabulary-with-advanced-chord-voicings-tab", chord = "G7#9, Figure 15 (9fr)", frets = "x(10)9(10)(11)x", fingers = "-MIRL-" },
+  { by = "onlineguitarbooks", url = "https://onlineguitarbooks.com/e7-sharp-9-chord/", chord = "E7#9 (10 shapes image)", frets = "x7678x", fingers = "-MIRL-" },
+  { by = "onlineguitarbooks", url = "https://onlineguitarbooks.com/f-sharp-7-sharp-9-chord/", chord = "F#7#9 (F-Sharp-7-Sharp-9-Chord-10-Shapes.png)", frets = "x989(10)x", fingers = "-MIRL-" },
+  { by = "fender", url = "https://www.fender.com/articles/chords/purple-reign-the-hendrix-chord", chord = "E7#9 without the open strings (text: either way)", frets = "x7678x", fingers = "-MIRL-", via = "archive" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/blog/hendrix-chord-jimi-hendrix-songs", chord = "E7#9 Hendrix chord", frets = "x7678x", fingers = "-MIRL-", via = "archive" },
+  { by = "wikipedia", url = "https://en.wikipedia.org/wiki/Dominant_seventh_sharp_ninth_chord", chord = "E7#9 (File:Hendrix Chord.svg)", frets = "x7678x", note = "fret label 7 beside the 2nd row" },
+]
+
+"8(10)89(11)(11)" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/10-79", chord = "A7(#9)", frets = "575688", fingers = "IRIMLL", note = "caption: This is an A7(#9) voicing." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/4-d/59-b79", chord = "Db7(#9)", frets = "9(11)9(10)(12)(12)", fingers = "IRIMLL", note = "caption: This is a Db7(#9) chord." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/7-g/59-b79", chord = "Gb7(#9)", frets = "242355", fingers = "IRIMLL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a/7-sharp-9/textual/", chord = "A7#9", frets = "575688", fingers = "IRIMLL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d-flat/7-sharp-9/textual/", chord = "Db7#9", frets = "9(11)9(10)(12)(12)", fingers = "IRIMLL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g-flat/7-sharp-9/textual/", chord = "Gb7#9", frets = "242355", fingers = "IRIMLL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db/blob/master/src/db/guitar/chords/A/7%239.js", chord = "A7#9", frets = "575688", fingers = "IRIMLL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db/blob/master/src/db/guitar/chords/Ab/7%239.js", chord = "Ab7#9", frets = "464577", fingers = "IRIMLL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db/blob/master/src/db/guitar/chords/B/7%239.js", chord = "B7#9", frets = "7978(10)(10)", fingers = "IRIMLL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db/blob/master/src/db/guitar/chords/Bb/7%239.js", chord = "Bb7#9", frets = "686799", fingers = "IRIMLL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db/blob/master/src/db/guitar/chords/G/7%239.js", chord = "G7#9", frets = "353466", fingers = "IRIMLL" },
+  { by = "onlineguitarbooks", url = "https://onlineguitarbooks.com/e7-sharp-9-chord/", chord = "E7#9 (10 shapes image)", frets = "(12)(14)(12)(13)(15)(15)", fingers = "IRIMLL" },
+  { by = "onlineguitarbooks", url = "https://onlineguitarbooks.com/f-sharp-7-sharp-9-chord/", chord = "F#7#9 (10 shapes image)", frets = "242355", fingers = "IRIMLL" },
+]
+
+"xx(10)9(11)(11)" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/10-79", chord = "A7(#9)", frets = "xx7688", fingers = "--MIRL", note = "caption: This is an A7(#9) voicing." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/10-79", chord = "A7(#9)", frets = "xx7688", fingers = "--MIRR" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/4-d/59-b79", chord = "Db7(#9)", frets = "xx(11)(10)(12)(12)", fingers = "--MIRL", note = "caption: This is a Db7(#9) chord." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/10-79", chord = "E7(#9)", frets = "xx2133", fingers = "--MILL", note = "caption: A movable chord voicing is used to play this E7(#9) chord. The fifth (B) is omitted from t" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a/7-sharp-9/textual/", chord = "A7#9", frets = "xx7688", fingers = "--MIRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d-flat/7-sharp-9/textual/", chord = "Db7#9", frets = "xx(11)(10)(12)(12)", fingers = "--MIRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e/7-sharp-9/textual/", chord = "E7#9", frets = "xx2133", fingers = "--MILL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f/7-sharp-9/textual/", chord = "F7#9", frets = "xx3244", fingers = "--MIRL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db/blob/master/src/db/guitar/chords/A/7%239.js", chord = "A7#9", frets = "xx7688", fingers = "--MIRL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db/blob/master/src/db/guitar/chords/Ab/7%239.js", chord = "Ab7#9", frets = "xx6577", fingers = "--RILL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db/blob/master/src/db/guitar/chords/B/7%239.js", chord = "B7#9", frets = "xx98(10)(10)", fingers = "--MIRL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db/blob/master/src/db/guitar/chords/Bb/7%239.js", chord = "Bb7#9", frets = "xx8799", fingers = "--MIRL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db/blob/master/src/db/guitar/chords/C/7%239.js", chord = "C7#9", frets = "xx(10)9(11)(11)", fingers = "--MIRL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db/blob/master/src/db/guitar/chords/F/7%239.js", chord = "F7#9", frets = "xx3244", fingers = "--MIRL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db/blob/master/src/db/guitar/chords/F%23/7%239.js", chord = "F#7#9", frets = "xx4355", fingers = "--MIRL" },
+  { by = "onlineguitarbooks", url = "https://onlineguitarbooks.com/e7-sharp-9-chord/", chord = "E7#9 (10 shapes image)", frets = "xx2133", fingers = "--MIRL" },
+  { by = "onlineguitarbooks", url = "https://onlineguitarbooks.com/f-sharp-7-sharp-9-chord/", chord = "F#7#9 (10 shapes image)", frets = "xx4355", fingers = "--MIRL" },
+]
+
+"8788xx" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/10-79", chord = "A7(#9)", frets = "5455xx", fingers = "MIRR--" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a/7-sharp-9/textual/", chord = "A7#9", frets = "5455xx", fingers = "MIRR--" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db/blob/master/src/db/guitar/chords/Eb/7%239.js", chord = "Eb7#9", frets = "(11)(10)(11)(11)xx", fingers = "MIRL--" },
+  { by = "onlineguitarbooks", url = "https://onlineguitarbooks.com/e7-sharp-9-chord/", chord = "E7#9 (10 shapes image)", frets = "(12)(11)(12)(12)xx", fingers = "MIRL--" },
+  { by = "onlineguitarbooks", url = "https://onlineguitarbooks.com/f-sharp-7-sharp-9-chord/", chord = "F#7#9 (10 shapes image)", frets = "2122xx", fingers = "MIRL--" },
+]
+
+"0x2133" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e/7-sharp-9/textual/", chord = "E7#9", frets = "0x2133", fingers = "--MIRL" },
+]
+
+"8(10)898(11)" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a-flat/7-sharp-9/textual/", chord = "Ab7#9", frets = "464547", fingers = "IRIMIL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a-sharp/7-sharp-9/textual/", chord = "A#7#9", frets = "686769", fingers = "IRIMIL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b-flat/7-sharp-9/textual/", chord = "Bb7#9", frets = "686769", fingers = "IRIMIL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b/7-sharp-9/textual/", chord = "B7#9", frets = "79787(10)", fingers = "IRIMIL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c-sharp/7-sharp-9/textual/", chord = "C#7#9", frets = "9(11)9(10)9(12)", fingers = "IRIMIL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/7-sharp-9/textual/", chord = "C7#9", frets = "8(10)898(11)", fingers = "IRIMIL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d-flat/7-sharp-9/textual/", chord = "Db7#9", frets = "9(11)9(10)9(12)", fingers = "IRIMIL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d-sharp/7-sharp-9/textual/", chord = "D#7#9", frets = "(11)(13)(11)(12)(11)(14)", fingers = "IRIMIL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d/7-sharp-9/textual/", chord = "D7#9", frets = "(10)(12)(10)(11)(10)(13)", fingers = "IRIMIL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e-flat/7-sharp-9/textual/", chord = "Eb7#9", frets = "(11)(13)(11)(12)(11)(14)", fingers = "IRIMIL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f-sharp/7-sharp-9/textual/", chord = "F#7#9", frets = "242325", fingers = "IRIMIL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f/7-sharp-9/textual/", chord = "F7#9", frets = "131214", fingers = "IRIMIL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g-flat/7-sharp-9/textual/", chord = "Gb7#9", frets = "242325", fingers = "IRIMIL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g-sharp/7-sharp-9/textual/", chord = "G#7#9", frets = "464547", fingers = "IRIMIL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g/7-sharp-9/textual/", chord = "G7#9", frets = "353436", fingers = "IRIMIL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db/blob/master/src/db/guitar/chords/C/7%239.js", chord = "C7#9", frets = "8(10)898(11)", fingers = "IRIMIL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db/blob/master/src/db/guitar/chords/C%23/7%239.js", chord = "C#7#9", frets = "9(11)9(10)9(12)", fingers = "IRIMIL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db/blob/master/src/db/guitar/chords/D/7%239.js", chord = "D7#9", frets = "(10)(12)(10)(11)(10)(13)", fingers = "IRIMIL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db/blob/master/src/db/guitar/chords/F/7%239.js", chord = "F7#9", frets = "131214", fingers = "IRIMIL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db/blob/master/src/db/guitar/chords/F%23/7%239.js", chord = "F#7#9", frets = "242325", fingers = "IRIMIL" },
+]
+
+"8(10)x9(11)(11)" = [
+  { by = "guitar-player", url = "https://www.guitarplayer.com/technique/extended-altered-chords-expand-your-vocabulary-with-advanced-chord-voicings-tab", chord = "G7#9, Figure 15 (3fr.)", frets = "35x466", fingers = "IR-MLL" },
+]
+
+"878888" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a-flat/7-sharp-9/textual/", chord = "Ab7#9", frets = "434444", fingers = "MIRRRR" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f-sharp/7-sharp-9/textual/", chord = "F#7#9", frets = "212222", fingers = "MIRRRR" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g-flat/7-sharp-9/textual/", chord = "Gb7#9", frets = "212222", fingers = "MIRRRR" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g-sharp/7-sharp-9/textual/", chord = "G#7#9", frets = "434444", fingers = "MIRRRR" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g/7-sharp-9/textual/", chord = "G7#9", frets = "323333", fingers = "MIRRRR" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db/blob/master/src/db/guitar/chords/Ab/7%239.js", chord = "Ab7#9", frets = "434444", fingers = "MIRRRL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db/blob/master/src/db/guitar/chords/F%23/7%239.js", chord = "F#7#9", frets = "212222", fingers = "MIRRRL" },
+]
+
+"87888x" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a-sharp/7-sharp-9/textual/", chord = "A#7#9", frets = "65666x", fingers = "MIRRR-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b-flat/7-sharp-9/textual/", chord = "Bb7#9", frets = "65666x", fingers = "MIRRR-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b/7-sharp-9/textual/", chord = "B7#9", frets = "76777x", fingers = "MIRRR-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c-sharp/7-sharp-9/textual/", chord = "C#7#9", frets = "98999x", fingers = "MIRRR-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/7-sharp-9/textual/", chord = "C7#9", frets = "87888x", fingers = "MIRRR-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d-flat/7-sharp-9/textual/", chord = "Db7#9", frets = "98999x", fingers = "MIRRR-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d/7-sharp-9/textual/", chord = "D7#9", frets = "(10)9(10)(10)(10)x", fingers = "MIRRR-" },
+]
+
+"8x89(11)(11)" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/4-d/59-b79", chord = "Db7(#9)", frets = "9x9(10)(12)(12)", fingers = "I-MRLL", note = "caption: This is a Db7(#9) chord." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d-flat/7-sharp-9/textual/", chord = "Db7#9", frets = "9x9(10)(12)(12)", fingers = "I-MRLL" },
+]
+
+"x10121" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a-sharp/7-sharp-9/textual/", chord = "A#7#9", frets = "x10121", fingers = "-I-MLR" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b-flat/7-sharp-9/textual/", chord = "Bb7#9", frets = "x10121", fingers = "-I-MLR" },
+]
+
+"x1012x" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/2-b/59-b79", chord = "Bb7(#9)sus4", frets = "x1012x", fingers = "-M-RL-", note = "caption: This is a Bb7(#9) chord." },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db/blob/master/src/db/guitar/chords/Bb/7%239.js", chord = "Bb7#9", frets = "x1012x", fingers = "-I-MR-" },
+]
+
+"xx1022" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d-sharp/7-sharp-9/textual/", chord = "D#7#9", frets = "xx1022", fingers = "--I-RL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e-flat/7-sharp-9/textual/", chord = "Eb7#9", frets = "xx1022", fingers = "--I-RL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db/blob/master/src/db/guitar/chords/Eb/7%239.js", chord = "Eb7#9", frets = "xx1022", fingers = "--M-RL" },
+]

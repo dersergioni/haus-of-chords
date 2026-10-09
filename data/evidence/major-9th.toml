@@ -1,0 +1,108 @@
+# Where each voicing of data/chords/major-9th.toml is published, keyed by its frets from the 6th string to the 1st.
+# The format is described in data/README.md.
+
+"x3243x" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/2-b/91-major-9", chord = "Bmaj9", frets = "x2132x", fingers = "-MILR-" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/91-major-9", chord = "Cmaj9", frets = "x3243x", fingers = "-MILR-" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/4-d/72-bmajor-9", chord = "Dbmaj9", frets = "x4354x", fingers = "-MILR-" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/4-d/91-major-9", chord = "Dmaj9", frets = "x5465x", fingers = "-MILR-" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/72-bmajor-9", chord = "Ebmaj9", frets = "x6576x", fingers = "-MILR-" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/6-f/91-major-9", chord = "Fmaj9", frets = "x8798x", fingers = "-MILR-" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/7-g/91-major-9", chord = "Gmaj9", frets = "x(10)9(11)(10)x", fingers = "-MILR-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a-flat/maj9/textual/", chord = "Abmaj9", frets = "x(11)(10)(12)(11)x", fingers = "-MILR-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b/maj9/textual/", chord = "Bmaj9", frets = "x2132x", fingers = "-MILR-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c-sharp/maj9/textual/", chord = "C#maj9", frets = "x4354x", fingers = "-MILR-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/maj9/textual/", chord = "Cmaj9", frets = "x3243x", fingers = "-MILR-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d-flat/maj9/textual/", chord = "Dbmaj9", frets = "x4354x", fingers = "-MILR-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d-sharp/maj9/textual/", chord = "D#maj9", frets = "x6576x", fingers = "-MILR-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d/maj9/textual/", chord = "Dmaj9", frets = "x5465x", fingers = "-MILR-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e-flat/maj9/textual/", chord = "Ebmaj9", frets = "x6576x", fingers = "-MILR-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f-sharp/maj9/textual/", chord = "F#maj9", frets = "x98(10)9x", fingers = "-MILR-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f/maj9/textual/", chord = "Fmaj9", frets = "x8798x", fingers = "-MILR-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g-flat/maj9/textual/", chord = "Gbmaj9", frets = "x98(10)9x", fingers = "-MILR-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g-sharp/maj9/textual/", chord = "G#maj9", frets = "x(11)(10)(12)(11)x", fingers = "-MILR-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g/maj9/textual/", chord = "Gmaj9", frets = "x(10)9(11)(10)x", fingers = "-MILR-" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Gmaj9", frets = "x(10)9(11)(10)x", fingers = "-MILR-" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "C#maj9", frets = "x4354x", fingers = "-MILR-" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Ebmaj9", frets = "x6576x", fingers = "-MILR-" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Emaj9", frets = "x7687x", fingers = "-MILR-" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Fmaj9", frets = "x8798x", fingers = "-MILR-" },
+  { by = "guitar-command", url = "https://www.guitarcommand.com/cmaj9-guitar-chord/", chord = "Cmaj9", frets = "x3243x", fingers = "-MILR-" },
+  { by = "guitar-command", url = "https://www.guitarcommand.com/major-9th-chord/", chord = "movable maj9 shape (no key named; example in C)", frets = "x3243x", fingers = "-MILR-" },
+  { by = "jazz-guitar-licks", url = "https://www.jazz-guitar-licks.com/pages/chords/major-9th-guitar-chord-diagrams-drop-2-voicings.html", chord = "movable maj9 shape (no key named; example in C)", frets = "x3243x" },
+  { by = "onlineguitarbooks", url = "https://onlineguitarbooks.com/c-major-9-chord/", chord = "Cmaj9", frets = "x3243x", fingers = "-MILR-" },
+]
+
+"x(15)(12)(12)(12)(12)" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f-sharp/maj9/textual/", chord = "F#maj9", frets = "x96666", fingers = "-LIIII" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f/maj9/textual/", chord = "Fmaj9", frets = "x85555", fingers = "-LIIII" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g-flat/maj9/textual/", chord = "Gbmaj9", frets = "x96666", fingers = "-LIIII" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "C#maj9", frets = "x41111", fingers = "-LIIII" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Dmaj9", frets = "x52222", fingers = "-LIIII" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Ebmaj9", frets = "x63333", fingers = "-LIIII" },
+  { by = "onlineguitarbooks", url = "https://onlineguitarbooks.com/c-major-9-chord/", chord = "Cmaj9", frets = "x(15)(12)(12)(12)(12)", fingers = "-LIIII" },
+]
+
+"xx(10)9(12)(10)" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/91-major-9", chord = "Cmaj9", frets = "xx(10)9(12)(10)", fingers = "--MILR" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/maj9/textual/", chord = "Cmaj9", frets = "xx(10)9(12)(10)", fingers = "--MILR" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "C#maj9", frets = "xx(11)(10)(13)(11)", fingers = "--MILR" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "F#maj9", frets = "xx4364", fingers = "--MILR" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Bmaj9", frets = "xx98(11)9", fingers = "--MILR" },
+  { by = "jazz-guitar-licks", url = "https://www.jazz-guitar-licks.com/pages/chords/major-9th-guitar-chord-diagrams-drop-2-voicings.html", chord = "movable maj9 shape (no key named; example in C)", frets = "xx(10)9(12)(10)" },
+]
+
+"8797xx" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a-sharp/maj9/textual/", chord = "A#maj9", frets = "6575xx", fingers = "MILI--" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b-flat/maj9/textual/", chord = "Bbmaj9", frets = "6575xx", fingers = "MILI--" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b/maj9/textual/", chord = "Bmaj9", frets = "7686xx", fingers = "MILI--" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c-sharp/maj9/textual/", chord = "C#maj9", frets = "98(10)8xx", fingers = "MIRI--" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/maj9/textual/", chord = "Cmaj9", frets = "8797xx", fingers = "MIRI--" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d-flat/maj9/textual/", chord = "Dbmaj9", frets = "98(10)8xx", fingers = "MIRI--" },
+  { by = "jazz-guitar-licks", url = "https://www.jazz-guitar-licks.com/pages/chords/major-9th-guitar-chord-diagrams-drop-2-voicings.html", chord = "movable maj9 shape (no key named; example in C)", frets = "8797xx" },
+]
+
+"021102" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e/maj9/textual/", chord = "Emaj9", frets = "021102", fingers = "-RIM-L" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Emaj9", frets = "021102", fingers = "-RIM-L" },
+]
+
+"103010" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f/maj9/textual/", chord = "Fmaj9", frets = "103010", fingers = "I-L-M-" },
+]
+
+"87978x" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a-flat/maj9/textual/", chord = "Abmaj9", frets = "43534x", fingers = "MILIR-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a/maj9/textual/", chord = "Amaj9", frets = "54645x", fingers = "MILIR-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g-sharp/maj9/textual/", chord = "G#maj9", frets = "43534x", fingers = "MILIR-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g/maj9/textual/", chord = "Gmaj9", frets = "32423x", fingers = "MILIR-" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Bbmaj9", frets = "65756x", fingers = "MILIR-" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Bmaj9", frets = "76867x", fingers = "MILIR-" },
+]
+
+"x02424" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/91-major-9", chord = "Amaj9", frets = "x02424", fingers = "--IRIL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a/maj9/textual/", chord = "Amaj9", frets = "x02424", fingers = "--IRIL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Amaj9", frets = "x02424", fingers = "--IRIL" },
+]
+
+"x10211" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a-sharp/maj9/textual/", chord = "A#maj9", frets = "x10211", fingers = "-I-LMR" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b-flat/maj9/textual/", chord = "Bbmaj9", frets = "x10211", fingers = "-I-LMR" },
+]
+
+"x30000" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/91-major-9", chord = "Cmaj9", frets = "x30000", fingers = "-R----" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/maj9/textual/", chord = "Cmaj9", frets = "x30000", fingers = "-R----" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Cmaj9", frets = "x30000", fingers = "-R----" },
+]
+
+"x30430" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/91-major-9", chord = "Cmaj9", frets = "x30430", fingers = "-I-RM-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/maj9/textual/", chord = "Cmaj9", frets = "x30430", fingers = "-I-RM-" },
+]
+
+"xx1031" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d-sharp/maj9/textual/", chord = "D#maj9", frets = "xx1031", fingers = "--I-LM" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e-flat/maj9/textual/", chord = "Ebmaj9", frets = "xx1031", fingers = "--I-LM" },
+]

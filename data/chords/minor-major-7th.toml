@@ -1,0 +1,21 @@
+# Minor-major 7th chords (Cm(maj7)). The format is described in data/README.md; the sources are in data/evidence/minor-major-7th.toml.
+symbol   = "m(maj7)"
+name     = "minor-major 7th"
+formula  = "1 ♭3 5 7"
+optional = ["5"]
+about    = "minor triad + major 7th"
+
+voicings = [
+  # movable shapes are written with the root on C; the book shows the open voicings of a root in this order
+  { chord = "Am(maj7)", strings = "x 0 2R 1I 1M 0" },
+  { chord = "Dm(maj7)", strings = "x x 0 2M 2R 1I" },
+  { chord = "Em(maj7)", strings = "0 2M 1I 0 0 0" },
+  { chord = "Cm(maj7)", strings = "x 3I 5L 4M 4R x" },
+  { chord = "Cm(maj7)", strings = "8I x 9L 8M 8R x" },
+  { chord = "Cm(maj7)", strings = "x x 10I 12R 12L 11M" },
+  { chord = "Cm(maj7)", strings = "x 3I x 4R 4L 3M" },
+  { chord = "Fm(maj7)", strings = "x x 3L 1I 1M 0" },
+  { chord = "Bm(maj7)", strings = "x 2I 0 3R 3L 2M" },
+  { chord = "Cm(maj7)", strings = "x 3R 1I 0 0 3L" },
+  { chord = "Cm(maj7)", strings = "8I 10R 9M 8I 8I 8I" },
+]

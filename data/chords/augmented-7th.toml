@@ -1,0 +1,18 @@
+# Augmented 7th chords (C7♯5). The format is described in data/README.md; the sources are in data/evidence/augmented-7th.toml.
+symbol   = "7♯5"
+name     = "augmented 7th"
+formula  = "1 3 ♯5 ♭7"
+optional = []
+about    = "7th chord with ♯5 (aug + ♭7)"
+
+voicings = [
+  # movable shapes are written with the root on C; the book shows the open voicings of a root in this order
+  { chord = "E7♯5", strings = "0 x 0 1I 1I x" },
+  { chord = "C7♯5", strings = "8I x 8M 9R 9L x" },
+  { chord = "C7♯5", strings = "x 3I 6L 3I 5R x" },
+  { chord = "C7♯5", strings = "x x 10I 13L 11M 12R" },
+  { chord = "E7♯5", strings = "0 3M 0 1I 3L 0" },
+  { chord = "A7♯5", strings = "x 0 3R 0 2M 1I" },
+  { chord = "A7♯5", strings = "x 0 3R 2I 2M 3L" },
+  { chord = "B7♯5", strings = "x 2M 1I 2R 0 3L" },
+]

@@ -1,0 +1,44 @@
+# Minor chords (Cm). The format is described in data/README.md; the sources are in data/evidence/minor.toml.
+symbol   = "m"
+name     = "minor"
+formula  = "1 ♭3 5"
+optional = ["5"]
+about    = "♭3 instead of 3"
+
+voicings = [
+  # movable shapes are written with the root on C; the book shows the open voicings of a root in this order
+  { chord = "Cm", strings = "x 3L 1I 0 1M x" },
+  { chord = "Dm", strings = "x x 0 2M 3R 1I" },
+  { chord = "Em", strings = "0 2M 2R 0 0 0" },
+  { chord = "Am", strings = "x 0 2M 2R 1I 0" },
+  { chord = "Cm", strings = "8I 10R 10L 8I 8I 8I" },
+  { chord = "Cm", strings = "x 3I 5R 5L 4M 3I" },
+  { chord = "Cm", strings = "x x 10R 8I 8I 8I" },
+  { chord = "Cm", strings = "x x 10I 12R 13L 11M" },
+  { chord = "Cm", strings = "x 15L 13M 12I 13R x" },
+  { chord = "Cm", strings = "x 3I 5R 5L 4M x" },
+  { chord = "Em", strings = "x x 2M 0 0 0" },
+  { chord = "Cm", strings = "8I 10R x 8I x 8I" },
+  { chord = "Cm", strings = "8M x x 8R x x" },
+  { chord = "Em", strings = "0 2M 2R 0 0 3L" },
+  { chord = "Em", strings = "0 2M 2R 0 x x" },
+  { chord = "Cm", strings = "8I x x 8I 8I x" },
+  { chord = "Cm", strings = "8M x x 8R 8R 8R" },
+  { chord = "Cm", strings = "8I 10R 10L 8I 8I x" },
+  { chord = "Cm", strings = "8I 10L x 8M x x" },
+  { chord = "Cm", strings = "8I x 10R 8I 8I x" },
+  { chord = "Cm", strings = "8L 6M 5I 5I x x" },
+  { chord = "Cm", strings = "8L 6M 5I x x x" },
+  { chord = "Cm", strings = "8I x 10R 8I 8I 8I" },
+  { chord = "Cm", strings = "8R 6I x x x x" },
+  { chord = "Am", strings = "x 0 x 2M 1I 0" },
+  { chord = "Bm", strings = "x 2I 0 x x x" },
+  { chord = "Cm", strings = "x 3R 1I 0 x x" },
+  { chord = "Cm", strings = "x 3I x 0 4M x" },
+  { chord = "Cm", strings = "x 3I x 5R 4M 3I" },
+  { chord = "Cm", strings = "x 3R 1I x x x" },
+  { chord = "Cm", strings = "x 15L 13M 12I x x" },
+  { chord = "Cm", strings = "x x 10R 8I 8I x" },
+  { chord = "Em", strings = "x x 2I 0 0 x" },
+  { chord = "Cm", strings = "x x 10R 8I x x" },
+]

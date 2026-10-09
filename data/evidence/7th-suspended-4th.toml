@@ -1,0 +1,204 @@
+# Where each voicing of data/chords/7th-suspended-4th.toml is published, keyed by its frets from the 6th string to the 1st.
+# The format is described in data/README.md.
+
+"xx0213" = [
+  { by = "guitar-player", url = "https://www.guitarplayer.com/lessons/suspended-chords-liven-up-your-rhythm-playing-with-open-position-and-movable-voicings", chord = "D7sus4 (Fig. 1)", frets = "xx0213", via = "image" },
+  { by = "guitar-world", url = "https://www.guitarworld.com/lessons/artist-lessons/the-ultimate-guide-to-sus-chords", chord = "D7sus4", frets = "xx0213", via = "image" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/d-7-sus-4", chord = "D7 sus 4", frets = "xx0213", fingers = "---MIL", via = "reader" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "D7sus4", frets = "xx0213", fingers = "---MIL" },
+]
+
+"020200" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e/7sus4/textual", chord = "E7sus4", frets = "020200", fingers = "-M-R--" },
+  { by = "guitar-player", url = "https://www.guitarplayer.com/lessons/suspended-chords-liven-up-your-rhythm-playing-with-open-position-and-movable-voicings", chord = "E7sus4 (Fig. 1)", frets = "020200", via = "image" },
+  { by = "guitar-world", url = "https://www.guitarworld.com/lessons/artist-lessons/the-ultimate-guide-to-sus-chords", chord = "E7sus4", frets = "020200", via = "image" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/e-7-sus-4", chord = "E7 sus 4", frets = "020200", fingers = "-M-R--", via = "reader" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "E7sus4", frets = "020200", fingers = "-M-R--" },
+]
+
+"x02030" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a/7sus4/textual", chord = "A7sus4", frets = "x02030", fingers = "--I-R-" },
+  { by = "fender", url = "https://www.fender.com/play/lessons/a7sus4-open-position-v1", chord = "A7sus4 Open Position (v1)", frets = "x02030", fingers = "--I-R-", via = "reader", note = "instructor Matt Lake" },
+  { by = "fender", url = "https://www.fender.com/play/lessons/a7sus4-open-position-v2", chord = "A7sus4 Open Position (v2)", frets = "x02030", fingers = "--M-L-", via = "reader", note = "instructor Johnny Ashby" },
+  { by = "guitar-player", url = "https://www.guitarplayer.com/lessons/suspended-chords-liven-up-your-rhythm-playing-with-open-position-and-movable-voicings", chord = "A7sus4 (Fig. 1)", frets = "x02030", via = "image" },
+  { by = "guitar-world", url = "https://www.guitarworld.com/lessons/artist-lessons/the-ultimate-guide-to-sus-chords", chord = "A7sus4", frets = "x02030", via = "image" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/a-7-sus4", chord = "A7 sus4", frets = "x02030", fingers = "--M-L-", via = "reader" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "A7sus4", frets = "x02030", fingers = "--M-R-" },
+]
+
+"x02033" = [
+  { by = "mike-tyka", url = "https://miketyka.com/guitar/chordshp.htm", chord = "A7sus4", frets = "x02033" },
+  { by = "lauren-bateman", url = "https://www.laurenbateman.com/wonderwall-chord-chart/", chord = "A7sus4", frets = "x02033", fingers = "--I-RL", via = "image", note = "Wonderwall lesson, chord chart: fingers 1, 3, 4" },
+  { by = "lauren-bateman", url = "https://www.laurenbateman.com/wish-you-were-here-chords/", chord = "A7sus4", frets = "x02033", fingers = "--I-RL", via = "image", note = "Wish You Were Here lesson, chord chart: fingers 1, 3, 4" },
+]
+
+"8(10)8(10)88" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a-flat/7sus4/textual/", chord = "Ab7sus4", frets = "464644", fingers = "IRILII" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a/7sus4/textual/", chord = "A7sus4", frets = "575755", fingers = "IRILII" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b-flat/7sus4/textual/", chord = "Bb7sus4", frets = "686866", fingers = "IRILII" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b/7sus4/textual/", chord = "B7sus4", frets = "797977", fingers = "IRILII" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c-sharp/7sus4/textual/", chord = "C#7sus4", frets = "9(11)9(11)99", fingers = "IRILII" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/7sus4/textual/", chord = "C7sus4", frets = "8(10)8(10)88", fingers = "IRILII" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d/7sus4/textual/", chord = "D7sus4", frets = "(10)(12)(10)(12)(10)(10)", fingers = "IRILII" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e-flat/7sus4/textual/", chord = "Eb7sus4", frets = "(11)(13)(11)(13)(11)(11)", fingers = "IRILII" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f-sharp/7sus4/textual/", chord = "F#7sus4", frets = "242422", fingers = "IRILII" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f/7sus4/textual/", chord = "F7sus4", frets = "131311", fingers = "IRILII" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g/7sus4/textual/", chord = "G7sus4", frets = "353533", fingers = "IRILII" },
+  { by = "guitar-command", url = "https://www.guitarcommand.com/7sus4-chord-week/", chord = "7sus4 (movable shape next to the dominant 7 shape)", frets = "131311", fingers = "IRILII", note = "diagram Dominant7-and-7sus4-Chords.gif (no fret number); progressions show A7sus4 at fret 5 and D7sus4 at fret 10" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/a-flat-7sus4.html", chord = "Ab7sus4 (Barre E7sus4-shape RECOMMENDED)", frets = "464644", fingers = "IRILII" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/a7sus4.html", chord = "A7sus4 (Barre E7sus4-shape)", frets = "575755", fingers = "IRILII" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/b-flat-7sus4.html", chord = "Bb7sus4 (Barre E7sus4-shape)", frets = "686866", fingers = "IRILII" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/b7sus4.html", chord = "B7sus4 (Barre E7sus4-shape)", frets = "797977", fingers = "IRILII" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/c7sus4.html", chord = "C7sus4 (Barre E7sus4-shape)", frets = "8(10)8(10)88", fingers = "IRILII" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/d-flat-7sus4.html", chord = "Db7sus4 (Barre E7sus4-shape)", frets = "9(11)9(11)99", fingers = "IRILII" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/d7sus4.html", chord = "D7sus4 (Barre E7sus4-shape)", frets = "(10)(12)(10)(12)(10)(10)", fingers = "IRILII" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/e-flat-7sus4.html", chord = "Eb7sus4 (Barre E7sus4-shape)", frets = "(11)(13)(11)(13)(11)(11)", fingers = "IRILII" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/e7sus4.html", chord = "E7sus4 (Barre E7sus4-shape)", frets = "(12)(14)(12)(14)(12)(12)", fingers = "IRILII" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/f7sus4.html", chord = "F7sus4 (Barre E7sus4-shape RECOMMENDED)", frets = "131311", fingers = "IRILII" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/g-flat-7sus4.html", chord = "Gb7sus4 (Barre E7sus4-shape RECOMMENDED)", frets = "242422", fingers = "IRILII" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/g7sus4.html", chord = "G7sus4 (Barre E7sus4-shape RECOMMENDED)", frets = "353533", fingers = "IRILII" },
+  { by = "8notes", url = "https://www.8notes.com/guitar_chord_chart/Ab7sus4.asp", chord = "Ab7sus4 (svg_ab7sus4__3.svg)", frets = "464644", fingers = "IRIRII" },
+  { by = "8notes", url = "https://www.8notes.com/guitar_chord_chart/Ax7sus4.asp", chord = "A#7sus4 (svg_ax7sus4__3.svg)", frets = "686866", fingers = "IRIRII" },
+  { by = "8notes", url = "https://www.8notes.com/guitar_chord_chart/F7sus4.asp", chord = "F7sus4 (svg_f7sus4__1.svg)", frets = "131311", fingers = "IRIRII" },
+  { by = "8notes", url = "https://www.8notes.com/guitar_chord_chart/Fx7sus4.asp", chord = "F#7sus4 (svg_fx7sus4__2.svg)", frets = "242422", fingers = "IRILII" },
+  { by = "8notes", url = "https://www.8notes.com/guitar_chord_chart/G7sus4.asp", chord = "G7sus4 (svg_g7sus4__1.svg)", frets = "353533", fingers = "IRIRII" },
+  { by = "8notes", url = "https://www.8notes.com/guitar_chord_chart/Gb7sus4.asp", chord = "Gb7sus4 (svg_gb7sus4__3.svg)", frets = "242422", fingers = "IRILII" },
+  { by = "8notes", url = "https://www.8notes.com/guitar_chord_chart/Gx7sus4.asp", chord = "G#7sus4 (svg_gx7sus4__3.svg)", frets = "464644", fingers = "IRIRII" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "D7sus4", frets = "(10)(12)(10)(12)(10)(10)", fingers = "IRILII" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Eb7sus4", frets = "(11)(13)(11)(13)(11)(11)", fingers = "IRILII" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "F7sus4", frets = "131311", fingers = "IRILII" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "F#7sus4", frets = "242422", fingers = "IRILII" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "G7sus4", frets = "353533", fingers = "IRILII" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Ab7sus4", frets = "464644", fingers = "IRILII" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "A7sus4", frets = "575755", fingers = "IRILII" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Bb7sus4", frets = "686866", fingers = "IRILII" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "B7sus4", frets = "797977", fingers = "IRILII" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "C7sus4", frets = "8(10)8(10)88", fingers = "IRILII" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "C#7sus4", frets = "9(11)9(11)99", fingers = "IRILII" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a-flat/7sus4/textual", chord = "Ab7sus4", frets = "464644", fingers = "IRILII" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a-sharp/7sus4/textual", chord = "Bb7sus4", frets = "686866", fingers = "IRILII" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a/7sus4/textual", chord = "A7sus4", frets = "575755", fingers = "IRILII" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b/7sus4/textual", chord = "B7sus4", frets = "797977", fingers = "IRILII" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c-sharp/7sus4/textual", chord = "C#7sus4", frets = "9(11)9(11)99", fingers = "IRILII" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/7sus4/textual", chord = "C7sus4", frets = "8(10)8(10)88", fingers = "IRILII" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d-sharp/7sus4/textual", chord = "Eb7sus4", frets = "(11)(13)(11)(13)(11)(11)", fingers = "IRILII" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d/7sus4/textual", chord = "D7sus4", frets = "(10)(12)(10)(12)(10)(10)", fingers = "IRILII" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f-sharp/7sus4/textual", chord = "F#7sus4", frets = "242422", fingers = "IRILII" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f/7sus4/textual", chord = "F7sus4", frets = "131311", fingers = "IRILII" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g/7sus4/textual", chord = "G7sus4", frets = "353533", fingers = "IRILII" },
+  { by = "guitar-player", url = "https://www.guitarplayer.com/lessons/suspended-chords-liven-up-your-rhythm-playing-with-open-position-and-movable-voicings", chord = "A7sus4 (Fig. 4)", frets = "575755", via = "image" },
+  { by = "guitar-player", url = "https://www.guitarplayer.com/lessons/suspended-chords-liven-up-your-rhythm-playing-with-open-position-and-movable-voicings", chord = "B7sus4 (Fig. 7)", frets = "797977", via = "image" },
+  { by = "guitar-world", url = "https://www.guitarworld.com/lessons/artist-lessons/the-ultimate-guide-to-sus-chords", chord = "G7sus4", frets = "353533", via = "image" },
+]
+
+"x35363" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b-flat/7sus4/textual/", chord = "Bb7sus4", frets = "x13141", fingers = "-IRILI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b/7sus4/textual/", chord = "B7sus4", frets = "x24252", fingers = "-IRILI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c-sharp/7sus4/textual/", chord = "C#7sus4", frets = "x46474", fingers = "-IRILI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/7sus4/textual/", chord = "C7sus4", frets = "x35363", fingers = "-IRILI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d/7sus4/textual/", chord = "D7sus4", frets = "x57585", fingers = "-IRILI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e-flat/7sus4/textual/", chord = "Eb7sus4", frets = "x68696", fingers = "-IRILI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f-sharp/7sus4/textual/", chord = "F#7sus4", frets = "x9(11)9(12)9", fingers = "-IRILI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f/7sus4/textual/", chord = "F7sus4", frets = "x8(10)8(11)8", fingers = "-IRILI" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/a-flat-7sus4.html", chord = "Ab7sus4 (Barre A7sus4-shape)", frets = "x(11)(13)(11)(14)(11)", fingers = "-IRILI" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/a7sus4.html", chord = "A7sus4 (Barre A7sus4-shape)", frets = "x(12)(14)(12)(15)(12)", fingers = "-IRILI" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/b-flat-7sus4.html", chord = "Bb7sus4 (Barre A7sus4-shape RECOMMENDED)", frets = "x13141", fingers = "-IRILI" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/b7sus4.html", chord = "B7sus4 (Barre A7sus4-shape RECOMMENDED)", frets = "x24252", fingers = "-IRILI" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/c7sus4.html", chord = "C7sus4 (Barre A7sus4-shape RECOMMENDED)", frets = "x35363", fingers = "-IRILI" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/d-flat-7sus4.html", chord = "Db7sus4 (Barre A7sus4-shape RECOMMENDED)", frets = "x46474", fingers = "-IRILI" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/d7sus4.html", chord = "D7sus4 (Barre A7sus4-shape)", frets = "x57585", fingers = "-IRILI" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/e-flat-7sus4.html", chord = "Eb7sus4 (Barre A7sus4-shape RECOMMENDED)", frets = "x68696", fingers = "-IRILI" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/e7sus4.html", chord = "E7sus4 (Barre A7sus4-shape)", frets = "x797(10)7", fingers = "-IRILI" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/f7sus4.html", chord = "F7sus4 (Barre A7sus4-shape)", frets = "x8(10)8(11)8", fingers = "-IRILI" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/g-flat-7sus4.html", chord = "Gb7sus4 (Barre A7sus4-shape)", frets = "x9(11)9(12)9", fingers = "-IRILI" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/g7sus4.html", chord = "G7sus4 (Barre A7sus4-shape)", frets = "x(10)(12)(10)(13)(10)", fingers = "-IRILI" },
+  { by = "8notes", url = "https://www.8notes.com/guitar_chord_chart/Ax7sus4.asp", chord = "A#7sus4 (svg_ax7sus4.svg)", frets = "x13141", fingers = "-IMILI" },
+  { by = "8notes", url = "https://www.8notes.com/guitar_chord_chart/B7sus4.asp", chord = "B7sus4 (svg_b7sus4__1.svg)", frets = "x24252", fingers = "-IMILI" },
+  { by = "8notes", url = "https://www.8notes.com/guitar_chord_chart/Bb7sus4.asp", chord = "Bb7sus4 (svg_bb7sus4.svg)", frets = "x13141", fingers = "-IMILI" },
+  { by = "8notes", url = "https://www.8notes.com/guitar_chord_chart/Bb7sus4.asp", chord = "Bb7sus4 (svg_bb7sus4__2.svg)", frets = "x13141", fingers = "-IMILI" },
+  { by = "8notes", url = "https://www.8notes.com/guitar_chord_chart/C7sus4.asp", chord = "C7sus4 (svg_c7sus4.svg)", frets = "x35363", fingers = "-IMILI" },
+  { by = "8notes", url = "https://www.8notes.com/guitar_chord_chart/Cx7sus4.asp", chord = "C#7sus4 (svg_cx7sus4__3.svg)", frets = "x46474", fingers = "-IRILI" },
+  { by = "8notes", url = "https://www.8notes.com/guitar_chord_chart/Db7sus4.asp", chord = "Db7sus4 (svg_db7sus4__3.svg)", frets = "x46474", fingers = "-IRILI" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Bb7sus4", frets = "x13141", fingers = "-IRILI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a-sharp/7sus4/textual", chord = "Bb7sus4", frets = "x13141", fingers = "-IRILI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b/7sus4/textual", chord = "B7sus4", frets = "x24252", fingers = "-IRILI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c-sharp/7sus4/textual", chord = "C#7sus4", frets = "x46474", fingers = "-IRILI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/7sus4/textual", chord = "C7sus4", frets = "x35363", fingers = "-IRILI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d-sharp/7sus4/textual", chord = "Eb7sus4", frets = "x68696", fingers = "-IRILI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d/7sus4/textual", chord = "D7sus4", frets = "x57585", fingers = "-IRILI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f-sharp/7sus4/textual", chord = "F#7sus4", frets = "x9(11)9(12)9", fingers = "-IRILI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f/7sus4/textual", chord = "F7sus4", frets = "x8(10)8(11)8", fingers = "-IRILI" },
+  { by = "guitar-player", url = "https://www.guitarplayer.com/lessons/suspended-chords-liven-up-your-rhythm-playing-with-open-position-and-movable-voicings", chord = "D7sus4 (Fig. 4)", frets = "x57585", via = "image" },
+  { by = "guitar-world", url = "https://www.guitarworld.com/lessons/artist-lessons/the-ultimate-guide-to-sus-chords", chord = "C7sus4", frets = "x35363", via = "image" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/21-7-sus4", chord = "C#7 sus4", frets = "x46474", fingers = "-IRILI" },
+]
+
+"xx(10)(12)(11)(13)" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a-flat/7sus4/textual/", chord = "Ab7sus4", frets = "xx6879", fingers = "--IRML" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b-flat/7sus4/textual/", chord = "Bb7sus4", frets = "xx8(10)9(11)", fingers = "--IRML" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/a-flat-7sus4.html", chord = "Ab7sus4 (Closed position)", frets = "xx6879", fingers = "--IRML" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/b-flat-7sus4.html", chord = "Bb7sus4 (Closed position)", frets = "xx8(10)9(11)", fingers = "--IRML" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/d-flat-7sus4.html", chord = "Db7sus4 (Closed position)", frets = "xx(11)(13)(12)(14)", fingers = "--IRML" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/e-flat-7sus4.html", chord = "Eb7sus4 (Closed position)", frets = "xx1324", fingers = "--IRML" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/f7sus4.html", chord = "F7sus4 (Closed position)", frets = "xx3546", fingers = "--IRML" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/g-flat-7sus4.html", chord = "Gb7sus4 (Closed position)", frets = "xx4657", fingers = "--IRML" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/g7sus4.html", chord = "G7sus4 (Closed position)", frets = "xx5768", fingers = "--IRML" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/movable-shapes.html", chord = "7sus4 chord (movable shape, root on 4th string)", frets = "xx1324", note = "diagram without fingers or key; shown here at the first fret" },
+  { by = "8notes", url = "https://www.8notes.com/guitar_chord_chart/Dx7sus4.asp", chord = "D#7sus4 (svg_dx7sus4__1.svg)", frets = "xx1324", fingers = "--IRML" },
+  { by = "8notes", url = "https://www.8notes.com/guitar_chord_chart/E7sus4.asp", chord = "E7sus4 (svg_e7sus4__2.svg)", frets = "xx2435", fingers = "--IRML" },
+  { by = "8notes", url = "https://www.8notes.com/guitar_chord_chart/Eb7sus4.asp", chord = "Eb7sus4 (svg_eb7sus4__2.svg)", frets = "xx1324", fingers = "--IRML" },
+  { by = "8notes", url = "https://www.8notes.com/guitar_chord_chart/G7sus4.asp", chord = "G7sus4 (svg_g7sus4__3.svg)", frets = "xx5768", fingers = "--IRML" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Eb7sus4", frets = "xx1324", fingers = "--IRML" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "F#7sus4", frets = "xx4657", fingers = "--IRML" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Bb7sus4", frets = "xx8(10)9(11)", fingers = "--IRML" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a-flat/7sus4/textual", chord = "Ab7sus4", frets = "xx6879", fingers = "--IRML" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a-sharp/7sus4/textual", chord = "Bb7sus4", frets = "xx8(10)9(11)", fingers = "--IRML" },
+]
+
+"3x301x" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g/7sus4/textual", chord = "G7sus4", frets = "3x301x", fingers = "R-L-I-" },
+]
+
+"8x8(10)xx" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b-flat/7sus4/textual/", chord = "Bb7sus4", frets = "6x68xx", fingers = "I-ML--" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c-sharp/7sus4/textual/", chord = "C#7sus4", frets = "9x9(11)xx", fingers = "I-IL--" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b-flat/7sus4/textual", chord = "Bb7sus4", frets = "6x68xx", fingers = "I-ML--" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c-sharp/7sus4/textual", chord = "C#7sus4", frets = "9x9(11)xx", fingers = "I-IL--" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/21-7-sus4", chord = "C#7 sus4", frets = "9x9(11)xx", fingers = "I-IL--", note = "JamPlay caption: This is a C#7sus4 chord." },
+]
+
+"x02233" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/a-7-sus4", chord = "A7 sus4", frets = "x02233", fingers = "--IIRL", via = "reader" },
+]
+
+"x22200" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b/7sus4/textual", chord = "B7sus4", frets = "x22200", fingers = "-IMR--" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "B7sus4", frets = "x22200", fingers = "-IMR--" },
+]
+
+"x3331x" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c-sharp/7sus4/textual/", chord = "C#7sus4", frets = "x4442x", fingers = "-MRLI-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/7sus4/textual/", chord = "C7sus4", frets = "x3331x", fingers = "-MRLI-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e-flat/7sus4/textual/", chord = "Eb7sus4", frets = "x6664x", fingers = "-MRLI-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f-sharp/7sus4/textual/", chord = "F#7sus4", frets = "x9997x", fingers = "-MRLI-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f/7sus4/textual/", chord = "F7sus4", frets = "x8886x", fingers = "-MRLI-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g/7sus4/textual/", chord = "G7sus4", frets = "x(10)(10)(10)8x", fingers = "-MRLI-" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "D7sus4", frets = "x5553x", fingers = "-MRLI-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c-sharp/7sus4/textual", chord = "C#7sus4", frets = "x4442x", fingers = "-MRLI-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/7sus4/textual", chord = "C7sus4", frets = "x3331x", fingers = "-MRLI-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d-sharp/7sus4/textual", chord = "Eb7sus4", frets = "x6664x", fingers = "-MRLI-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f-sharp/7sus4/textual", chord = "F#7sus4", frets = "x9997x", fingers = "-MRLI-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f/7sus4/textual", chord = "F7sus4", frets = "x8886x", fingers = "-MRLI-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g/7sus4/textual", chord = "G7sus4", frets = "x(10)(10)(10)8x", fingers = "-MRLI-" },
+]
+
+"x333xx" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e-flat/7sus4/textual/", chord = "Eb7sus4", frets = "x666xx", fingers = "-MMR--" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d-flat/7sus4/textual", chord = "C#7sus4", frets = "x444xx", fingers = "-MMR--" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e-flat/7sus4/textual", chord = "Eb7sus4", frets = "x666xx", fingers = "-MMR--" },
+]
+
+"xx4420" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f-sharp/7sus4/textual", chord = "F#7sus4", frets = "xx4420", fingers = "--RLM-" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/6-f/21-7-sus4", chord = "F#7 sus4", frets = "xx4420", fingers = "--RLM-", note = "JamPlay caption: This voicing of F#7sus4 is used in the intro to \"Dogs\" by Pink Floyd." },
+]

@@ -1,0 +1,247 @@
+# Where each voicing of data/chords/minor-11th.toml is published, keyed by its frets from the 6th string to the 1st.
+# The format is described in data/README.md.
+
+"x20220" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b/m11/textual/", chord = "Bm11 pos2", frets = "x20220", fingers = "-M-RL-" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/bm11.html", chord = "Bm11 (Alt fingerings)", frets = "x20220", fingers = "-I-MR-" },
+  { by = "guitar-world", url = "https://www.guitarworld.com/lessons/beautiful-acoustic-guitar-chords", chord = "Example 5. Bm11", frets = "x20220", note = "hand-drawn diagram without fingers" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/2-b/93-minor-11", chord = "B chart", frets = "x20220", fingers = "-M-RL-", note = "chart caption: 'This is an \"open\" Bm11 chord.'" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Bm11", frets = "x20220", fingers = "-I-MR-" },
+]
+
+"2x2200" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f-sharp/m11/textual/", chord = "F#m11 pos5", frets = "2x2200", fingers = "M-RL--" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/Fs-min11", chord = "F# min11 (Open)", frets = "2x2200", fingers = "M-RL--", via = "browser" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/6-f/39-minor-11", chord = "F# chart", frets = "2x2200", fingers = "M-RL--", note = "chart caption: 'This is an F#m11 voicing.'" },
+]
+
+"3x0311" = [
+  { by = "guitar-world", url = "https://www.guitarworld.com/lessons/beautiful-acoustic-guitar-chords", chord = "Example 21. Gm11", frets = "3x0311", note = "hand-drawn diagram without fingers" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/g-min-11", chord = "Gmin 11 (Open)", frets = "3x0311", fingers = "R--LII", via = "browser" },
+]
+
+"8x886x" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a-flat/m11/textual/", chord = "Abm11 pos1", frets = "4x442x", fingers = "M-RLI-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a/m11/textual/", chord = "Am11 pos1", frets = "5x553x", fingers = "M-RLI-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b-flat/m11/textual/", chord = "Bbm11 pos4", frets = "6x664x", fingers = "M-RLI-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b/m11/textual/", chord = "Bm11 pos1", frets = "7x775x", fingers = "M-RLI-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c-sharp/m11/textual/", chord = "C#m11 pos2", frets = "9x997x", fingers = "M-RLI-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/m11/textual/", chord = "Cm11 pos1", frets = "8x886x", fingers = "M-RLI-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d/m11/textual/", chord = "Dm11 pos1", frets = "(10)x(10)(10)8x", fingers = "M-RLI-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e/m11/textual/", chord = "Em11 pos1", frets = "(12)x(12)(12)(10)x", fingers = "M-RLI-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f/m11/textual/", chord = "Fm11 pos1", frets = "(13)x(13)(13)(11)x", fingers = "M-RLI-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g/m11/textual/", chord = "Gm11 pos1", frets = "3x331x", fingers = "M-RLI-" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/a-flat-m11.html", chord = "Abm11 (Root on 6th string)", frets = "4x442x", fingers = "M-RLI-" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/am11.html", chord = "Am11 (Root on 6th string)", frets = "5x553x", fingers = "M-RLI-" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/b-flat-m11.html", chord = "Bbm11 (Root on 6th string)", frets = "6x664x", fingers = "M-RLI-" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/bm11.html", chord = "Bm11 (Root on 6th string)", frets = "7x775x", fingers = "M-RLI-" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/cm11.html", chord = "Cm11 (Root on 6th string)", frets = "8x886x", fingers = "M-RLI-" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/d-flat-m11.html", chord = "Dbm11 (Root on 6th string)", frets = "9x997x", fingers = "M-RLI-" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/dm11.html", chord = "Dm11 (Root on 6th string)", frets = "(10)x(10)(10)8x", fingers = "M-RLI-" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/e-flat-m11.html", chord = "Ebm11 (Root on 6th string)", frets = "(11)x(11)(11)9x", fingers = "M-RLI-" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/em11.html", chord = "Em11 (Root on 6th string)", frets = "(12)x(12)(12)(10)x", fingers = "M-RLI-" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/fm11.html", chord = "Fm11 (Root on 6th string)", frets = "(13)x(13)(13)(11)x", fingers = "M-RLI-" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/g-flat-m11.html", chord = "Gbm11 (Root on 6th string)", frets = "(14)x(14)(14)(12)x", fingers = "M-RLI-" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/gm11.html", chord = "Gm11 (Root on 6th string)", frets = "3x331x", fingers = "M-RLI-" },
+  { by = "guitar-player", url = "https://www.guitarplayer.com/lessons/extended-and-altered-chords-expand-your-vocabulary-with-advanced-chord-voicings", chord = "Cm11, voicing 3 (6fr.)", frets = "8x886x", fingers = "M-RLI-", note = "diagram image ypip77yVzz5Wy4QhDd6eu7.png with finger numbers" },
+  { by = "jazz-guitar-licks", url = "https://www.jazz-guitar-licks.com/pages/chords/minor-11-m11-guitar-chords-diagrams-and-voicings.html", chord = "Minor 11, no 5th and no 9th, bass on E-string, root voicing (minor-11-chords.png)", frets = "8x886x", note = "chart has no fret numbers and no fingers (movable); frets given here with the root at C; the chart's other diagrams are inversions" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/how-to-build-extended-chords-on-guitar-easy-guide-with-charts/", chord = "Minor 7 (11), 6th-string chart (Minor-7-extended-chords-on-the-6th-string-.webp)", frets = "3x331x", fingers = "M-RLI-", note = "diagram has no fret number (movable); frets given here with the root at fret 3" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/74-bminor-11", chord = "Ab chart", frets = "4x442x", fingers = "M-RLI-" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/93-minor-11", chord = "A chart", frets = "5x553x", fingers = "M-RLI-", note = "chart caption: 'This voicing for Am11 is commonly used in the jazz genre.'" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/2-b/74-bminor-11", chord = "Bb chart", frets = "6x664x", fingers = "M-RLI-" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/2-b/93-minor-11", chord = "B chart", frets = "7x775x", fingers = "M-RLI-", note = "chart caption: 'This Bm11 chord uses a movable voicing.'" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/39-minor-11", chord = "C# chart", frets = "9x997x", fingers = "M-RLI-", note = "chart caption: 'This is a C#m11 voicing.'" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/93-minor-11", chord = "C chart", frets = "8x886x", fingers = "M-RLI-", note = "chart caption: 'Cm11 with a 6th string root note; commonly used in jazz.'" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/4-d/93-minor-11", chord = "D chart", frets = "(10)x(10)(10)8x", fingers = "M-RLI-", note = "chart caption: 'This voicing for Dm11 is commonly used in the jazz genre.'" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/93-minor-11", chord = "E chart", frets = "(12)x(12)(12)(10)x", fingers = "M-RLI-", note = "chart caption: 'This voicing for Em11 is commonly used in the jazz genre.'" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/6-f/93-minor-11", chord = "F chart", frets = "(13)x(13)(13)(11)x", fingers = "M-RLI-", note = "chart caption: 'This voicing for Fm11 is commonly used in the jazz genre.'" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/7-g/39-minor-11", chord = "G# chart", frets = "4x442x", fingers = "M-RLI-", note = "chart caption: 'This minor eleventh grip is rather common in jazz music.'" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/7-g/93-minor-11", chord = "G chart", frets = "3x331x", fingers = "M-RLI-", note = "chart caption: 'This Gm11 chord utilizes a movable shape.'" },
+  { by = "mike-tyka", url = "https://miketyka.com/guitar/chordshp.htm", chord = "Gmin11 (6th string root shapes)", frets = "3x331x" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Gm11", frets = "3x331x", fingers = "M-RLI-" },
+]
+
+"x3x341" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e-flat/m11/textual/", chord = "Ebm11 pos2", frets = "x6x674", fingers = "-M-RLI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e/m11/textual/", chord = "Em11 pos4", frets = "x7x785", fingers = "-M-RLI" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/a-flat-min-11", chord = "Abmin 11 (Fret 8)", frets = "x(11)x(11)(12)9", fingers = "-M-RLI", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/a-min-11", chord = "Amin 11 (Fret 9)", frets = "x(12)x(12)(13)(10)", fingers = "-M-RLI", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/a-sharp-min-11", chord = "A#min 11 (Fret 10)", frets = "x(13)x(13)(14)(11)", fingers = "-M-RLI", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/b-flat-min-11", chord = "Bbmin 11 (Fret 10)", frets = "x(13)x(13)(14)(11)", fingers = "-M-RLI", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/b-min-11", chord = "Bmin 11 (Fret 11)", frets = "x(14)x(14)(15)(12)", fingers = "-M-RLI", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/c-min-11", chord = "Cmin 11 (Fret 1)", frets = "x3x341", fingers = "-M-RLI", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/c-sharp-min-11", chord = "C#min 11 (Fret 1)", frets = "x4x452", fingers = "-M-RLI", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/d-flat-min-11", chord = "Dbmin 11 (Fret 1)", frets = "x4x452", fingers = "-M-RLI", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/d-min-11", chord = "Dmin 11 (Fret 2)", frets = "x5x563", fingers = "-M-RLI", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/d-sharp-min-11", chord = "D#min 11 (Fret 3)", frets = "x6x674", fingers = "-M-RLI", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/e-flat-min-11", chord = "Ebmin 11 (Fret 3)", frets = "x6x674", fingers = "-M-RLI", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/e-min-11", chord = "Emin 11 (Fret 4)", frets = "x7x785", fingers = "-M-RLI", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/f-min-11", chord = "Fmin 11 (Fret 5)", frets = "x8x896", fingers = "-M-RLI", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/f-sharp-min-11", chord = "F#min 11 (Fret 6)", frets = "x9x9(10)7", fingers = "-M-RLI", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/g-flat-min-11", chord = "Gbmin 11 (Fret 6)", frets = "x9x9(10)7", fingers = "-M-RLI", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/g-min-11", chord = "Gmin 11 (Fret 7)", frets = "x(10)x(10)(11)8", fingers = "-M-RLI", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/g-sharp-min-11", chord = "G#min 11 (Fret 8)", frets = "x(11)x(11)(12)9", fingers = "-M-RLI", via = "browser" },
+  { by = "jazz-guitar-licks", url = "https://www.jazz-guitar-licks.com/pages/chords/minor-11-m11-guitar-chords-diagrams-and-voicings.html", chord = "Minor 11, no 5th and no 9th, bass on A-string, root voicing (minor-11-chords.png)", frets = "x3x341", note = "chart has no fret numbers and no fingers (movable); frets given here with the root at C; the chart's other diagrams are inversions" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/74-bminor-11", chord = "Eb chart", frets = "x6x674", fingers = "-M-RLI" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/93-minor-11", chord = "E chart", frets = "x7x785", fingers = "-M-RLI", note = "chart caption: 'The fifth (B) is omitted from this Em11 voicing.'" },
+  { by = "musicradar", url = "https://www.musicradar.com/tuition/guitars/50-gorgeous-guitar-chord-shapes-565825", chord = "Example 34: Minor 11, Em11 (tab 34-minor-eleven-460-100.jpg)", frets = "x7x785", note = "tab, no fingers" },
+  { by = "mike-tyka", url = "https://miketyka.com/guitar/chordshp.htm", chord = "Cmin11, second shape (5th string root shapes)", frets = "x3x341" },
+]
+
+"x33343" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b-flat/m11/textual/", chord = "Bbm11 pos2", frets = "x11121", fingers = "-IIIMI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c-sharp/m11/textual/", chord = "C#m11 pos1", frets = "x44454", fingers = "-IIIMI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/m11/textual/", chord = "Cm11 pos5", frets = "x33343", fingers = "-IIIMI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d/m11/textual/", chord = "Dm11 pos6", frets = "x55565", fingers = "-IIIMI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f/m11/textual/", chord = "Fm11 pos2", frets = "x88898", fingers = "-IIIMI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g/m11/textual/", chord = "Gm11 pos3", frets = "x(10)(10)(10)(11)(10)", fingers = "-IIIMI" },
+  { by = "guitar-player", url = "https://www.guitarplayer.com/lessons/extended-and-altered-chords-expand-your-vocabulary-with-advanced-chord-voicings", chord = "Cm11, voicing 2", frets = "x33343", fingers = "-IIIMI", note = "diagram image ypip77yVzz5Wy4QhDd6eu7.png with finger numbers" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/how-to-play-jazz-guitar-chords-70-chords-and-application-examples/", chord = "minor 7(11), 5th-string chart (jazz-minor-chord-extensions-on-the-5th-string-.png)", frets = "x33343", fingers = "-IIIMI", note = "diagram has no fret number (movable); frets given here with the root at fret 3" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/2-b/74-bminor-11", chord = "Bb chart", frets = "x11121", fingers = "-IIIMI", note = "chart caption: 'This is a five string voicing for Bbm11.'" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/39-minor-11", chord = "C# chart", frets = "x44454", fingers = "-IIIMI", note = "chart caption: 'This a C#m11 barre chord.'" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/93-minor-11", chord = "C chart", frets = "x33343", fingers = "-IIIMI", note = "chart caption: 'This is a Cm11 voicing played in third position.'" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/4-d/39-minor-11", chord = "D# chart", frets = "x66676", fingers = "-IIIMI" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/4-d/93-minor-11", chord = "D chart", frets = "x55565", fingers = "-IIIMI", note = "chart caption: 'This Dm11 chord is played in fifth position.'" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/6-f/93-minor-11", chord = "F chart", frets = "x88898", fingers = "-IIIMI", note = "chart caption: 'This Fm11 voicing utilizes a movable chord shape.'" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/7-g/93-minor-11", chord = "G chart", frets = "x(10)(10)(10)(11)(10)", fingers = "-IIIMI", note = "chart caption: 'This is a Gm11 chord.'" },
+  { by = "mike-tyka", url = "https://miketyka.com/guitar/chordshp.htm", chord = "Cmin11 (5th string root shapes)", frets = "x33343" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Cm11", frets = "x33343", fingers = "-IIIMI" },
+]
+
+"x31331" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c-sharp/m11/textual/", chord = "C#m11 pos6", frets = "x42442", fingers = "-MIRLI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/m11/textual/", chord = "Cm11 pos2", frets = "x31331", fingers = "-MIRLI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d/m11/textual/", chord = "Dm11 pos5", frets = "x53553", fingers = "-MIRLI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e/m11/textual/", chord = "Em11 pos6", frets = "x75775", fingers = "-MIRLI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f/m11/textual/", chord = "Fm11 pos3", frets = "x86886", fingers = "-MIRLI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g/m11/textual/", chord = "Gm11 pos6", frets = "x(10)8(10)(10)8", fingers = "-MIRLI" },
+  { by = "guitar-player", url = "https://www.guitarplayer.com/lessons/extended-and-altered-chords-expand-your-vocabulary-with-advanced-chord-voicings", chord = "Cm11, voicing 1 (with the 9th)", frets = "x31331", fingers = "-MIRLI", note = "diagram image ypip77yVzz5Wy4QhDd6eu7.png with finger numbers" },
+  { by = "guitar-world", url = "https://www.guitarworld.com/lessons/beautiful-acoustic-guitar-chords", chord = "Example 13. Ebm11 (fret label 4)", frets = "x64664", note = "hand-drawn diagram without fingers" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/how-to-build-extended-chords-on-guitar-easy-guide-with-charts/", chord = "Minor 7 (9,11), 5th-string chart (Minor-7-extended-chords-on-the-5th-string-.webp)", frets = "x31331", fingers = "-MIRLI", note = "diagram has no fret number (movable); frets given here with the root at fret 3" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/how-to-play-jazz-guitar-chords-70-chords-and-application-examples/", chord = "minor 7(9,11), 5th-string chart (jazz-minor-chord-extensions-on-the-5th-string-.png)", frets = "x31331", fingers = "-MIRLI", note = "diagram has no fret number (movable); frets given here with the root at fret 3" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/39-minor-11", chord = "C# chart", frets = "x42442", fingers = "-MIRLI" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/93-minor-11", chord = "C chart", frets = "x31331", fingers = "-MIRLI", note = "chart caption: 'A movable voicing is used to play this Cm11 chord.'" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/4-d/93-minor-11", chord = "D chart", frets = "x53553", fingers = "-MIRLI", note = "chart caption: 'The fifth (A) is omitted from this Dm11 voicing.'" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/93-minor-11", chord = "E chart", frets = "x75775", fingers = "-MIRLI", note = "chart caption: 'This is a five string voicing for Em11.'" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/6-f/93-minor-11", chord = "F chart", frets = "x86886", fingers = "-MIRLI", note = "chart caption: 'This is an Fm11 chord.'" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/7-g/93-minor-11", chord = "G chart", frets = "x(10)8(10)(10)8", fingers = "-MIRLI" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Gm11", frets = "x(10)8(10)(10)8", fingers = "-MIRLI" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Abm11", frets = "x(11)9(11)(11)9", fingers = "-RIRLI" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Am11", frets = "x(12)(10)(12)(12)(10)", fingers = "-MIRLI" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Bbm11", frets = "x(13)(11)(13)(13)(11)", fingers = "-MIRLI" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Cm11", frets = "x31331", fingers = "-MIRLI" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Dm11", frets = "x53553", fingers = "-MIRLI" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Ebm11", frets = "x64664", fingers = "-MIRLI" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Em11", frets = "x75775", fingers = "-MIRLI" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Fm11", frets = "x86886", fingers = "-MIRLI" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "F#m11", frets = "x97997", fingers = "-MIRLI" },
+]
+
+"x20230" = [
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/bm11.html", chord = "Bm11 (Open position RECOMMENDED)", frets = "x20230", fingers = "-I-MR-" },
+  { by = "mike-tyka", url = "https://miketyka.com/guitar/chordshp.htm", chord = "Bm11, second shape (exotic open string chords)", frets = "x20230" },
+]
+
+"244200" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f-sharp/m11/textual/", chord = "F#m11 pos2", frets = "244200", fingers = "IRLI--" },
+  { by = "guitar-world", url = "https://www.guitarworld.com/lessons/chords/5-chord-shapes-that-are-a-songwriters-best-friend", chord = "Example 2. F#m11", frets = "244200", note = "hand-drawn diagram without fingers" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/6-f/39-minor-11", chord = "F# chart", frets = "244200", note = "chart caption: 'This F#m11 chord is played in second position. The thumb frets the low bass note.'; fingers not recorded: the chart uses the thumb" },
+]
+
+"xx(10)(10)(11)(11)" = [
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/a-flat-m11.html", chord = "Abm11 (Root on 4th string RECOMMENDED)", frets = "xx6677", fingers = "--IIRR" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/am11.html", chord = "Am11 (Root on 4th string)", frets = "xx7788", fingers = "--IIRR" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/b-flat-m11.html", chord = "Bbm11 (Root on 4th string)", frets = "xx8899", fingers = "--IIRR" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/bm11.html", chord = "Bm11 (Root on 4th string)", frets = "xx99(10)(10)", fingers = "--IIRR" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/cm11.html", chord = "Cm11 (Root on 4th string)", frets = "xx(10)(10)(11)(11)", fingers = "--IIRR" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/d-flat-m11.html", chord = "Dbm11 (Root on 4th string)", frets = "xx(11)(11)(12)(12)", fingers = "--IIRR" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/dm11.html", chord = "Dm11 (Root on 4th string)", frets = "xx(12)(12)(13)(13)", fingers = "--IIRR" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/e-flat-m11.html", chord = "Ebm11 (Root on 4th string)", frets = "xx1122", fingers = "--IIRR" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/em11.html", chord = "Em11 (Root on 4th string)", frets = "xx2233", fingers = "--IIRR" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/fm11.html", chord = "Fm11 (Root on 4th string)", frets = "xx3344", fingers = "--IIRR" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/g-flat-m11.html", chord = "Gbm11 (Root on 4th string)", frets = "xx4455", fingers = "--IIRR" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/gm11.html", chord = "Gm11 (Root on 4th string RECOMMENDED)", frets = "xx5566", fingers = "--IIRR" },
+  { by = "guitar-player", url = "https://www.guitarplayer.com/lessons/extended-and-altered-chords-expand-your-vocabulary-with-advanced-chord-voicings", chord = "Cm11, voicing 4 (10fr.)", frets = "xx(10)(10)(11)(11)", fingers = "--IIMM", note = "diagram image ypip77yVzz5Wy4QhDd6eu7.png with finger numbers" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "C#m11", frets = "xx(11)(11)(12)(12)", fingers = "--IIMR" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Ebm11", frets = "xx1122", fingers = "--IIRL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Fm11", frets = "xx3344", fingers = "--IIMR" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "F#m11", frets = "xx4455", fingers = "--IIMR" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Abm11", frets = "xx6677", fingers = "--IIMR" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Bbm11", frets = "xx8899", fingers = "--IIMR" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Bm11", frets = "xx99(10)(10)", fingers = "--IIMR" },
+]
+
+"xx0011" = [
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/dm11.html", chord = "Dm11 (Open position RECOMMENDED)", frets = "xx0011", fingers = "----II" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Dm11", frets = "xx0011", fingers = "----II" },
+]
+
+"x00013" = [
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/am11.html", chord = "Am11 (Open position RECOMMENDED)", frets = "x00013", fingers = "----IR" },
+]
+
+"x20200" = [
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/bm11.html", chord = "Bm11 (Alt fingerings)", frets = "x20200", fingers = "-I-M--" },
+]
+
+"x30341" = [
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/cm11.html", chord = "Cm11 (Open position)", frets = "x30341", fingers = "-M-RLI" },
+]
+
+"000033" = [
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/em11.html", chord = "Em11 (Alt fingerings)", frets = "000033", fingers = "----RR" },
+]
+
+"020203" = [
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/em11.html", chord = "Em11 (Open position RECOMMENDED)", frets = "020203", fingers = "-I-M-L" },
+]
+
+"202100" = [
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/g-flat-m11.html", chord = "Gbm11 (Alt fingerings)", frets = "202100", fingers = "M-RI--" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "F#m11", frets = "202100", fingers = "M-RI--" },
+]
+
+"x31311" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c-sharp/m11/textual/", chord = "C#m11 pos5", frets = "x42422", fingers = "-MIRII" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d/m11/textual/", chord = "Dm11 pos9", frets = "x53533", fingers = "-MIRII" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f/m11/textual/", chord = "Fm11 pos6", frets = "x86866", fingers = "-MIRII" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/39-minor-11", chord = "C# chart", frets = "x42422", fingers = "-MIRII" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/4-d/93-minor-11", chord = "D chart", frets = "x53533", fingers = "-MIRII" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/6-f/93-minor-11", chord = "F chart", frets = "x86866", fingers = "-MIRII" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "C#m11", frets = "x42422", fingers = "-MIRII" },
+]
+
+"x33346" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g/m11/textual/", chord = "Gm11 pos2", frets = "x(10)(10)(10)(11)(13)", fingers = "-IIIML" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/7-g/93-minor-11", chord = "G chart", frets = "x(10)(10)(10)(11)(13)", fingers = "-IIIML", note = "chart caption: 'This is a unique quartal/quintal voicing for Gm11.'" },
+]
+
+"8(10)8(10)8(11)" = [
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/a-flat-m11.html", chord = "Abm11 (Barre Em11-shape)", frets = "464647", fingers = "IMIRIL" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/am11.html", chord = "Am11 (Barre Em11-shape)", frets = "575758", fingers = "IMIRIL" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/b-flat-m11.html", chord = "Bbm11 (Barre Em11-shape)", frets = "686869", fingers = "IMIRIL" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/bm11.html", chord = "Bm11 (Barre Em11-shape)", frets = "79797(10)", fingers = "IMIRIL" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/cm11.html", chord = "Cm11 (Barre Em11-shape)", frets = "8(10)8(10)8(11)", fingers = "IMIRIL" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/d-flat-m11.html", chord = "Dbm11 (Barre Em11-shape)", frets = "9(11)9(11)9(12)", fingers = "IMIRIL" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/dm11.html", chord = "Dm11 (Barre Em11-shape)", frets = "(10)(12)(10)(12)(10)(13)", fingers = "IMIRIL" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/e-flat-m11.html", chord = "Ebm11 (Barre Em11-shape)", frets = "(11)(13)(11)(13)(11)(14)", fingers = "IMIRIL" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/em11.html", chord = "Em11 (Barre Em11-shape)", frets = "(12)(14)(12)(14)(12)(15)", fingers = "IMIRIL" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/fm11.html", chord = "Fm11 (Barre Em11-shape)", frets = "131314", fingers = "IMIRIL" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/g-flat-m11.html", chord = "Gbm11 (Barre Em11-shape)", frets = "242425", fingers = "IMIRIL" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/gm11.html", chord = "Gm11 (Barre Em11-shape)", frets = "353536", fingers = "IMIRIL" },
+]
+
+"88888(10)" = [
+  { by = "guitar-command", url = "https://www.guitarcommand.com/big-minor-11th-guitar-chord/", chord = "'Big' minor 11th", frets = "555557", fingers = "IIIIIL", note = "diagram Guitar-Chord-Of-The-Week-Big-Minor-11th.jpg; photo caption: played at the 5th fret, producing Am11; diagram without fret number; key and fret from the photo caption" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Dm11", frets = "(10)(10)(10)(10)(10)(12)", fingers = "IIIIIL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Ebm11", frets = "(11)(11)(11)(11)(11)(13)", fingers = "IIIIIL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Fm11", frets = "111113", fingers = "IIIIIL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "F#m11", frets = "222224", fingers = "IIIIIL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Gm11", frets = "333335", fingers = "IIIIIL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Abm11", frets = "444446", fingers = "IIIIIL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Am11", frets = "555557", fingers = "IIIIIL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Bbm11", frets = "666668", fingers = "IIIIIL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Bm11", frets = "777779", fingers = "IIIIIL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Cm11", frets = "88888(10)", fingers = "IIIIIL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "C#m11", frets = "99999(11)", fingers = "IIIIIL" },
+]

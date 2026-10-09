@@ -1,0 +1,193 @@
+/* The website's layout. Colours and fonts come from src/design.toml: build_site.py writes them above this line. */
+*, *::before, *::after { box-sizing: border-box }
+html { -webkit-text-size-adjust: 100% }
+body { margin: 0; background: var(--bg); color: var(--ink); font: 16px/1.5 var(--font) }
+a { color: var(--link) }
+h1, h2, h3 { line-height: 1.15; margin: 0 }
+h1 { font-size: clamp(1.7rem, 5vw, 2.4rem) } h2 { font-size: 1.2rem; margin-bottom: 10px } h3 { font-size: 1.05rem }
+p { margin: 0 0 8px; max-width: 70ch }
+.muted { color: var(--muted) }
+:focus-visible { outline: 3px solid var(--link); outline-offset: 2px }
+.skip { position: absolute; left: -9999px; top: 8px; z-index: 1; padding: 6px 12px; border-radius: 8px; background: var(--sel); color: var(--sel-ink) } .skip:focus { left: 16px }
+header.top { display: flex; flex-wrap: wrap; gap: 8px 18px; align-items: center; padding: 12px 16px; border-bottom: 1px solid var(--line) }
+.brand { display: inline-flex; align-items: center; gap: 10px; font-weight: 800; color: var(--ink); text-decoration: none }
+.logo { width: 32px; height: 32px; flex: none } .logo .lg { stroke: var(--logo-grid) } .logo .l1 { fill: var(--d1) } .logo .l3 { fill: var(--d3) } .logo .l5 { fill: var(--d5) }
+.stop { display: inline-block; width: .2em; height: .2em; margin-left: .06em; border-radius: .028em; background: var(--d1) }   /* the root square as the full stop */
+header.top nav { display: flex; flex-wrap: wrap; gap: 6px 0 }
+header.top nav a { color: var(--muted); text-decoration: none; padding: 0 12px; border-left: 1.5px solid var(--line); line-height: 1.15 }   /* thin rules set the items apart */
+header.top nav a:first-child { padding-left: 0; border-left: 0 }
+header.top nav a[aria-current="page"] { color: var(--ink); font-weight: 700 }
+.tools { margin-left: auto; display: flex; gap: 8px; align-items: center; flex-wrap: wrap }
+.menu { display: contents }                       /* the sections and the tools; folded behind the Menu button on a phone */
+.menu-btn { display: none; align-items: center; gap: 8px; font: inherit; font-weight: 700; font-size: 15px; height: 34px; padding: 0 12px; border-radius: 8px; border: 1.5px solid var(--line); background: transparent; color: var(--ink); cursor: pointer }
+.menu-btn .bars { display: grid; gap: 3px } .menu-btn .bars i { display: block; width: 16px; height: 2px; background: currentColor }
+.open .menu-btn { background: var(--sel); color: var(--sel-ink); border-color: var(--sel) }
+.tools a.pdf, .button { display: inline-block; padding: 6px 12px; border-radius: 8px; background: var(--sel); color: var(--sel-ink); text-decoration: none; font-weight: 700 }
+.button.ghost { background: transparent; color: var(--ink); border: 1.5px solid var(--line) }
+.lefty-toggle, .theme-toggle { font: inherit; font-size: 13px; height: 30px; padding: 0 8px; border-radius: 8px; border: 1.5px solid var(--line); background: transparent; color: var(--ink); cursor: pointer }
+.theme-toggle { display: inline-grid; place-items: center; width: 30px; padding: 0 } .theme-toggle[hidden] { display: none }
+.theme-toggle svg { width: 18px; height: 18px; display: none }
+.theme-toggle[data-mode="auto"] .i-auto, .theme-toggle[data-mode="light"] .i-light, .theme-toggle[data-mode="dark"] .i-dark { display: block }
+.lefty-toggle[aria-pressed="true"] { background: var(--sel); color: var(--sel-ink); border-color: var(--sel) }
+main { max-width: 1100px; margin: 0 auto; padding: 18px 16px 40px; display: grid; gap: 22px; min-width: 0 }
+main > * { min-width: 0 }
+.pick { display: flex; flex-wrap: wrap; gap: 4px }
+.pick a { padding: 3px 10px; border: 1.5px solid var(--line); border-radius: 999px; text-decoration: none; color: var(--ink); font-weight: 600; font-size: 14px }
+.pick a[aria-current="page"] { background: var(--sel); color: var(--sel-ink); border-color: var(--sel) }
+header.top nav a.line-start { padding-left: 0; border-left: 0 }
+/* a chord page: the chooser and the key in a left column, the chord and its diagrams on the right */
+main:has(> .layout) { max-width: 1440px }
+.layout { display: grid; grid-template-columns: minmax(0, 1fr); gap: 18px }
+.side, .chooser { display: grid; grid-template-columns: minmax(0, 1fr); gap: 14px; align-content: start }
+.chord > .legend { display: none }        /* the key sits in the left column; on a narrow screen it moves under the chord's name */
+.side .sub { font-size: 12px; color: var(--muted); font-weight: 600; margin: 0 0 4px }
+.types { display: grid; gap: 10px }
+.chord { display: grid; gap: 18px; min-width: 0 }
+.cinfo { display: flex; flex-wrap: wrap; align-items: flex-end; gap: 6px 28px }
+.alias { font-size: clamp(1rem, 3vw, 1.3rem); font-weight: 700; color: var(--muted); margin-left: .6em; display: inline-block; white-space: nowrap }   /* the black key's second name, on the name's line or, whole, on the next */
+.formula { display: flex; flex-wrap: wrap; gap: 16px; margin-top: 4px }
+.formula div { display: grid } .formula b { font-size: 15px } .formula span { color: var(--muted); font-size: 14px }
+/* every diagram card is large: chord pages, slash chords, the CAGED shapes; on a chord page the book's three the largest */
+.voicings { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(290px, 100%), 1fr)); gap: 16px }
+.voicings.more { grid-template-columns: repeat(auto-fill, minmax(min(230px, 100%), 1fr)) }
+@media (min-width: 600px) { .voicings.book { grid-template-columns: repeat(3, minmax(0, 1fr)) }   /* the book's three, side by side from a small tablet up */
+  .voicings.more { grid-template-columns: repeat(auto-fill, minmax(min(230px, calc((100% - 32px) / 3)), 1fr)) } }   /* at least three a row: never larger than the book's */
+.chord .cinfo h1 { font-size: clamp(2.4rem, 6vw, 3.4rem) }
+.chord .formula { gap: 22px; margin: 0 0 4px } .chord .formula b { font-size: 19px } .chord .formula span { font-size: 16px }
+@media (min-width: 1000px) {
+  .layout { grid-template-columns: 250px minmax(0, 1fr); gap: 32px; align-items: start }
+  .side { position: sticky; top: 14px; max-height: calc(100vh - 28px); overflow: auto; padding: 6px; margin: -6px }   /* room for the focus ring */
+  .side .roots { display: grid; grid-template-columns: repeat(6, 1fr) } .side .roots a { text-align: center; padding: 3px 0 }
+  .side .legend { display: grid; gap: 6px; padding: 10px 12px } .side .legend ul { display: grid; gap: 4px }
+}
+@media (max-width: 999px) { .side .legend { display: none } .chord > .legend { display: flex } }
+.vcard { margin: 0; background: var(--card); border-radius: 12px; padding: 16px 12px; display: grid; gap: 4px; justify-items: center; align-content: start; min-width: 0 }
+.vcard[hidden] { display: none }
+.vlabel { font-size: 15px; text-align: center } .vlabel span { color: var(--muted) } .vlabel.long { font-size: 12.5px }   /* "E shape, 4 strings barre, fret 10": one line, so a row's diagrams stay level */
+.voicings.more .vlabel { font-size: 14px } .voicings.more .vlabel.long { font-size: 11.5px }
+.vcard svg.dg { max-width: 360px } .voicings.more .vcard svg.dg { max-width: 270px }
+.vcard figcaption { width: 100% } .vcard .cap { text-align: center }
+@supports (grid-template-rows: subgrid) {   /* a label on two lines moves no diagram: the cards of a row share their label's height */
+  .voicings > .vcard { grid-row: span 3; grid-template-rows: subgrid; row-gap: 4px }
+  .vcard > svg.dg { align-self: start }
+}
+svg.dg { width: 100%; max-width: 190px; height: auto; display: block }
+.lefty svg.dg { transform: scaleX(-1) }
+.lefty svg.dg text { transform: scaleX(-1); transform-box: fill-box; transform-origin: center }
+details.src { font-size: 13px; width: 100% }
+details.src summary { cursor: pointer; color: var(--muted); text-align: center }
+details.src ul { padding-left: 1.1em; margin: 6px 0 0 }
+details.src li { margin-bottom: 3px }
+.filters { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 10px; font-size: 14px } .filters[hidden] { display: none }   /* shown by site.js */
+.filters button { font: inherit; padding: 3px 10px; border-radius: 999px; border: 1.5px solid var(--line); background: transparent; color: var(--ink); cursor: pointer }
+.filters button[aria-pressed="true"] { background: var(--sel); color: var(--sel-ink); border-color: var(--sel) }
+.dg .str { stroke: var(--grid); stroke-width: .6 } .dg .fret { stroke: var(--grid); stroke-width: .6 }
+.dg .nut { stroke: var(--ink); stroke-width: 2.6 } .dg .top { stroke: var(--line); stroke-width: .6 }
+.dg .barre { fill: var(--barre) } .dg .fn { fill: var(--muted); font: 700 7px var(--font) }
+.dg .mute { fill: var(--muted); font: 400 8px var(--font) } .dg .fg { fill: var(--ink); font: 700 6.8px var(--font) }
+.dg text.deg { font-family: var(--font); font-weight: 700 }
+.legend { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 14px; font-size: 13px; color: var(--muted); padding: 10px 14px; border: 1.5px solid var(--line); border-radius: 10px }
+.legend p { margin: 0; max-width: none } .legend p:last-child { flex-basis: 100% } .legend b { color: var(--ink) }
+.legend ul { display: flex; flex-wrap: wrap; gap: 6px 14px; list-style: none; margin: 0; padding: 0 }
+.legend li { display: flex; align-items: center; gap: 6px }
+/* on a phone the key folds behind a "?" button (site.js opens it); without JavaScript it stays open */
+.key-btn { display: none; place-items: center; width: 32px; height: 32px; padding: 0; border-radius: 50%; border: 1.5px solid var(--line); background: transparent; color: var(--ink); font: inherit; font-size: 16px; font-weight: 700; cursor: pointer }
+.key-btn[aria-expanded="true"] { background: var(--sel); color: var(--sel-ink); border-color: var(--sel) }
+.head-key { display: flex; align-items: center; justify-content: space-between; gap: 12px }
+@media (max-width: 599px) {           /* a phone */
+  .js .key-btn { display: inline-grid }
+  .js .legend.fold:not(.open) { display: none }
+  .cinfo { position: relative; padding-right: 44px } .cinfo .key-btn { position: absolute; top: 4px; right: 0 }
+}
+svg.key { width: 18px; height: 18px }
+.scroll { overflow-x: auto; max-width: 100% }
+table { border-collapse: collapse; font-variant-numeric: tabular-nums }
+table.keys, table.grid { min-width: 640px; width: 100% }
+@media (min-width: 360px) { table.keys { table-layout: fixed } table.keys tr > :first-child { width: 4.5em } }   /* the degrees' columns as wide as each other */
+th, td { text-align: left; padding: 5px 8px; border-bottom: 1px solid var(--line); vertical-align: top }
+th.group { padding-top: 14px; font-size: 1.05rem }
+table.keys td a { display: block; font-weight: 600; text-decoration: none } table.keys td a.sev { font-weight: 400; font-size: 13px; color: var(--muted) }
+table.grid td a { text-decoration: none; font-size: 14px }
+table.grid th, table.grid td { padding-left: 5px; padding-right: 5px }   /* twelve roots fit the page's width without scrolling */
+/* a table that would run past the page is cut into narrower ones, one under another: All chords by six roots, then by
+   three on a phone; the keys by four degrees (build_site.tables) */
+.tables .cut { display: none; gap: 26px } .tables .cut table { min-width: 0 }
+@media (max-width: 1079px) { .t-grid > .whole { display: none } .t-grid > .by6 { display: grid } }
+@media (max-width: 599px) { .t-grid > .by6 { display: none } .t-grid > .by3 { display: grid } }
+@media (max-width: 671px) { .t-keys > .whole { display: none } .t-keys > .by4 { display: grid } }
+/* the home page: the book's cover, set on its grid of square cells (--c), framed by half cells. The name has one letter
+   per cell, its baselines on lines; beside it, in the same rows, the subtitle (its baseline with "haus"), the steps (one
+   per cell, in the row of "of") and the button (the row of "chords") */
+.cover { --c: 44px; display: grid; gap: var(--c); align-items: end; padding: calc(var(--c) / 2); width: round(down, 100%, var(--c)); border-radius: 16px;
+  background-color: var(--card); background-size: var(--c) var(--c); background-position: calc(var(--c) / 2 - .75px) calc(var(--c) / 2 - .75px);
+  background-image: linear-gradient(var(--cover-grid) 1.5px, transparent 1.5px), linear-gradient(90deg, var(--cover-grid) 1.5px, transparent 1.5px) }
+@media (min-width: 760px) { .cover { grid-template-columns: max-content minmax(0, 1fr) } }     /* the name on the left, the rest beside it */
+@media (max-width: 759px) { .cover { --c: 32px } }
+/* where the browser can: the cells grow or shrink a little, so that whole cells fill the page's width exactly (about 44 px
+   wide, 32 px on a phone); elsewhere the cover keeps the whole cells that fit and leaves the rest of the width empty */
+@supports (container-type: inline-size) and selector(:has(a)) {
+  main:has(> .cover) { container-type: inline-size }
+  .cover { width: 100%; --c: calc(100cqw / 24) }
+  @container (max-width: 999px) { .cover { --c: calc(100cqw / 21) } }
+  @container (max-width: 879px) { .cover { --c: calc(100cqw / 18) } }
+  @container (max-width: 727px) { .cover { --c: calc(100cqw / 20) } }      /* the name above the rest, as on a phone */
+  @container (max-width: 559px) { .cover { --c: calc(100cqw / 15) } }
+  @container (max-width: 439px) { .cover { --c: calc(100cqw / 11) } }
+}
+.wordmark { margin: 0; line-height: 0 } .wordmark svg { display: block; overflow: visible }
+.wordmark text { font-family: var(--font); font-weight: 700; fill: var(--ink) } .wordmark rect { fill: var(--d1) }
+.cover .about { display: grid; grid-template-rows: repeat(6, var(--c)); justify-items: start }
+.cover .about > * { margin: 0; max-width: none }
+.cover .subtitle { grid-row: 2; color: var(--muted); font-size: calc(var(--c) * .45); line-height: var(--c); transform: translateY(calc(var(--c) / 2 - .36em)) }   /* baseline on line 2 */
+.cover .steps { grid-row: 4 }
+.steps { display: grid; grid-template-columns: repeat(7, var(--c)); height: var(--c); place-items: center } .steps svg.dg { width: calc(var(--c) * .8); height: calc(var(--c) * .8) }
+.cover .about > p:last-child { grid-row: 6; display: flex; height: var(--c) }
+.cover .button { display: inline-flex; align-items: center; justify-content: center; height: var(--c); width: calc(var(--c) * 6); padding: 0; font-size: min(16px, calc(var(--c) * .53)) }   /* whole cells; the text always fits in one line */
+@media (max-width: 759px) {          /* under the name: the same rhythm, every other row */
+  .cover .about { grid-template-rows: repeat(5, var(--c)) } .cover .subtitle { grid-row: 1 } .cover .steps { grid-row: 3 }
+  .cover .about > p:last-child { grid-row: 5 } .cover .button { width: calc(var(--c) * 8) }
+}
+@media (max-width: 359px) {
+  table.grid td a { font-size: 12.5px } table.grid th, table.grid td { padding-left: 3px; padding-right: 3px }
+}
+.rootgrid { display: grid; grid-template-columns: repeat(auto-fill, minmax(130px, 1fr)); gap: 8px }
+.rootcard { display: block; padding: 14px; border-radius: 12px; background: var(--card); color: var(--ink); text-decoration: none; font-size: 1.3rem }
+.minigrid { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(440px, 100%), 1fr)); gap: 12px }   /* two chords per row on a computer, so the small diagrams stay legible */
+a.mini { display: grid; gap: 4px; padding: 10px; border-radius: 12px; background: var(--card); color: var(--ink); text-decoration: none; min-width: 0 }
+.twelve { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 8px; margin: 10px 0 0 }   /* twelve common chords on the home page */
+@media (min-width: 480px) { .twelve { grid-template-columns: repeat(3, minmax(0, 1fr)) } }
+@media (min-width: 600px) { .twelve { grid-template-columns: repeat(4, minmax(0, 1fr)) } }
+@media (min-width: 900px) { .twelve { grid-template-columns: repeat(6, minmax(0, 1fr)) } }
+.twelve h3 { text-align: center; margin: 0 } .twelve .mini svg.dg { width: 100%; max-width: 180px; margin: 0 auto; display: block }
+.minis { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 6px } .mini svg.dg { max-width: none }   /* the three diagrams share the card's width */
+ul.read, ul.links { max-width: 75ch; padding-left: 1.2em; margin: 0; display: grid; gap: 6px }
+footer { max-width: 1100px; margin: 0 auto; padding: 16px; color: var(--muted); font-size: 14px; border-top: 1px solid var(--line) }
+footer p { margin: 0 0 4px; max-width: none } footer b { color: var(--ink) }
+body:has(main > .layout) footer { max-width: 1440px }   /* as wide as a chord page */
+
+/* narrower than the menu's one line (a phone): the sections and the tools fold behind the Menu button; without
+   JavaScript the menu wraps onto several lines */
+@media (max-width: 729px) {   /* the menu needs about 700 px in one line */
+  .js header.top { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 0 12px }
+  .js .menu-btn { display: inline-flex }
+  .js .menu { display: none; grid-column: 1 / -1 }
+  .js header.top.open .menu { display: block; padding-top: 6px }
+  .js header.top.open nav { display: grid; gap: 0 }
+  .js header.top.open nav a { border-left: 0; padding: 11px 0; border-top: 1px solid var(--line); font-size: 17px }
+  .js header.top.open .tools { margin: 6px 0 4px; padding-top: 12px; border-top: 1px solid var(--line); justify-content: flex-start }
+}
+
+/* a phone or a small tablet: every picker is in view, nothing scrolls sideways; each group of chord types on its own
+   lines (without the group names); on a phone the roots in two rows of six */
+@media (max-width: 759px) {
+  .side .sub { display: none }
+  .types { gap: 8px; padding-top: 8px; border-top: 1.5px solid var(--line) } .types > div + div { padding-top: 8px; border-top: 1.5px solid var(--line) }   /* thin rules after the roots and between the groups, instead of their names */
+}
+@media (max-width: 599px) { .roots { display: grid; grid-template-columns: repeat(6, 1fr) } .roots a { text-align: center; padding: 3px 0 } }
+
+/* headings on the text pages: closer to what they head than to what comes before */
+main > h2 { margin: 14px 0 0 } main > h2 + *, main > h2 + ul.read, main > h2 + ul.links { margin-top: -12px }
+.nw { white-space: nowrap }
+/* from 730 px the menu is one line; until the logo, the menu and the tools fit side by side (1242 px, more with a
+   scrollbar), the tools share the logo's line */
+@media (min-width: 730px) and (max-width: 1279px) { header.top .tools { order: 1 } header.top nav { order: 2; flex-basis: 100% } header.top nav a { padding: 0 10px } }

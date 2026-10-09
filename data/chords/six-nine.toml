@@ -1,0 +1,18 @@
+# Six-nine chords (C6/9). The format is described in data/README.md; the sources are in data/evidence/six-nine.toml.
+symbol   = "6/9"
+name     = "six-nine"
+formula  = "1 3 5 6 9"
+optional = ["5"]
+about    = "major + 6 + 9, no 7th"
+
+voicings = [
+  # movable shapes are written with the root on C; the book shows the open voicings of a root in this order
+  { chord = "C6/9",  strings = "x 3M 2I 2I 3R 3L" },
+  { chord = "C6/9",  strings = "x x 10M 9I 10R 10L" },
+  { chord = "C6/9",  strings = "8M 7I 7I 7I 8R 8L" },
+  { chord = "C6/9",  strings = "x 3M 2I 2I 3R x" },
+  { chord = "E6/9",  strings = "0 x 2M 1I 2R 2L" },
+  { chord = "F6/9",  strings = "1I 0 0 0 1M 1R" },
+  { chord = "B♭6/9", strings = "x 1I 0 0 1M 1R" },
+  { chord = "E♭6/9", strings = "x x 1I 0 1M 1R" },
+]

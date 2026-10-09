@@ -1,0 +1,24 @@
+# 7th suspended 4th chords (C7sus4). The format is described in data/README.md; the sources are in data/evidence/7th-suspended-4th.toml.
+symbol   = "7sus4"
+name     = "7th suspended 4th"
+formula  = "1 4 5 ♭7"
+optional = ["5"]
+about    = "sus4 + minor 7th"
+
+voicings = [
+  # movable shapes are written with the root on C; the book shows the open voicings of a root in this order
+  { chord = "D7sus4",  strings = "x x 0 2M 1I 3L" },
+  { chord = "E7sus4",  strings = "0 2M 0 2R 0 0" },
+  { chord = "A7sus4",  strings = "x 0 2M 0 3L 0" },
+  { chord = "A7sus4",  strings = "x 0 2I 0 3R 3L", pin = "Wonderwall and Wish You Were Here: the ring and little fingers stay on the 3rd fret" },
+  { chord = "C7sus4",  strings = "8I 10R 8I 10L 8I 8I" },
+  { chord = "C7sus4",  strings = "x 3I 5R 3I 6L 3I" },
+  { chord = "C7sus4",  strings = "x x 10I 12R 11M 13L" },
+  { chord = "G7sus4",  strings = "3R x 3L 0 1I x" },
+  { chord = "C7sus4",  strings = "8I x 8M 10L x x" },
+  { chord = "A7sus4",  strings = "x 0 2I 2I 3R 3L" },
+  { chord = "B7sus4",  strings = "x 2I 2M 2R 0 0" },
+  { chord = "C7sus4",  strings = "x 3M 3R 3L 1I x" },
+  { chord = "C7sus4",  strings = "x 3M 3M 3R x x" },
+  { chord = "F♯7sus4", strings = "x x 4R 4L 2M 0" },
+]

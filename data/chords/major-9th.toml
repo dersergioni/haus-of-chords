@@ -1,0 +1,22 @@
+# Major 9th chords (Cmaj9). The format is described in data/README.md; the sources are in data/evidence/major-9th.toml.
+symbol   = "maj9"
+name     = "major 9th"
+formula  = "1 3 5 7 9"
+optional = ["5"]
+about    = "maj7 + 9"
+
+voicings = [
+  # movable shapes are written with the root on C; the book shows the open voicings of a root in this order
+  { chord = "Cmaj9",  strings = "x 3M 2I 4L 3R x" },
+  { chord = "Cmaj9",  strings = "x 15L 12I 12I 12I 12I" },
+  { chord = "Cmaj9",  strings = "x x 10M 9I 12L 10R" },
+  { chord = "Cmaj9",  strings = "8M 7I 9R 7I x x" },
+  { chord = "Emaj9",  strings = "0 2R 1I 1M 0 2L" },
+  { chord = "Fmaj9",  strings = "1I 0 3L 0 1M 0" },
+  { chord = "Cmaj9",  strings = "8M 7I 9L 7I 8R x" },
+  { chord = "Amaj9",  strings = "x 0 2I 4R 2I 4L" },
+  { chord = "B♭maj9", strings = "x 1I 0 2L 1M 1R" },
+  { chord = "Cmaj9",  strings = "x 3R 0 0 0 0" },
+  { chord = "Cmaj9",  strings = "x 3I 0 4R 3M 0" },
+  { chord = "E♭maj9", strings = "x x 1I 0 3L 1M" },
+]

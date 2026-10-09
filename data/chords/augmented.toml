@@ -1,0 +1,36 @@
+# Augmented (+) chords (Caug). The format is described in data/README.md; the sources are in data/evidence/augmented.toml.
+symbol   = "aug"
+name     = "augmented"
+also     = "+"
+formula  = "1 3 ♯5"
+optional = []
+about    = "♯5 instead of 5"
+
+voicings = [
+  # movable shapes are written with the root on C; the book shows the open voicings of a root in this order
+  { chord = "Daug",  strings = "x x 0 3M 3R 2I" },
+  { chord = "Gaug",  strings = "3R 2M 1I 0 0 3L" },
+  { chord = "Aaug",  strings = "x 0 3R 2I 2M x" },
+  { chord = "Caug",  strings = "x 3R 2M 1I 1I x" },
+  { chord = "Caug",  strings = "x x 10L 9M 9R 8I" },
+  { chord = "Caug",  strings = "8L 7R 6M 5I x x" },
+  { chord = "Caug",  strings = "8L 7R 6M 5I 5I x" },
+  { chord = "Eaug",  strings = "0 3L 2R 1I 1M 0" },
+  { chord = "Eaug",  strings = "0 x 2R 1I 1M 0" },
+  { chord = "F♯aug", strings = "2M 1I 0 x x x" },
+  { chord = "Gaug",  strings = "3R 2M 1I 0 0 x" },
+  { chord = "Gaug",  strings = "3L 2R 1M 0 x x" },
+  { chord = "Gaug",  strings = "3R x 1I 0 0 3L" },
+  { chord = "Caug",  strings = "8I 11L 10R 9M x x" },
+  { chord = "Caug",  strings = "8R 7M 6I x x x" },
+  { chord = "Caug",  strings = "8I x 10L 9M 9R x" },
+  { chord = "Caug",  strings = "8I x x 9M 9R 8I" },
+  { chord = "Aaug",  strings = "x 0 3L 2M 2R 1I" },
+  { chord = "Baug",  strings = "x 2R 1M 0 0 x" },
+  { chord = "Caug",  strings = "x 3L 2R 1I 1M 0" },
+  { chord = "Caug",  strings = "x 3R 2M 1I x x" },
+  { chord = "Caug",  strings = "x 3I 6L 5M 5R x" },
+  { chord = "Caug",  strings = "x 3I x 5R 5L 4M" },
+  { chord = "Caug",  strings = "x x 10M 9I 9I x" },
+  { chord = "Eaug",  strings = "x x 2R 1I 1M 0" },
+]

@@ -1,0 +1,25 @@
+# Diminished 7th (°7) chords (Cdim7). The format is described in data/README.md; the sources are in data/evidence/diminished-7th.toml.
+symbol   = "dim7"
+name     = "diminished 7th"
+also     = "°7"
+formula  = "1 ♭3 ♭5 °7"
+optional = []
+about    = "°7 = diminished 7th, sounds like 6"
+
+voicings = [
+  # movable shapes are written with the root on C; the book shows the open voicings of a root in this order
+  { chord = "Ddim7",  strings = "x x 0 1I 0 1M" },
+  { chord = "B♭dim7", strings = "x 1I 2M 0 2R x" },
+  { chord = "Cdim7",  strings = "8M x 7I 8R 7I x" },
+  { chord = "Cdim7",  strings = "x 3M 4R 2I 4L x" },
+  { chord = "Cdim7",  strings = "x x 10I 11R 10M 11L" },
+  { chord = "Adim7",  strings = "x 0 1I 2R 1M 2L" },
+  { chord = "Cdim7",  strings = "8I 9M 10R 8I 10L 8I" },
+  { chord = "Cdim7",  strings = "8M 9L 7I 8R x x" },
+  { chord = "Edim7",  strings = "0 1I 2M 0 2R 0" },
+  { chord = "Edim7",  strings = "0 x 2I 3R 2M 3L" },
+  { chord = "Edim7",  strings = "0 x x 3M 2I 3R" },
+  { chord = "Fdim7",  strings = "1I 2R 0 1M x x" },
+  { chord = "Fdim7",  strings = "1I x 0 1R 0 x" },
+  { chord = "Cdim7",  strings = "x 3M 4R 2I 4L 2I" },
+]

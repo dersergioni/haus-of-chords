@@ -1,0 +1,21 @@
+# 9th suspended 4th chords (C9sus4). The format is described in data/README.md; the sources are in data/evidence/9th-suspended-4th.toml.
+symbol   = "9sus4"
+name     = "9th suspended 4th"
+formula  = "1 4 5 ♭7 9"
+optional = ["5"]
+about    = "9th chord with 4 instead of 3"
+
+voicings = [
+  # movable shapes are written with the root on C; the book shows the open voicings of a root in this order
+  { chord = "A9sus4",  strings = "x 0 0 0 0 0" },
+  { chord = "F♯9sus4", strings = "2M x 2R 1I 0 0" },
+  { chord = "E9sus4",  strings = "0 2I 2I 2I 3M 2I", skip = "two sources; the same chord on the top four strings, xx2232, has four" },
+  { chord = "D9sus4",  strings = "x x 0 0 1I 0" },
+  { chord = "C9sus4",  strings = "x 3I 3I 3I 3I 3I" },
+  { chord = "C9sus4",  strings = "8R x 8L 7M 6I x" },
+  { chord = "C9sus4",  strings = "x x 10I 10I 11M 10I" },
+  { chord = "C9sus4",  strings = "x 3M x 3R 3L 1I" },
+  { chord = "C9sus4",  strings = "8I 10M 8I 10R 8I 10L" },
+  { chord = "E9sus4",  strings = "0 2I 0 2M 0 2R" },
+  { chord = "C9sus4",  strings = "x 3M 0 3R 3L 1I" },
+]
