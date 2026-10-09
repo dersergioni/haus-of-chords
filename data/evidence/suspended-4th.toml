@@ -1,0 +1,276 @@
+# Where each voicing of data/chords/suspended-4th.toml is published, keyed by its frets from the 6th string to the 1st.
+# The format is described in data/README.md.
+
+"x3301x" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/c-sus-4", chord = "Csus 4", frets = "x3301x", fingers = "-RL-I-", via = "browser" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/7-ways-to-play-a-c-sus-4-chord-on-guitar/", chord = "Open C sus 4 chord", frets = "x3301x", fingers = "-RL-I-", via = "image" },
+  { by = "guitar-player", url = "https://www.guitarplayer.com/lessons/suspended-chords-liven-up-your-rhythm-playing-with-open-position-and-movable-voicings", chord = "Csus4 (Figure 1)", frets = "x3301x", via = "image" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/101-sus4", chord = "Csus4", frets = "x3301x", fingers = "-RL-I-", note = "JamPlay note: Replacing the third (E) of the basic C major chord with the fourth (F) creates this Csus4 voicing." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/sus4/textual/", chord = "Csus4 position 1", frets = "x3301x", fingers = "-RL-I-" },
+]
+
+"xx0233" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/guitar-lessons/beginner-sus-chords-bg-1102", chord = "D sus4", frets = "xx0233", fingers = "---IRL", via = "image" },
+  { by = "fender", url = "https://www.fender.com/play/lessons/dsus4-open-position-v2", chord = "Dsus4 Open Position (v2)", frets = "xx0233", fingers = "---IRL", via = "reader", note = "instructor Nikki Stevens" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/9-ways-to-play-a-d-sus-4-chord-on-guitar/", chord = "D sus 4 open chord", frets = "xx0233", fingers = "---IRL", via = "image" },
+  { by = "guitar-world", url = "https://www.guitarworld.com/lessons/artist-lessons/the-ultimate-guide-to-sus-chords", chord = "Dsus4", frets = "xx0233", via = "image", note = "Dre DiMura, 2026" },
+  { by = "guitar-player", url = "https://www.guitarplayer.com/lessons/suspended-chords-liven-up-your-rhythm-playing-with-open-position-and-movable-voicings", chord = "Dsus4 (Figure 1)", frets = "xx0233", via = "image" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Dsus4-guitar-chord,108.html", chord = "Dsus4", frets = "xx0233", fingers = "---MRL" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/4-d/101-sus4", chord = "Dsus4", frets = "xx0233", fingers = "---IRL", note = "JamPlay note: Learning chords has never been easier!  Jamplay.com is the best source for learning guitar on the internet!  This chord documentation is for the Dsus4 chord." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d/sus4/textual/", chord = "Dsus4 position 4", frets = "xx0233", fingers = "---IRL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Dsus4", frets = "xx0233", fingers = "---IMR", via = "copy" },
+]
+
+"022200" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/e-sus-4", chord = "Esus 4", frets = "022200", fingers = "-MRL--", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/guitar-lessons/beginner-sus-chords-bg-1102", chord = "Esus4", frets = "022200", fingers = "-MRL--", via = "image" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/guitar-lessons/e-shape-explorer-ce-500", chord = "Esus4", frets = "022200", fingers = "-MRL--", via = "reader", note = "text: little finger on fret 2 of string 3 (022200); also says it can be barred with fingers 2 and 3" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/7-ways-to-play-an-e-sus-4-chord-on-guitar/", chord = "Open E sus 4 chord", frets = "022200", fingers = "-MRL--", via = "image" },
+  { by = "guitar-world", url = "https://www.guitarworld.com/lessons/artist-lessons/the-ultimate-guide-to-sus-chords", chord = "Esus4", frets = "022200", via = "image", note = "Dre DiMura, 2026" },
+  { by = "guitar-player", url = "https://www.guitarplayer.com/lessons/suspended-chords-liven-up-your-rhythm-playing-with-open-position-and-movable-voicings", chord = "Esus4 (Figure 1)", frets = "022200", via = "image" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Esus4-guitar-chord,206.html", chord = "Esus4", frets = "022200", fingers = "-MRL--" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/101-sus4", chord = "Esus4", frets = "022200", fingers = "-MRL--", note = "JamPlay note: This is an Esus4 chord played in \"open\" position." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e/sus4/textual/", chord = "Esus4 position 1", frets = "022200", fingers = "-IMR--" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Esus4", frets = "022200", fingers = "-MRL--", via = "copy" },
+]
+
+"3x0013" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/g-sus-4", chord = "Gsus 4", frets = "3x0013", fingers = "R---IL", via = "browser" },
+  { by = "fender", url = "https://www.fender.com/play/lessons/gsus4-open-position-v1", chord = "Gsus4 Open Position (v1)", frets = "3x0013", fingers = "R---IL", via = "reader", note = "instructor Barrett Wilson" },
+  { by = "guitar-player", url = "https://www.guitarplayer.com/lessons/suspended-chords-liven-up-your-rhythm-playing-with-open-position-and-movable-voicings", chord = "Gsus4 (Figure 1)", frets = "3x0013", via = "image" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g/sus4/textual/", chord = "Gsus4 position 1", frets = "3x0013", fingers = "R---IL" },
+]
+
+"x02230" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/a-sus-4", chord = "ASus 4", frets = "x02230", fingers = "--MIL-", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/guitar-lessons/beginner-sus-chords-bg-1102", chord = "Asus4", frets = "x02230", fingers = "--MRL-", via = "image" },
+  { by = "fender", url = "https://www.fender.com/play/lessons/asus4-open-position-v1", chord = "Asus4 Open Position (v1)", frets = "x02230", fingers = "--IMR-", via = "reader", note = "instructor Matt Lake" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/8-ways-to-play-an-a-sus-4-chord-on-guitar/", chord = "Open A sus 4 chord", frets = "x02230", fingers = "--IML-", via = "image" },
+  { by = "guitar-world", url = "https://www.guitarworld.com/lessons/artist-lessons/the-ultimate-guide-to-sus-chords", chord = "Asus4", frets = "x02230", via = "image", note = "Dre DiMura, 2026" },
+  { by = "guitar-player", url = "https://www.guitarplayer.com/lessons/suspended-chords-liven-up-your-rhythm-playing-with-open-position-and-movable-voicings", chord = "Asus4 (Figure 1)", frets = "x02230", via = "image" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Asus4-guitar-chord,452.html", chord = "Asus4", frets = "x02230", fingers = "--IMR-" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/101-sus4", chord = "Asus4", frets = "x02230", fingers = "--IMR-", note = "JamPlay note: Give this Asus4 chord a try!" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/101-sus4", chord = "Asus4", frets = "x02230", fingers = "--IIM-", note = "JamPlay note: This is an Asus4 chord.  It may be easier to avoid playing the high E string in this chord if you are getting a muted sound, otherwise is it perfectly acceptabl" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/101-sus4", chord = "Asus4", frets = "x02230", fingers = "--MRL-", note = "JamPlay note: This is one possible way to finger an Asus4 chord." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/101-sus4", chord = "Asus4", frets = "x02230", fingers = "--IML-", note = "JamPlay note: In an Asus4 chord, the fourth of the chord (D) replaces the third of the chord (C#)." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a/sus4/textual/", chord = "Asus4 position 1", frets = "x02230", fingers = "--IIM-" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Asus4", frets = "x02230", fingers = "--IMR-", via = "copy" },
+]
+
+"x24400" = [
+  { by = "fender", url = "https://www.fender.com/play/lessons/bsus4-2nd-position-v1", chord = "Bsus4 2nd Position (v1)", frets = "x24400", fingers = "-IRL--", via = "reader", note = "instructor Matt Lake" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/7-ways-to-play-a-b-sus-4-chord-on-guitar/", chord = "Open B sus 4 chord", frets = "x24400", fingers = "-IRL--", via = "image" },
+  { by = "mike-tyka", url = "https://miketyka.com/guitar/chordshp.htm", chord = "Bsus4", frets = "x24400" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/2-b/101-sus4", chord = "Bsus4", frets = "x24400", fingers = "-IRL--", note = "JamPlay note: This is a Bus4 chord. This voicing features a common power chord shape combined with open strings." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b/sus4/textual/", chord = "Bsus4 position 5", frets = "x24400", fingers = "-IRL--" },
+]
+
+"x3556x" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/guitar-lessons/a-shape-barre-chords-sus4-ash-006", chord = "C sus4", frets = "x3556x", fingers = "-IRRL-", via = "image" },
+  { by = "guitar-player", url = "https://www.guitarplayer.com/lessons/suspended-chords-liven-up-your-rhythm-playing-with-open-position-and-movable-voicings", chord = "Esus4 (Figure 6, 'Panama')", frets = "x799(10)x", fingers = "-IRRL-", via = "image", note = "text: 1st finger on the root, 3rd finger barres D, G, B; add the 4th with the pinkie on the B string" },
+  { by = "mike-tyka", url = "https://miketyka.com/guitar/chordshp.htm", chord = "Csus4", frets = "x3556x" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/101-sus4", chord = "Esus4", frets = "x799(10)x", fingers = "-IRRL-", note = "JamPlay note: This voicing for Esus4 utilizes a very common movable chord shape." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/6-f/47-sus4", chord = "F#sus4", frets = "x9(11)(11)(12)x", fingers = "-IRRL-", note = "JamPlay note: This is a very common voicing for F#sus4." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/2-b/82-bsus4", chord = "Bbsus4", frets = "x1334x", fingers = "-IRRL-", note = "JamPlay note: This Bbsus4 chord utilizes a common, movable chord shape." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/2-b/101-sus4", chord = "Bsus4", frets = "x2445x", fingers = "-IRRL-", note = "JamPlay note: This Bsus4 chord utilizes a common, movable chord shape." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e/sus4/textual/", chord = "Esus4 position 4", frets = "x799(10)x", fingers = "-IRRL-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f-sharp/sus4/textual/", chord = "F#sus4 position 4", frets = "x9(11)(11)(12)x", fingers = "-IRRL-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b-flat/sus4/textual/", chord = "Bbsus4 position 4", frets = "x1334x", fingers = "-IRRL-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b/sus4/textual/", chord = "Bsus4 position 4", frets = "x2445x", fingers = "-IRRL-" },
+]
+
+"xx(10)(10)88" = [
+  { by = "fender", url = "https://www.fender.com/play/lessons/fsus4-1st-position-v1", chord = "Fsus4 1st Position (v1)", frets = "xx3311", fingers = "--RLII", via = "reader", note = "instructor Nikki Stevens" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/7-ways-to-play-a-c-sus-4-chord-on-guitar/", chord = "C sus 4 mini barre chord on the 4th string", frets = "xx(10)(10)88", fingers = "--RLII", via = "image" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/7-ways-to-play-an-f-sus-4-chord-on-guitar/", chord = "F sus 4 mini barre chord", frets = "xx3311", fingers = "--RLII", via = "image" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/7-ways-to-play-a-g-sus-4-chord-on-guitar/", chord = "G sus 4 mini barre chord", frets = "xx5533", fingers = "--RLII", via = "image" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/7-ways-to-play-a-b-sus-4-chord-on-guitar/", chord = "B sus 4 mini barre on the 4th string", frets = "xx9977", fingers = "--RLII", via = "image" },
+  { by = "guitar-player", url = "https://www.guitarplayer.com/lessons/suspended-chords-liven-up-your-rhythm-playing-with-open-position-and-movable-voicings", chord = "Fsus4 (Figure 1)", frets = "xx3311", via = "image" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/7-g/101-sus4", chord = "Gsus4", frets = "xx5533", fingers = "--RLII", note = "JamPlay note: This is a Gsus4 voicing played in third position." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g/sus4/textual/", chord = "Gsus4 position 4", frets = "xx5533", fingers = "--RLII" },
+]
+
+"8(10)(10)(10)88" = [
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/7-ways-to-play-a-c-sus-4-chord-on-guitar/", chord = "C sus 4 barre chord on the 6th string", frets = "8(10)(10)(10)88", fingers = "IMRLII", via = "image" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/9-ways-to-play-a-d-sus-4-chord-on-guitar/", chord = "D sus 4 barre chord on the 6th string", frets = "(10)(12)(12)(12)(10)(10)", fingers = "IMRLII", via = "image" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/7-ways-to-play-an-f-sus-4-chord-on-guitar/", chord = "F sus 4 barre chord 6th string", frets = "133311", fingers = "IMRLII", via = "image" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/7-ways-to-play-a-g-sus-4-chord-on-guitar/", chord = "G sus 4 barre chord on the 6th string", frets = "355533", fingers = "IMRLII", via = "image" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/8-ways-to-play-an-a-sus-4-chord-on-guitar/", chord = "A sus 4 barre chord on the 6th string", frets = "577755", fingers = "IMRLII", via = "image" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/7-ways-to-play-a-b-sus-4-chord-on-guitar/", chord = "B sus 4 barre chord 6th string", frets = "799977", fingers = "IMRLII", via = "image" },
+  { by = "guitar-world", url = "https://www.guitarworld.com/lessons/artist-lessons/the-ultimate-guide-to-sus-chords", chord = "Gsus4 barre chord (3 fr)", frets = "355533", via = "image", note = "Dre DiMura, 2026" },
+  { by = "guitar-player", url = "https://www.guitarplayer.com/lessons/suspended-chords-liven-up-your-rhythm-playing-with-open-position-and-movable-voicings", chord = "Asus4 (Figure 4)", frets = "577755", via = "image" },
+  { by = "mike-tyka", url = "https://miketyka.com/guitar/chordshp.htm", chord = "Gsus4", frets = "355533" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Csus4-guitar-chord,41.html", chord = "Csus4", frets = "8(10)(10)(10)88", fingers = "IMRLII" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/C_sus4-guitar-chord,77.html", chord = "C#sus4", frets = "9(11)(11)(11)99" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Dsus4-guitar-chord,139.html", chord = "Dsus4", frets = "(10)(12)(12)(12)(10)(10)", fingers = "IMRLII" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Fsus4-guitar-chord,262.html", chord = "Fsus4", frets = "133311", fingers = "IRRRII" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/F%23sus4-guitar-chord,308.html", chord = "F#sus4", frets = "244422" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Gbsus4-guitar-chord,709.html", chord = "Gbsus4", frets = "244422" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Gsus4-guitar-chord,372.html", chord = "Gsus4", frets = "355533", fingers = "IMRLII" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Absus4-guitar-chord,756.html", chord = "Absus4", frets = "466644" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/G_sus4-guitar-chord,409.html", chord = "G#sus4", frets = "466644" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Asus4-guitar-chord,469.html", chord = "Asus4", frets = "577755", fingers = "IMRLII" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Bbsus4-guitar-chord,816.html", chord = "Bbsus4", frets = "688866" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Bsus4-guitar-chord,587.html", chord = "Bsus4", frets = "799977", fingers = "IRRRII" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Csus4", frets = "8(10)(10)(10)88", fingers = "IMRLII", via = "copy" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "C#sus4", frets = "9(11)(11)(11)99", fingers = "IMRLII", via = "copy" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Dsus4", frets = "(10)(12)(12)(12)(10)(10)", fingers = "IMRLII", via = "copy" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Ebsus4", frets = "(11)(13)(13)(13)(11)(11)", fingers = "IMRLII", via = "copy" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Fsus4", frets = "133311", fingers = "IMRLII", via = "copy" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "F#sus4", frets = "244422", fingers = "IMRLII", via = "copy" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Gsus4", frets = "355533", fingers = "IMRLII", via = "copy" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Absus4", frets = "466644", fingers = "IMRLII", via = "copy" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Asus4", frets = "577755", fingers = "IRRLII", via = "copy" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Bbsus4", frets = "688866", fingers = "IRRRII", via = "copy" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Bsus4", frets = "799977", fingers = "IMRLII", via = "copy" },
+]
+
+"x35563" = [
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/7-ways-to-play-a-c-sus-4-chord-on-guitar/", chord = "C sus 4 barre chord on the 5th string", frets = "x35563", fingers = "-IMRLI", via = "image" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/9-ways-to-play-a-d-sus-4-chord-on-guitar/", chord = "D sus 4 barre chord on the 5th string", frets = "x57785", fingers = "-IMRLI", via = "image" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/7-ways-to-play-an-f-sus-4-chord-on-guitar/", chord = "F sus 4 barre chord 5th string", frets = "x8(10)(10)(11)8", fingers = "-IMRLI", via = "image" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/7-ways-to-play-a-g-sus-4-chord-on-guitar/", chord = "G sus 4 barre chord on the 5th string", frets = "x(10)(12)(12)(13)(10)", fingers = "-IMRLI", via = "image" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/7-ways-to-play-a-b-sus-4-chord-on-guitar/", chord = "B sus 4 barre chord 5th string", frets = "x24452", fingers = "-IMRLI", via = "image" },
+  { by = "guitar-player", url = "https://www.guitarplayer.com/lessons/suspended-chords-liven-up-your-rhythm-playing-with-open-position-and-movable-voicings", chord = "Dsus4 (Figure 4)", frets = "x57785", via = "image" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Csus4-guitar-chord,24.html", chord = "Csus4", frets = "x35563", fingers = "-IMRLI" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/C%23sus4-guitar-chord,60.html", chord = "C#sus4", frets = "x46674" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Dbsus4-guitar-chord,619.html", chord = "Dbsus4", frets = "x46674" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Dsus4-guitar-chord,125.html", chord = "Dsus4", frets = "x57785", fingers = "-IMRLI" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/D_sus4-guitar-chord,164.html", chord = "D#sus4", frets = "x68896" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/D_sus4-guitar-chord,191.html", chord = "D#sus4", frets = "x68896" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Ebsus4-guitar-chord,667.html", chord = "Ebsus4", frets = "x68896" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Ebsus4-guitar-chord,694.html", chord = "Ebsus4", frets = "x68896" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Esus4-guitar-chord,223.html", chord = "Esus4", frets = "x799(10)7", fingers = "-IMRLI" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Fsus4-guitar-chord,279.html", chord = "Fsus4", frets = "x8(10)(10)(11)8", fingers = "-IMRLI" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/F_sus4-guitar-chord,325.html", chord = "F#sus4", frets = "x9(11)(11)(12)9" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/A_sus4-guitar-chord,515.html", chord = "A#sus4", frets = "x13341" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Bbsus4-guitar-chord,799.html", chord = "Bbsus4", frets = "x13341" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Bsus4-guitar-chord,570.html", chord = "Bsus4", frets = "x24452", fingers = "-IMRLI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/sus4/textual/", chord = "Csus4 position 2", frets = "x35563", fingers = "-IMRLI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c-sharp/sus4/textual/", chord = "C#sus4 position 1", frets = "x46674", fingers = "-IMRLI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d/sus4/textual/", chord = "Dsus4 position 2", frets = "x57785", fingers = "-IMRLI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e-flat/sus4/textual/", chord = "Ebsus4 position 2", frets = "x68896", fingers = "-IMRLI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f/sus4/textual/", chord = "Fsus4 position 3", frets = "x8(10)(10)(11)8", fingers = "-IMRLI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f-sharp/sus4/textual/", chord = "F#sus4 position 3", frets = "x9(11)(11)(12)9", fingers = "-IMRLI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g/sus4/textual/", chord = "Gsus4 position 3", frets = "x(10)(12)(12)(13)(10)", fingers = "-IMRLI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b-flat/sus4/textual/", chord = "Bbsus4 position 1", frets = "x13341", fingers = "-IMRLI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b/sus4/textual/", chord = "Bsus4 position 1", frets = "x24452", fingers = "-IMRLI" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Bbsus4", frets = "x13341", fingers = "-IMRLI", via = "copy" },
+]
+
+"x(15)(15)(12)(13)x" = [
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/9-ways-to-play-a-d-sus-4-chord-on-guitar/", chord = "D sus 4 chord variation on the 5th string", frets = "x5523x", fingers = "-RLIM-", via = "image" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/7-ways-to-play-an-f-sus-4-chord-on-guitar/", chord = "F sus 4 chord - 5th string", frets = "x8856x", fingers = "-RLIM-", via = "image" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/7-ways-to-play-a-g-sus-4-chord-on-guitar/", chord = "G sus 4 spread chord", frets = "x(10)(10)78x", fingers = "-RLIM-", via = "image" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/C_sus4-guitar-chord,91.html", chord = "C#sus4", frets = "x4412x" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Dsus4-guitar-chord,152.html", chord = "Dsus4", frets = "x5523x", fingers = "-RLIM-" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Ebsus4-guitar-chord,683.html", chord = "Ebsus4", frets = "x6634x" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Fsus4-guitar-chord,293.html", chord = "Fsus4", frets = "x8856x", fingers = "-RLIM-" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/F_sus4-guitar-chord,340.html", chord = "F#sus4", frets = "x9967x" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Gsus4-guitar-chord,388.html", chord = "Gsus4", frets = "x(10)(10)78x", fingers = "-RLIM-" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Absus4-guitar-chord,773.html", chord = "Absus4", frets = "x(11)(11)89x" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Asus4-guitar-chord,497.html", chord = "Asus4", frets = "x(12)(12)9(10)x", fingers = "-RLIM-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e-flat/sus4/textual/", chord = "Ebsus4 position 1", frets = "x6634x", fingers = "-RLIM-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f/sus4/textual/", chord = "Fsus4 position 2", frets = "x8856x", fingers = "-RLIM-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f-sharp/sus4/textual/", chord = "F#sus4 position 2", frets = "x9967x", fingers = "-RLIM-" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "C#sus4", frets = "x4412x", fingers = "-RLIM-", via = "copy" },
+]
+
+"x33011" = [
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/7-ways-to-play-a-c-sus-4-chord-on-guitar/", chord = "Open C sus 4 chord with a mini barre", frets = "x33011", fingers = "-RL-II", via = "image" },
+  { by = "guitar-world", url = "https://www.guitarworld.com/lessons/artist-lessons/the-ultimate-guide-to-sus-chords", chord = "Csus4", frets = "x33011", via = "image", note = "Dre DiMura, 2026" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Csus4-guitar-chord,6.html", chord = "Csus4", frets = "x33011", fingers = "-RL-II" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Csus4", frets = "x33011", fingers = "-RL-II", via = "copy" },
+]
+
+"xx(10)(12)(13)(13)" = [
+  { by = "mike-tyka", url = "https://miketyka.com/guitar/chordshp.htm", chord = "Fsus4", frets = "xx3566" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Esus4-guitar-chord,1052.html", chord = "Esus4", frets = "xx2455", fingers = "--IMRL" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Fsus4-guitar-chord,1053.html", chord = "Fsus4", frets = "xx3566", fingers = "--IMRL" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/F_sus4-guitar-chord,1054.html", chord = "F#sus4", frets = "xx4677" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Gsus4-guitar-chord,1064.html", chord = "Gsus4", frets = "xx5788", fingers = "--IMRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a-flat/sus4/textual/", chord = "Absus4 position 3", frets = "xx6899", fingers = "--IMRL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Ebsus4", frets = "xx1344", fingers = "--IMRL", via = "copy" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Fsus4", frets = "xx3566", fingers = "--IMRL", via = "copy" },
+]
+
+"3x001x" = [
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/7-ways-to-play-a-g-sus-4-chord-on-guitar/", chord = "Open G sus 4 chord", frets = "3x001x", fingers = "R---I-", via = "image" },
+  { by = "guitar-world", url = "https://www.guitarworld.com/lessons/artist-lessons/the-ultimate-guide-to-sus-chords", chord = "Gsus4", frets = "3x001x", via = "image", note = "Dre DiMura, 2026" },
+]
+
+"88(10)(10)88" = [
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/8-ways-to-play-an-a-sus-4-chord-on-guitar/", chord = "A sus 4 barre chord - 6th string variation", frets = "557755", fingers = "IIRLII", via = "image" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/sus4/textual/", chord = "Csus4 position 3", frets = "88(10)(10)88", fingers = "IIRLII" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c-sharp/sus4/textual/", chord = "C#sus4 position 3", frets = "99(11)(11)99", fingers = "IIRLII" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d/sus4/textual/", chord = "Dsus4 position 3", frets = "(10)(10)(12)(12)(10)(10)", fingers = "IIRLII" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e-flat/sus4/textual/", chord = "Ebsus4 position 3", frets = "(11)(11)(13)(13)(11)(11)", fingers = "IIRLII" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f/sus4/textual/", chord = "Fsus4 position 1", frets = "113311", fingers = "IIRLII" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f-sharp/sus4/textual/", chord = "F#sus4 position 1", frets = "224422", fingers = "IIRLII" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g/sus4/textual/", chord = "Gsus4 position 2", frets = "335533", fingers = "IIRLII" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a-flat/sus4/textual/", chord = "Absus4 position 2", frets = "446644", fingers = "IIRLII" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b-flat/sus4/textual/", chord = "Bbsus4 position 3", frets = "668866", fingers = "IIRLII" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b/sus4/textual/", chord = "Bsus4 position 3", frets = "779977", fingers = "IIRLII" },
+]
+
+"xx2200" = [
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/7-ways-to-play-an-e-sus-4-chord-on-guitar/", chord = "Easy E sus 4 chord", frets = "xx2200", fingers = "--MR--", via = "image" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/101-sus4", chord = "Esus4", frets = "xx2200", fingers = "--MR--", note = "JamPlay note: This is an \"open\" voicing for Esus4." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e/sus4/textual/", chord = "Esus4 position 5", frets = "xx2200", fingers = "--MR--" },
+]
+
+"002200" = [
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Esus4-guitar-chord,239.html", chord = "Esus4", frets = "002200", fingers = "--IM--" },
+]
+
+"002400" = [
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Esus4-guitar-chord,252.html", chord = "Esus4", frets = "002400", fingers = "--IM--" },
+]
+
+"00xx00" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/101-sus4", chord = "Esus4", frets = "00xx00", fingers = "------" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e/sus4/textual/", chord = "Esus4 position 7", frets = "00xx00", fingers = "------" },
+]
+
+"00xx0x" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/101-sus4", chord = "Esus4", frets = "00xx0x", fingers = "------" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e/sus4/textual/", chord = "Esus4 position 6", frets = "00xx0x", fingers = "------" },
+]
+
+"8(10)(10)(10)xx" = [
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/7-ways-to-play-an-f-sus-4-chord-on-guitar/", chord = "F sus 4 chord on the 6th string", frets = "1333xx", fingers = "IMRL--", via = "image" },
+]
+
+"330013" = [
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Gsus4-guitar-chord,355.html", chord = "Gsus4", frets = "330013", fingers = "MR--IL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Gsus4", frets = "330013", fingers = "MR--IL", via = "copy" },
+]
+
+"8x(10)(10)xx" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/82-bsus4", chord = "Absus4", frets = "4x66xx", fingers = "I-RR--", note = "JamPlay note: This is an Absus4 voicing." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a-flat/sus4/textual/", chord = "Absus4 position 4", frets = "4x66xx", fingers = "I-RR--" },
+]
+
+"x00230" = [
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/8-ways-to-play-an-a-sus-4-chord-on-guitar/", chord = "Open A sus 4 chord variation", frets = "x00230", fingers = "---MR-", via = "image" },
+]
+
+"x0223x" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/101-sus4", chord = "Asus4", frets = "x0223x", fingers = "--IIM-", note = "JamPlay note: This is one way to finger an \"open\" Asus4 chord." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a/sus4/textual/", chord = "Asus4 position 4", frets = "x0223x", fingers = "--IIM-" },
+]
+
+"x33563" = [
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/9-ways-to-play-a-d-sus-4-chord-on-guitar/", chord = "D sus 4 barre chord - 5th string variation", frets = "x55785", fingers = "-IIRLI", via = "image" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/7-ways-to-play-an-f-sus-4-chord-on-guitar/", chord = "F sus 4 barre chord variation - 5th string", frets = "x88(10)(11)8", fingers = "-IIRLI", via = "image" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/7-ways-to-play-a-g-sus-4-chord-on-guitar/", chord = "G sus 4 barre chord 5th string variation", frets = "x(10)(10)(12)(13)(10)", fingers = "-IIRLI", via = "image" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/7-ways-to-play-a-b-sus-4-chord-on-guitar/", chord = "B sus 4 barre chord 5th string variation", frets = "x22452", fingers = "-IIRLI", via = "image" },
+]
+
+"xx0033" = [
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/9-ways-to-play-a-d-sus-4-chord-on-guitar/", chord = "D sus 4 open chord variation", frets = "xx0033", fingers = "----RL", via = "image" },
+]
+
+"xx(10)(10)8x" = [
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/7-ways-to-play-an-f-sus-4-chord-on-guitar/", chord = "Easy F sus 4 chord", frets = "xx331x", fingers = "--RLI-", via = "image" },
+]

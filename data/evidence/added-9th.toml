@@ -1,0 +1,272 @@
+# Where each voicing of data/chords/added-9th.toml is published, keyed by its frets from the 6th string to the 1st.
+# The format is described in data/README.md.
+
+"x32033" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/add9/textual", chord = "Cadd9", frets = "x32033", fingers = "-MI-RL" },
+  { by = "fender", url = "https://www.fender.com/play/lessons/cadd9-open-position-v1", chord = "Cadd9 Open Position (v1)", frets = "x32033", fingers = "-MI-RL", via = "reader", note = "instructor Nikki Stevens" },
+  { by = "guitar-com", url = "https://guitar.com/lessons/tuition-chord-clinic-part-2-sus-chords/", chord = "Cadd9 (Fig. 6)", frets = "x32033", fingers = "-MI-RL", via = "image" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/c-add-9", chord = "Cadd 9", frets = "x32033", fingers = "-MI-RL", via = "reader" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/48-add9", chord = "Cadd9", frets = "x32033", fingers = "-MI-RL", note = "JamPlay caption: This chord uses a similar shape to G major.  The first and second fingers are moved to the A and D strings instead of Lo" },
+  { by = "mike-tyka", url = "https://miketyka.com/guitar/chordshp.htm", chord = "Cadd9", frets = "x32033" },
+]
+
+"x32030" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/add9/textual", chord = "Cadd9", frets = "x32030", fingers = "-MI-R-" },
+  { by = "guitar-com", url = "https://guitar.com/lessons/tuition-chord-clinic-part-2-sus-chords/", chord = "Cadd9 (Fig. 6)", frets = "x32030", fingers = "-RM-L-", via = "image" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/c-add-9", chord = "Cadd 9", frets = "x32030", fingers = "-RM-L-", via = "reader" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/48-add9", chord = "Cadd9", frets = "x32030", fingers = "-MI-R-", note = "JamPlay caption: This is one possible way to play a Cadd9 chord in \"open\" position." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/48-add9", chord = "Cadd9", frets = "x32030", fingers = "-RM-L-", note = "JamPlay caption: An alternate fingering is applied to this voicing of Cadd9." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/48-add9", chord = "Cadd9", frets = "x32030", fingers = "-MI-L-", note = "JamPlay caption: This is an alternate fingering for Cadd9." },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Cadd9", frets = "x32030", fingers = "-MI-R-" },
+]
+
+"024100" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e/add9/textual", chord = "Eadd9", frets = "024100", fingers = "-MLI--" },
+  { by = "guitar-com", url = "https://guitar.com/lessons/tuition-chord-clinic-part-2-sus-chords/", chord = "Eadd9 (Fig. 8)", frets = "024100", fingers = "-MLI--", via = "image" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/48-add9", chord = "Eadd9", frets = "024100", fingers = "-MLI--", note = "JamPlay caption: This Eadd9 chord is played in \"open\" position." },
+  { by = "musicradar", url = "https://www.musicradar.com/how-to/guitar-lesson-learn-add-guitar-chords", chord = "Eadd9", frets = "024100", fingers = "-MLI--", via = "image" },
+]
+
+"3x0203" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/g-add-9", chord = "Gadd 9", frets = "3x0203", fingers = "R--M-L", via = "reader" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/g-add-9", chord = "Gadd 9", frets = "3x0203", fingers = "M--I-R", via = "reader" },
+  { by = "musicradar", url = "https://www.musicradar.com/how-to/guitar-lesson-learn-add-guitar-chords", chord = "Gadd9", frets = "3x0203", fingers = "M--I-R", via = "image" },
+]
+
+"x02420" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a/add9/textual", chord = "Aadd9", frets = "x02420", fingers = "--ILM-" },
+  { by = "guitar-com", url = "https://guitar.com/lessons/tuition-chord-clinic-part-2-sus-chords/", chord = "Aadd9 (Fig. 9)", frets = "x02420", fingers = "--ILM-", via = "image" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/48-add9", chord = "Aadd9", frets = "x02420", fingers = "--ILM-", note = "JamPlay caption: Another variation of the Aadd9 chord." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/48-add9", chord = "Aadd9", frets = "x02420", fingers = "--IRI-", note = "JamPlay caption: This is the Aadd9 chord.  Since the 1st finger is barring multiple strings, it is ok to avoid playing the high e string " },
+  { by = "musicradar", url = "https://www.musicradar.com/how-to/guitar-lesson-learn-add-guitar-chords", chord = "Aadd9", frets = "x02420", fingers = "--ILM-", via = "image" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Aadd9", frets = "x02420", fingers = "--IRM-" },
+]
+
+"xx(10)98(10)" = [
+  { by = "chordbank", url = "https://chordbank.com/chords/a-flat-add9/", chord = "Abadd9", frets = "xx6546", fingers = "--RMIL", note = "frets and fingers taken from the page's 'Step by Step' text (one finger per sentence)" },
+  { by = "chordbank", url = "https://chordbank.com/chords/b-add9/", chord = "Badd9", frets = "xx9879", fingers = "--RMIL", note = "frets and fingers taken from the page's 'Step by Step' text (one finger per sentence)" },
+  { by = "chordbank", url = "https://chordbank.com/chords/c-sharp-add9/", chord = "C#add9", frets = "xx(11)(10)9(11)", fingers = "--RMIL", note = "frets and fingers taken from the page's 'Step by Step' text (one finger per sentence)" },
+  { by = "chordbank", url = "https://chordbank.com/chords/d-flat-add9/", chord = "Dbadd9", frets = "xx(11)(10)9(11)", fingers = "--RMIL", note = "frets and fingers taken from the page's 'Step by Step' text (one finger per sentence)" },
+  { by = "chordbank", url = "https://chordbank.com/chords/f-add9/", chord = "Fadd9", frets = "xx3213", fingers = "--RMIL", note = "frets and fingers taken from the page's 'Step by Step' text (one finger per sentence)" },
+  { by = "chordbank", url = "https://chordbank.com/chords/f-sharp-add9/", chord = "F#add9", frets = "xx4324", fingers = "--RMIL", note = "frets and fingers taken from the page's 'Step by Step' text (one finger per sentence)" },
+  { by = "chordbank", url = "https://chordbank.com/chords/g-flat-add9/", chord = "Gbadd9", frets = "xx4324", fingers = "--RMIL", note = "frets and fingers taken from the page's 'Step by Step' text (one finger per sentence)" },
+  { by = "chordbank", url = "https://chordbank.com/chords/g-sharp-add9/", chord = "G#add9", frets = "xx6546", fingers = "--RMIL", note = "frets and fingers taken from the page's 'Step by Step' text (one finger per sentence)" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a/add9/textual/", chord = "Aadd9", frets = "xx7657", fingers = "--RMIL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/add9/textual/", chord = "Cadd9", frets = "xx(10)98(10)", fingers = "--RMIL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f/add9/textual/", chord = "Fadd9", frets = "xx3213", fingers = "--RMIL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g/add9/textual/", chord = "Gadd9", frets = "xx5435", fingers = "--RMIL" },
+  { by = "fender", url = "https://www.fender.com/play/lessons/dadd9-10th-position-v1", chord = "Dadd9 10th Position (v1), instructor Barrett Wilson", frets = "xx(12)(11)(10)(12)", fingers = "--RMIL", via = "reader" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/a-flat-add9.html", chord = "Abadd9 (Root on 4th string)", frets = "xx6546", fingers = "--RMIL" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/aadd9.html", chord = "Aadd9 (Root on 4th string)", frets = "xx7657", fingers = "--RMIL" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/b-flat-add9.html", chord = "Bbadd9 (Root on 4th string)", frets = "xx8768", fingers = "--RMIL" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/badd9.html", chord = "Badd9 (Root on 4th string RECOMMENDED)", frets = "xx9879", fingers = "--RMIL" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/cadd9.html", chord = "Cadd9 (Root on 4th string)", frets = "xx(10)98(10)", fingers = "--RMIL" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/d-flat-add9.html", chord = "Dbadd9 (Root on 4th string)", frets = "xx(11)(10)9(11)", fingers = "--RMIL" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/dadd9.html", chord = "Dadd9 (Root on 4th string)", frets = "xx(12)(11)(10)(12)", fingers = "--RMIL" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/e-flat-add9.html", chord = "Ebadd9 (Root on 4th string)", frets = "xx(13)(12)(11)(13)", fingers = "--RMIL" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/eadd9.html", chord = "Eadd9 (Root on 4th string)", frets = "xx(14)(13)(12)(14)", fingers = "--RMIL" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/fadd9.html", chord = "Fadd9 (Root on 4th string RECOMMENDED)", frets = "xx3213", fingers = "--RMIL" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/g-flat-add9.html", chord = "Gbadd9 (Root on 4th string RECOMMENDED)", frets = "xx4324", fingers = "--RMIL" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/gadd9.html", chord = "Gadd9 (Root on 4th string)", frets = "xx5435", fingers = "--RMIL" },
+  { by = "guitar-chords-org-uk", url = "https://www.guitar-chords.org.uk/ab-major-add9-chord.html", chord = "Ab add9 chord diagram", frets = "xx6546", fingers = "--RMIL", note = "diagram image" },
+  { by = "guitar-chords-org-uk", url = "https://www.guitar-chords.org.uk/b-major-add9-chord.html", chord = "B add9 chord diagram", frets = "xx9879", fingers = "--RMIL", note = "diagram image" },
+  { by = "guitar-chords-org-uk", url = "https://www.guitar-chords.org.uk/bb-major-add9-chord.html", chord = "Bb add9 chord diagram", frets = "xx8768", fingers = "--RMIL", note = "diagram image" },
+  { by = "guitar-chords-org-uk", url = "https://www.guitar-chords.org.uk/c-major-add9-chord.html", chord = "C add9 chord diagram", frets = "xx(10)98(10)", fingers = "--RMIL", note = "diagram image" },
+  { by = "guitar-chords-org-uk", url = "https://www.guitar-chords.org.uk/d-major-add9-chord.html", chord = "D add9 chord diagram", frets = "xx(12)(11)(10)(12)", fingers = "--RMIL", note = "diagram image" },
+  { by = "guitar-chords-org-uk", url = "https://www.guitar-chords.org.uk/db-major-add9-chord.html", chord = "Db add9 chord diagram", frets = "xx(11)(10)9(11)", fingers = "--RMIL", note = "diagram image" },
+  { by = "guitar-chords-org-uk", url = "https://www.guitar-chords.org.uk/eb-major-add9-chord.html", chord = "Eb add9 chord diagram", frets = "xx(13)(12)(11)(13)", fingers = "--RMIL", note = "diagram image" },
+  { by = "guitar-chords-org-uk", url = "https://www.guitar-chords.org.uk/f-major-add9-chord.html", chord = "F add9 chord diagram", frets = "xx3213", fingers = "--RMIL", note = "diagram image" },
+  { by = "guitar-chords-org-uk", url = "https://www.guitar-chords.org.uk/gb-major-add9-chord.html", chord = "Gb add9 chord diagram", frets = "xx4324", fingers = "--RMIL", note = "diagram image" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/A-chord/add9", chord = "Aadd9 Variation 3", frets = "xx7657", fingers = "--RMIL", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/A-chord/add9", chord = "Aadd9 Variation 4", frets = "xx7657", fingers = "--RMIL", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/A-chord/add9", chord = "Aadd9 Variation 5", frets = "xx7657", fingers = "--RMIL", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/Ab-chord/add9", chord = "Abadd9 Variation 3", frets = "xx6546", fingers = "--RMIL", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/Ab-chord/add9", chord = "Abadd9 Variation 4", frets = "xx6546", fingers = "--RMIL", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/Ab-chord/add9", chord = "Abadd9 Variation 5", frets = "xx6546", fingers = "--RMIL", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/B-chord/add9", chord = "Badd9 Variation 3", frets = "xx9879", fingers = "--RMIL", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/B-chord/add9", chord = "Badd9 Variation 4", frets = "xx9879", fingers = "--RMIL", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/B-chord/add9", chord = "Badd9 Variation 5", frets = "xx9879", fingers = "--RMIL", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/Bb-chord/add9", chord = "Bbadd9 Variation 3", frets = "xx8768", fingers = "--RMIL", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/Bb-chord/add9", chord = "Bbadd9 Variation 4", frets = "xx8768", fingers = "--RMIL", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/Bb-chord/add9", chord = "Bbadd9 Variation 5", frets = "xx8768", fingers = "--RMIL", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/C-chord/add9", chord = "Cadd9 Variation 3", frets = "xx(10)98(10)", fingers = "--RMIL", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/C-chord/add9", chord = "Cadd9 Variation 4", frets = "xx(10)98(10)", fingers = "--RMIL", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/C-chord/add9", chord = "Cadd9 Variation 5", frets = "xx(10)98(10)", fingers = "--RMIL", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/D-chord/add9", chord = "Dadd9 Variation 3", frets = "xx(12)(11)(10)(12)", fingers = "--RMIL", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/D-chord/add9", chord = "Dadd9 Variation 4", frets = "xx(12)(11)(10)(12)", fingers = "--RMIL", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/D-chord/add9", chord = "Dadd9 Variation 5", frets = "xx(12)(11)(10)(12)", fingers = "--RMIL", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/Db-chord/add9", chord = "Dbadd9 Variation 3", frets = "xx(11)(10)9(11)", fingers = "--RMIL", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/Db-chord/add9", chord = "Dbadd9 Variation 4", frets = "xx(11)(10)9(11)", fingers = "--RMIL", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/Db-chord/add9", chord = "Dbadd9 Variation 5", frets = "xx(11)(10)9(11)", fingers = "--RMIL", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/Eb-chord/add9", chord = "Ebadd9 Variation 3", frets = "xx(13)(12)(11)(13)", fingers = "--RMIL", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/Eb-chord/add9", chord = "Ebadd9 Variation 4", frets = "xx(13)(12)(11)(13)", fingers = "--RMIL", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/Eb-chord/add9", chord = "Ebadd9 Variation 5", frets = "xx(13)(12)(11)(13)", fingers = "--RMIL", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/F-chord/add9", chord = "Fadd9 Variation 3", frets = "xx3213", fingers = "--RMIL", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/F-chord/add9", chord = "Fadd9 Variation 4", frets = "xx3213", fingers = "--RMIL", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/F-chord/add9", chord = "Fadd9 Variation 5", frets = "xx3213", fingers = "--RMIL", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/G-chord/add9", chord = "Gadd9 Variation 3", frets = "xx5435", fingers = "--RMIL", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/G-chord/add9", chord = "Gadd9 Variation 4", frets = "xx5435", fingers = "--RMIL", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/G-chord/add9", chord = "Gadd9 Variation 5", frets = "xx5435", fingers = "--RMIL", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/Gb-chord/add9", chord = "Gbadd9 Variation 3", frets = "xx4324", fingers = "--RMIL", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/Gb-chord/add9", chord = "Gbadd9 Variation 4", frets = "xx4324", fingers = "--RMIL", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/Gb-chord/add9", chord = "Gbadd9 Variation 5", frets = "xx4324", fingers = "--RMIL", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "8notes", url = "https://www.8notes.com/guitar_chord_chart/Abadd9.asp", chord = "Abadd9 (svg_abadd9__1.svg)", frets = "xx6546", fingers = "--RMIL" },
+  { by = "8notes", url = "https://www.8notes.com/guitar_chord_chart/Axadd9.asp", chord = "A#add9 (svg_axadd9__1.svg)", frets = "xx8768", fingers = "--RMIL" },
+  { by = "8notes", url = "https://www.8notes.com/guitar_chord_chart/Badd9.asp", chord = "Badd9 (svg_badd9__2.svg)", frets = "xx9879", fingers = "--RMIL" },
+  { by = "8notes", url = "https://www.8notes.com/guitar_chord_chart/Bbadd9.asp", chord = "Bbadd9 (svg_bbadd9__1.svg)", frets = "xx8768", fingers = "--RMIL" },
+  { by = "8notes", url = "https://www.8notes.com/guitar_chord_chart/Cadd9.asp", chord = "Cadd9 (svg_cadd9__3.svg)", frets = "xx(10)98(10)", fingers = "--RMIL" },
+  { by = "8notes", url = "https://www.8notes.com/guitar_chord_chart/Cxadd9.asp", chord = "C#add9 (svg_cxadd9__3.svg)", frets = "xx(11)(10)9(11)", fingers = "--RMIL" },
+  { by = "8notes", url = "https://www.8notes.com/guitar_chord_chart/Dadd9.asp", chord = "Dadd9 (svg_dadd9__3.svg)", frets = "xx(12)(11)(10)(12)", fingers = "--RMIL" },
+  { by = "8notes", url = "https://www.8notes.com/guitar_chord_chart/Dbadd9.asp", chord = "Dbadd9 (svg_dbadd9__3.svg)", frets = "xx(11)(10)9(11)", fingers = "--RMIL" },
+  { by = "8notes", url = "https://www.8notes.com/guitar_chord_chart/Dxadd9.asp", chord = "D#add9 (svg_dxadd9__3.svg)", frets = "xx(13)(12)(11)(13)", fingers = "--RMIL" },
+  { by = "8notes", url = "https://www.8notes.com/guitar_chord_chart/Eadd9.asp", chord = "Eadd9 (svg_eadd9__3.svg)", frets = "xx(14)(13)(12)(14)", fingers = "--RMIL" },
+  { by = "8notes", url = "https://www.8notes.com/guitar_chord_chart/Ebadd9.asp", chord = "Ebadd9 (svg_ebadd9__3.svg)", frets = "xx(13)(12)(11)(13)", fingers = "--RMIL" },
+  { by = "8notes", url = "https://www.8notes.com/guitar_chord_chart/Fadd9.asp", chord = "Fadd9 (svg_fadd9__1.svg)", frets = "xx3213", fingers = "--RMIL" },
+  { by = "8notes", url = "https://www.8notes.com/guitar_chord_chart/Fxadd9.asp", chord = "F#add9 (svg_fxadd9__1.svg)", frets = "xx4324", fingers = "--RMIL" },
+  { by = "8notes", url = "https://www.8notes.com/guitar_chord_chart/Gbadd9.asp", chord = "Gbadd9 (svg_gbadd9__1.svg)", frets = "xx4324", fingers = "--RMIL" },
+  { by = "8notes", url = "https://www.8notes.com/guitar_chord_chart/Gxadd9.asp", chord = "G#add9 (svg_gxadd9__1.svg)", frets = "xx6546", fingers = "--RMIL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Cadd9", frets = "xx(10)98(10)", fingers = "--RMIL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "C#add9", frets = "xx(11)(10)9(11)", fingers = "--RMIL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Dadd9", frets = "xx(12)(11)(10)(12)", fingers = "--RMIL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Ebadd9", frets = "xx(13)(12)(11)(13)", fingers = "--RMIL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Eadd9", frets = "xx(14)(13)(12)(14)", fingers = "--RMIL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Fadd9", frets = "xx3213", fingers = "--RMIL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "F#add9", frets = "xx4324", fingers = "--RMIL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Abadd9", frets = "xx6546", fingers = "--RMIL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Aadd9", frets = "xx7657", fingers = "--RMIL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Bbadd9", frets = "xx8768", fingers = "--RMIL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Badd9", frets = "xx9879", fingers = "--RMIL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a/add9/textual", chord = "Aadd9", frets = "xx7657", fingers = "--RMIL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/add9/textual", chord = "Cadd9", frets = "xx(10)98(10)", fingers = "--RMIL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f/add9/textual", chord = "Fadd9", frets = "xx3213", fingers = "--RMIL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g/add9/textual", chord = "Gadd9", frets = "xx5435", fingers = "--RMIL" },
+  { by = "fender", url = "https://www.fender.com/play/lessons/fadd9-1st-position-v1", chord = "Fadd9 1st Position (v1)", frets = "xx3213", fingers = "--RMIL", via = "reader", note = "instructor Scott Goldbaum" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/48-add9", chord = "Aadd9", frets = "xx7657", fingers = "--RMIL", note = "JamPlay caption: Notice how the ninth is added on the high E string of this voicing for A major." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/48-add9", chord = "Cadd9", frets = "xx(10)98(10)", fingers = "--RMIL", note = "JamPlay caption: This voicing for Cadd9 is played in eighth position." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/4-d/48-add9", chord = "Dadd9", frets = "xx(12)(11)(10)(12)", fingers = "--RMIL", note = "JamPlay caption: Notice how the ninth is added on the high E string of this voicing for D major." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/6-f/48-add9", chord = "Fadd9", frets = "xx3213", fingers = "--RMIL", note = "JamPlay caption: A G note is added to F major to form an Fadd9 chord." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/7-g/48-add9", chord = "Gadd9", frets = "xx5435", fingers = "--RMIL", note = "JamPlay caption: Notice how the ninth is added on the high E string of this voicing for G major." },
+]
+
+"87x78x" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b/add9/", chord = "Badd9 position 1", frets = "76x67x", note = "diagram image b-add9-pos-1.webp (the textual page gives no finger text for this position)" },
+  { by = "guitar-chords-org-uk", url = "https://www.guitar-chords.org.uk/ab-major-add9-chord.html", chord = "Ab add9 chord diagram", frets = "43x34x", fingers = "RI-ML-", note = "diagram image" },
+  { by = "guitar-chords-org-uk", url = "https://www.guitar-chords.org.uk/b-major-add9-chord.html", chord = "B add9 chord diagram", frets = "76x67x", fingers = "RI-ML-", note = "diagram image" },
+  { by = "guitar-chords-org-uk", url = "https://www.guitar-chords.org.uk/bb-major-add9-chord.html", chord = "Bb add9 chord diagram", frets = "65x56x", fingers = "RI-ML-", note = "diagram image" },
+  { by = "guitar-chords-org-uk", url = "https://www.guitar-chords.org.uk/c-major-add9-chord.html", chord = "C add9 chord diagram", frets = "87x78x", fingers = "RI-ML-", note = "diagram image" },
+  { by = "guitar-chords-org-uk", url = "https://www.guitar-chords.org.uk/d-major-add9-chord.html", chord = "D add9 chord diagram", frets = "(10)9x9(10)x", fingers = "RI-ML-", note = "diagram image" },
+  { by = "guitar-chords-org-uk", url = "https://www.guitar-chords.org.uk/db-major-add9-chord.html", chord = "Db add9 chord diagram", frets = "98x89x", fingers = "RI-ML-", note = "diagram image" },
+  { by = "guitar-chords-org-uk", url = "https://www.guitar-chords.org.uk/eb-major-add9-chord.html", chord = "Eb add9 chord diagram", frets = "(11)(10)x(10)(11)x", fingers = "RI-ML-", note = "diagram image" },
+  { by = "guitar-chords-org-uk", url = "https://www.guitar-chords.org.uk/f-major-add9-chord.html", chord = "F add9 chord diagram", frets = "(13)(12)x(12)(13)x", fingers = "RI-ML-", note = "diagram image" },
+  { by = "guitar-chords-org-uk", url = "https://www.guitar-chords.org.uk/gb-major-add9-chord.html", chord = "Gb add9 chord diagram", frets = "21x12x", fingers = "RI-ML-", note = "diagram image" },
+  { by = "8notes", url = "https://www.8notes.com/guitar_chord_chart/Cxadd9.asp", chord = "C#add9 (svg_cxadd9__2.svg)", frets = "98x89x", fingers = "RI-ML-" },
+  { by = "8notes", url = "https://www.8notes.com/guitar_chord_chart/Dbadd9.asp", chord = "Dbadd9 (svg_dbadd9__2.svg)", frets = "98x89x", fingers = "RI-ML-" },
+  { by = "8notes", url = "https://www.8notes.com/guitar_chord_chart/Dxadd9.asp", chord = "D#add9 (svg_dxadd9__2.svg)", frets = "(11)(10)x(10)(11)x", fingers = "RI-ML-" },
+  { by = "8notes", url = "https://www.8notes.com/guitar_chord_chart/Ebadd9.asp", chord = "Ebadd9 (svg_ebadd9__2.svg)", frets = "(11)(10)x(10)(11)x", fingers = "RI-ML-" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Ebadd9", frets = "(11)(10)x(10)(11)x", fingers = "RI-ML-" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Abadd9", frets = "43x34x", fingers = "RI-ML-" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "C#add9", frets = "98x89x", fingers = "RI-ML-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b/add9/", chord = "Badd9", frets = "76x67x", via = "image" },
+]
+
+"x32x33" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d/add9/", chord = "Dadd9 position 1", frets = "x54x55", fingers = "-MI-LR", note = "diagram image d-add9-pos-1.webp (the textual page gives no finger text for this position)" },
+  { by = "guitar-chords-org-uk", url = "https://www.guitar-chords.org.uk/ab-major-add9-chord.html", chord = "Ab add9 chord diagram", frets = "x(11)(10)x(11)(11)", fingers = "-MI-RL", note = "diagram image" },
+  { by = "guitar-chords-org-uk", url = "https://www.guitar-chords.org.uk/b-major-add9-chord.html", chord = "B add9 chord diagram", frets = "x21x22", fingers = "-MI-RL", note = "diagram image" },
+  { by = "guitar-chords-org-uk", url = "https://www.guitar-chords.org.uk/bb-major-add9-chord.html", chord = "Bb add9 chord diagram", frets = "x(13)(12)x(13)(13)", fingers = "-MI-RL", note = "diagram image" },
+  { by = "guitar-chords-org-uk", url = "https://www.guitar-chords.org.uk/d-major-add9-chord.html", chord = "D add9 chord diagram", frets = "x54x55", fingers = "-MI-RL", note = "diagram image" },
+  { by = "guitar-chords-org-uk", url = "https://www.guitar-chords.org.uk/db-major-add9-chord.html", chord = "Db add9 chord diagram", frets = "x43x44", fingers = "-MI-RL", note = "diagram image" },
+  { by = "guitar-chords-org-uk", url = "https://www.guitar-chords.org.uk/eb-major-add9-chord.html", chord = "Eb add9 chord diagram", frets = "x65x66", fingers = "-MI-RL", note = "diagram image" },
+  { by = "guitar-chords-org-uk", url = "https://www.guitar-chords.org.uk/f-major-add9-chord.html", chord = "F add9 chord diagram", frets = "x87x88", fingers = "-MI-RL", note = "diagram image" },
+  { by = "guitar-chords-org-uk", url = "https://www.guitar-chords.org.uk/gb-major-add9-chord.html", chord = "Gb add9 chord diagram", frets = "x98x99", fingers = "-MI-RL", note = "diagram image" },
+  { by = "8notes", url = "https://www.8notes.com/guitar_chord_chart/Abadd9.asp", chord = "Abadd9 (svg_abadd9__3.svg)", frets = "x(11)(10)x(11)(11)", fingers = "-MI-RL" },
+  { by = "8notes", url = "https://www.8notes.com/guitar_chord_chart/Cxadd9.asp", chord = "C#add9 (svg_cxadd9__1.svg)", frets = "x43x44", fingers = "-MI-RL" },
+  { by = "8notes", url = "https://www.8notes.com/guitar_chord_chart/Dbadd9.asp", chord = "Dbadd9 (svg_dbadd9__1.svg)", frets = "x43x44", fingers = "-MI-RL" },
+  { by = "8notes", url = "https://www.8notes.com/guitar_chord_chart/Eadd9.asp", chord = "Eadd9 (svg_eadd9__2.svg)", frets = "x76x77", fingers = "-MI-RL" },
+  { by = "8notes", url = "https://www.8notes.com/guitar_chord_chart/Fxadd9.asp", chord = "F#add9 (svg_fxadd9__3.svg)", frets = "x98x99", fingers = "-MI-RL" },
+  { by = "8notes", url = "https://www.8notes.com/guitar_chord_chart/Gbadd9.asp", chord = "Gbadd9 (svg_gbadd9__3.svg)", frets = "x98x99", fingers = "-MI-RL" },
+  { by = "8notes", url = "https://www.8notes.com/guitar_chord_chart/Gxadd9.asp", chord = "G#add9 (svg_gxadd9__3.svg)", frets = "x(11)(10)x(11)(11)", fingers = "-MI-RL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Abadd9", frets = "x(11)(10)x(11)(11)", fingers = "-MI-RL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Aadd9", frets = "x(12)(11)x(12)(12)", fingers = "-MI-RL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Badd9", frets = "x21x22", fingers = "-MI-RL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "C#add9", frets = "x43x44", fingers = "-MI-RL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Eadd9", frets = "x76x77", fingers = "-MI-RL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "F#add9", frets = "x98x99", fingers = "-MI-RL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d/add9/", chord = "Dadd9", frets = "x54x55", fingers = "-MI-LR", via = "image" },
+]
+
+"x30010" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/add9/textual", chord = "Cadd9", frets = "x30010", fingers = "-R--I-" },
+  { by = "guitar-com", url = "https://guitar.com/lessons/tuition-chord-clinic-part-2-sus-chords/", chord = "Cadd9 (Fig. 7)", frets = "x30010", fingers = "-R--I-", via = "image" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/c-add-2", chord = "Cadd 2", frets = "x30010", fingers = "-R--I-", via = "reader", note = "shown as Cadd2 (same notes as Cadd9)" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/48-add9", chord = "Cadd9", frets = "x30010", fingers = "-R--I-", note = "JamPlay caption: This is one possible way to play Cadd9.  The ninth is located on the open fourth string." },
+]
+
+"3x020x" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g/add9/textual", chord = "Gadd9", frets = "3x020x", fingers = "M--I--" },
+  { by = "fender", url = "https://www.fender.com/play/lessons/gadd9-open-position-v1", chord = "Gadd9 Open Position (v1)", frets = "3x020x", fingers = "R--M--", via = "reader", note = "instructor Barrett Wilson" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/7-g/48-add9", chord = "Gadd9", frets = "3x020x", fingers = "M--I--", note = "JamPlay caption: This is a Gadd9 chord played in open position." },
+]
+
+"022102" = [
+  { by = "guitar-com", url = "https://guitar.com/lessons/tuition-chord-clinic-part-2-sus-chords/", chord = "Eadd9 (Fig. 8, 2nd)", frets = "022102", fingers = "-MRI-L", via = "image", note = "the diagram's x/o header marks are misprinted; the note row E B E G# B F# and finger dots give 022102" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Eadd9", frets = "022102", fingers = "-MRI-L" },
+]
+
+"8x575x" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/4-d/63-badd9", chord = "Dbadd9", frets = "9x686x", fingers = "L-IRI-" },
+]
+
+"x30030" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/add9/textual", chord = "Cadd9", frets = "x30030", fingers = "-I--M-" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/48-add9", chord = "Cadd9", frets = "x30030", fingers = "-I--M-", note = "JamPlay caption: The ninth (D) is doubled in this Cadd9 voicing." },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Cadd9", frets = "x30030", fingers = "-I--R-" },
+]
+
+"x3203x" = [
+  { by = "musicradar", url = "https://www.musicradar.com/how-to/guitar-lesson-learn-add-guitar-chords", chord = "Cadd9", frets = "x3203x", fingers = "-MI-R-", via = "image" },
+]
+
+"x3x030" = [
+  { by = "fender", url = "https://www.fender.com/play/lessons/cadd9-open-position-v2", chord = "Cadd9 Open Position (v2)", frets = "x3x030", fingers = "-M--R-", via = "reader", note = "instructor Barrett Wilson" },
+]
+
+"x(15)(14)(12)(15)x" = [
+  { by = "guitar-chords-org-uk", url = "https://www.guitar-chords.org.uk/ab-major-add9-chord.html", chord = "Ab add9 chord diagram", frets = "x(11)(10)8(11)x", fingers = "-RMIL-", note = "diagram image" },
+  { by = "guitar-chords-org-uk", url = "https://www.guitar-chords.org.uk/b-major-add9-chord.html", chord = "B add9 chord diagram", frets = "x(14)(13)(11)(14)x", fingers = "-RMIL-", note = "diagram image" },
+  { by = "guitar-chords-org-uk", url = "https://www.guitar-chords.org.uk/bb-major-add9-chord.html", chord = "Bb add9 chord diagram", frets = "x(13)(12)(10)(13)x", note = "diagram shows degree labels (R 3 5 9) on the dots instead of finger numbers" },
+  { by = "guitar-chords-org-uk", url = "https://www.guitar-chords.org.uk/d-major-add9-chord.html", chord = "D add9 chord diagram", frets = "x5425x", fingers = "-RMIL-", note = "diagram image" },
+  { by = "guitar-chords-org-uk", url = "https://www.guitar-chords.org.uk/db-major-add9-chord.html", chord = "Db add9 chord diagram", frets = "x4314x", fingers = "-RMIL-", note = "diagram image" },
+  { by = "guitar-chords-org-uk", url = "https://www.guitar-chords.org.uk/eb-major-add9-chord.html", chord = "Eb add9 chord diagram", frets = "x6536x", fingers = "-RMIL-", note = "diagram image" },
+  { by = "guitar-chords-org-uk", url = "https://www.guitar-chords.org.uk/f-major-add9-chord.html", chord = "F add9 chord diagram", frets = "x8758x", fingers = "-RMIL-", note = "diagram image" },
+  { by = "guitar-chords-org-uk", url = "https://www.guitar-chords.org.uk/gb-major-add9-chord.html", chord = "Gb add9 chord diagram", frets = "x9869x", fingers = "-RMIL-", note = "diagram image" },
+]
+
+"x3253x" = [
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/a-flat-add9.html", chord = "Abadd9 (Root on 5th string)", frets = "x(11)(10)(13)(11)x", fingers = "-MILR-" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/aadd9.html", chord = "Aadd9 (Root on 5th string)", frets = "x(12)(11)(14)(12)x", fingers = "-MILR-" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/b-flat-add9.html", chord = "Bbadd9 (Root on 5th string)", frets = "x(13)(12)(15)(13)x", fingers = "-MILR-" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/badd9.html", chord = "Badd9 (Root on 5th string)", frets = "x2142x", fingers = "-MILR-" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/cadd9.html", chord = "Cadd9 (Root on 5th string)", frets = "x3253x", fingers = "-MILR-" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/d-flat-add9.html", chord = "Dbadd9 (Root on 5th string)", frets = "x4364x", fingers = "-MILR-" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/dadd9.html", chord = "Dadd9 (Root on 5th string)", frets = "x5475x", fingers = "-MILR-" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/e-flat-add9.html", chord = "Ebadd9 (Root on 5th string)", frets = "x6586x", fingers = "-MILR-" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/eadd9.html", chord = "Eadd9 (Root on 5th string)", frets = "x7697x", fingers = "-MILR-" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/fadd9.html", chord = "Fadd9 (Root on 5th string)", frets = "x87(10)8x", fingers = "-MILR-" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/g-flat-add9.html", chord = "Gbadd9 (Root on 5th string)", frets = "x98(11)9x", fingers = "-MILR-" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/gadd9.html", chord = "Gadd9 (Root on 5th string)", frets = "x(10)9(12)(10)x", fingers = "-MILR-" },
+]
+
+"x32x3x" = [
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/A-chord/add9", chord = "Aadd9 Variation 1", frets = "x(12)(11)x(12)x", fingers = "-MI-R-", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/Ab-chord/add9", chord = "Abadd9 Variation 1", frets = "x(11)(10)x(11)x", fingers = "-MI-R-", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/B-chord/add9", chord = "Badd9 Variation 1", frets = "x21x2x", fingers = "-MI-R-", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/C-chord/add9", chord = "Cadd9 Variation 1", frets = "x32x3x", fingers = "-MI-R-", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/D-chord/add9", chord = "Dadd9 Variation 1", frets = "x54x5x", fingers = "-MI-R-", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/Db-chord/add9", chord = "Dbadd9 Variation 1", frets = "x43x4x", fingers = "-MI-R-", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/E-chord/add9", chord = "Eadd9 Variation 1", frets = "x76x7x", fingers = "-MI-R-", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/Eb-chord/add9", chord = "Ebadd9 Variation 1", frets = "x65x6x", fingers = "-MI-R-", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/F-chord/add9", chord = "Fadd9 Variation 1", frets = "x87x8x", fingers = "-MI-R-", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/G-chord/add9", chord = "Gadd9 Variation 1", frets = "x(10)9x(10)x", fingers = "-MI-R-", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/Gb-chord/add9", chord = "Gbadd9 Variation 1", frets = "x98x9x", fingers = "-MI-R-", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+]

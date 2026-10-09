@@ -1,0 +1,31 @@
+# Minor 11th chords (Cm11). The format is described in data/README.md; the sources are in data/evidence/minor-11th.toml.
+symbol   = "m11"
+name     = "minor 11th"
+formula  = "1 ♭3 5 ♭7 9 11"
+optional = ["5", "9"]
+about    = "m7 + 11; 5 and 9 often left out"
+
+voicings = [
+  # movable shapes are written with the root on C; the book shows the open voicings of a root in this order
+  { chord = "Bm11",  strings = "x 2I 0 2M 2R 0" },
+  { chord = "F♯m11", strings = "2M x 2R 2L 0 0" },
+  { chord = "Gm11",  strings = "3R x 0 3L 1I 1I", skip = "two sources; 3x331x (six sources) already covers the first position" },
+  { chord = "Cm11",  strings = "8M x 8R 8L 6I x" },
+  { chord = "Cm11",  strings = "x 3M x 3R 4L 1I" },
+  { chord = "Cm11",  strings = "x 3I 3I 3I 4M 3I" },
+  { chord = "Cm11",  strings = "x 3M 1I 3R 3L 1I" },
+  { chord = "Bm11",  strings = "x 2I 0 2M 3R 0" },
+  { chord = "F♯m11", strings = "2I 4R 4L 2I 0 0" },
+  { chord = "Cm11",  strings = "x x 10I 10I 11R 11R" },
+  { chord = "Dm11",  strings = "x x 0 0 1I 1I" },
+  { chord = "Am11",  strings = "x 0 0 0 1I 3R" },
+  { chord = "Bm11",  strings = "x 2I 0 2M 0 0" },
+  { chord = "Cm11",  strings = "x 3M 0 3R 4L 1I" },
+  { chord = "Em11",  strings = "0 0 0 0 3R 3R" },
+  { chord = "Em11",  strings = "0 2I 0 2M 0 3L" },
+  { chord = "F♯m11", strings = "2M 0 2R 1I 0 0" },
+  { chord = "Cm11",  strings = "x 3M 1I 3R 1I 1I" },
+  { chord = "Cm11",  strings = "x 3I 3I 3I 4M 6L" },
+  { chord = "Cm11",  strings = "8I 10M 8I 10R 8I 11L" },
+  { chord = "Cm11",  strings = "8I 8I 8I 8I 8I 10L" },
+]

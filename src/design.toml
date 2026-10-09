@@ -1,0 +1,55 @@
+# Design tokens shared by the book (build_en.py) and the website (build_site.py), read by src/book.py. Paths are relative to the project root.
+# Characters the text font lacks (𝄪 𝄫) come from the music font.
+
+[fonts]
+regular = "fonts/JetBrainsMono-Regular.ttf"
+bold = "fonts/JetBrainsMono-Bold.ttf"
+music = "fonts/NotoMusic-Regular.ttf"           # 𝄪 𝄫
+
+[music]             # the music font's 𝄫 and 𝄪, scaled so that 𝄫 is as tall as ♭ and 𝄪 as tall as a small x
+"𝄫" = 1.1
+"𝄪" = 1.8
+
+[colors]            # the book, and the site's light theme
+ink = "#1C1F22"
+muted = "#5A5F66"
+line = "#A8ACB1"
+grid = "#82878D"
+barre = "#C7DFEA"          # a pale tint of the root: the index finger lying across
+card = "#F2F3F5"
+link = "#044F67"           # the root's colour
+paper = "#FFFFFF"
+bg = "#F3F4F5"            # neutral light grey
+cover_grid = "#ECEDEF"     # the grid behind the cover
+logo_grid = "#CBCED2"      # the grid of the logo
+
+[colors.degrees]    # fill, text, one per step of the scale (Japanese traditional colours). In black and white the root is the darkest,
+                    # the fifth the lightest, and the five others share one grey (L* 60): their numbers tell them apart.
+d1 = ["#044F67", "#FFFFFF"]   # hanada, silk blue: the root (square)
+d2 = ["#AD83B0", "#1C1F22"]   # shion, aster: 2 / 9
+d3 = ["#FE544F", "#1C1F22"]   # shu, cinnabar, turned a little towards red: the third
+d4 = ["#5A99B3", "#1C1F22"]   # hanada, lighter: 4 / 11
+d5 = ["#F3C13A", "#1C1F22"]   # kihada, cork-tree yellow: the fifth
+d6 = ["#CF796B", "#1C1F22"]   # kakishibu, persimmon: 6 / 13
+d7 = ["#739B6A", "#1C1F22"]   # wakatake, young bamboo: the seventh
+
+[dark]              # the site's dark theme
+ink = "#E4E6E9"
+muted = "#A0A5AC"
+line = "#50555B"
+grid = "#70757C"
+barre = "#25414E"
+link = "#6AA9C4"
+paper = "#1E2124"
+bg = "#15171A"
+logo_grid = "#3B3F44"
+cover_grid = "#272A2E"
+
+[dark.degrees]      # the same, lighter; the root stays deeper than the five (white digit), the fifth the lightest
+d1 = ["#2F7694", "#FFFFFF"]
+d2 = ["#C398C6", "#10181C"]
+d3 = ["#F8656C", "#10181C"]   # a little darker and redder than the others: the 3rd stays apart from the 13th
+d4 = ["#6FAEC9", "#10181C"]
+d5 = ["#F3C13A", "#10181C"]
+d6 = ["#E78E80", "#10181C"]
+d7 = ["#88B17E", "#10181C"]

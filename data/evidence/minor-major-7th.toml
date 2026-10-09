@@ -1,0 +1,113 @@
+# Where each voicing of data/chords/minor-major-7th.toml is published, keyed by its frets from the 6th string to the 1st.
+# The format is described in data/README.md.
+
+"x02110" = [
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/aminmaj7.html", chord = "Am(Maj7) (Open position RECOMMENDED)", frets = "x02110", fingers = "--RIM-" },
+  { by = "guitar-com", url = "https://guitar.com/lessons/beginner/chord-clinic-a-minor-variations/", chord = "Figure 10, A minor major 7 (A-Minor-Maj7@1400x1050.jpg)", frets = "x02110", fingers = "--RIM-" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/a-min-maj-7", chord = "Amin/Maj 7 (Open)", frets = "x02110", fingers = "--RIM-", via = "browser" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/99-minormajor-7", chord = "A chart", frets = "x02110", fingers = "--RIM-", note = "chart caption: 'This is an \"open\" position voicing for Am(maj7).'" },
+  { by = "mike-tyka", url = "https://miketyka.com/guitar/chordshp.htm", chord = "Amin(maj7) (basic open chords)", frets = "x02110" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Ammaj7", frets = "x02110", fingers = "--RIM-" },
+]
+
+"xx0221" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d/m-maj7/textual/", chord = "Dm(maj7) pos1", frets = "xx0221", fingers = "---MRI" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/dminmaj7.html", chord = "Dm(Maj7) (Open position RECOMMENDED)", frets = "xx0221", fingers = "---MRI" },
+  { by = "jazzguitar-be", url = "https://www.jazzguitar.be/blog/minor-major-seventh-chords/", chord = "DmMaj7, shape 13 of 16", frets = "xx0221", via = "image", note = "tab, no fingers; the other 12 shapes have the 3rd, 5th or 7th in the bass" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/4-d/99-minormajor-7", chord = "D chart", frets = "xx0221", fingers = "---MRI", note = "chart caption: 'The D minor major seventh chord sure is a mouthful to say, but it sounds beautiful on the guitar. If you want to learn how to play the D minor major seventh chord, view this image.'" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Dmmaj7", frets = "xx0221", fingers = "---MRI" },
+]
+
+"021000" = [
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/eminmaj7.html", chord = "Em(Maj7) (Open position RECOMMENDED)", frets = "021000", fingers = "-MI---" },
+  { by = "mike-tyka", url = "https://miketyka.com/guitar/chordshp.htm", chord = "Emin(maj7) (basic open chords)", frets = "021000" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Emmaj7", frets = "021000", fingers = "-MI---" },
+]
+
+"x3544x" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b-flat/m-maj7/textual/", chord = "Bbm(maj7) pos1", frets = "x1322x", fingers = "-ILMR-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/m-maj7/textual/", chord = "Cm(maj7) pos2", frets = "x3544x", fingers = "-IRMM-" },
+  { by = "guitar-command", url = "https://www.guitarcommand.com/minor-major-seventh-chord-guitar-shape/", chord = "Min(Maj7) movable shape (Minor-Major-Seventh-Chord-Guitar.gif); text: played at the 3rd fret it is C minor major seventh", frets = "x3544x", fingers = "-ILMR-", note = "diagram without fret number; key from the text" },
+  { by = "guitar-command", url = "https://www.guitarcommand.com/minor-major-seventh-chord-guitar-shape/", chord = "Min(Maj7), alternative fingering with a middle-finger mini barre (Minor-Major-Seventh-Chord-Shape.gif)", frets = "x3544x", fingers = "-ILMM-", note = "diagram without fret number" },
+  { by = "jazzguitar-be", url = "https://www.jazzguitar.be/blog/minor-major-seventh-chords/", chord = "DmMaj7, shape 9 of 16", frets = "x5766x", via = "image", note = "tab, no fingers; the other 12 shapes have the 3rd, 5th or 7th in the bass" },
+  { by = "jazz-guitar-licks", url = "https://www.jazz-guitar-licks.com/pages/chords/minor-major-seventh-guitar-chord-diagrams.html", chord = "minor Major 7 drop 2, strings 5-2, root voicing (minor-major-7-drop-2-chords.png)", frets = "x3544x", note = "chart has no fret numbers and no fingers (movable); frets given here with the root at C" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/2-b/80-bminormajor-7", chord = "Bb chart", frets = "x1322x", fingers = "-ILMR-", note = "chart caption: 'This is a Bbm(maj7) chord.'" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/99-minormajor-7", chord = "C chart", frets = "x3544x", fingers = "-IRMM-", note = "chart caption: 'This is a Cm(maj7) voicing.'" },
+  { by = "mike-tyka", url = "https://miketyka.com/guitar/chordshp.htm", chord = "Cmin(maj7) (5th string root shapes)", frets = "x3544x" },
+]
+
+"8x988x" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b-flat/m-maj7/textual/", chord = "Bbm(maj7) pos3", frets = "6x766x", fingers = "I-LMR-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/m-maj7/textual/", chord = "Cm(maj7) pos1", frets = "8x988x", fingers = "I-LMR-" },
+  { by = "jazzguitar-be", url = "https://www.jazzguitar.be/blog/minor-major-seventh-chords/", chord = "DmMaj7, shape 1 of 16", frets = "(10)x(11)(10)(10)x", via = "image", note = "tab, no fingers; the other 12 shapes have the 3rd, 5th or 7th in the bass" },
+  { by = "jazz-guitar-licks", url = "https://www.jazz-guitar-licks.com/pages/chords/minor-major-seventh-guitar-chord-diagrams.html", chord = "Minor Major 7 drop 3, root on 6th string, root voicing (minor-major-7-drop-3-chords-1.png)", frets = "8x988x", note = "chart has no fret numbers and no fingers (movable); frets given here with the root at C" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/2-b/80-bminormajor-7", chord = "Bb chart", frets = "6x766x", fingers = "I-LMR-" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/99-minormajor-7", chord = "C chart", frets = "8x988x", fingers = "I-LMR-", note = "chart caption: 'C minor major 7 with a 6th string root note on the 8th fret.'" },
+  { by = "mike-tyka", url = "https://miketyka.com/guitar/chordshp.htm", chord = "Gmin(maj7) (6th string root shapes)", frets = "3x433x" },
+]
+
+"xx(10)(12)(12)(11)" = [
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/a-flat-minmaj7.html", chord = "Abm(Maj7) (Root on 4th string RECOMMENDED)", frets = "xx6887", fingers = "--IRLM" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/aminmaj7.html", chord = "Am(Maj7) (Root on 4th string)", frets = "xx7998", fingers = "--IRLM" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/b-flat-minmaj7.html", chord = "Bbm(Maj7) (Root on 4th string RECOMMENDED)", frets = "xx8(10)(10)9", fingers = "--IRLM" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/bminmaj7.html", chord = "Bm(Maj7) (Root on 4th string)", frets = "xx9(11)(11)(10)", fingers = "--IRLM" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/cminmaj7.html", chord = "Cm(Maj7) (Root on 4th string)", frets = "xx(10)(12)(12)(11)", fingers = "--IRLM" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/d-flat-minmaj7.html", chord = "Dbm(Maj7) (Root on 4th string RECOMMENDED)", frets = "xx(11)(13)(13)(12)", fingers = "--IRLM" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/dminmaj7.html", chord = "Dm(Maj7) (Root on 4th string)", frets = "xx(12)(14)(14)(13)", fingers = "--IRLM" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/e-flat-minmaj7.html", chord = "Ebm(Maj7) (Root on 4th string RECOMMENDED)", frets = "xx1332", fingers = "--IRLM" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/eminmaj7.html", chord = "Em(Maj7) (Root on 4th string)", frets = "xx2443", fingers = "--IRLM" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/fminmaj7.html", chord = "Fm(Maj7) (Root on 4th string RECOMMENDED)", frets = "xx3554", fingers = "--IRLM" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/g-flat-minmaj7.html", chord = "Gbm(Maj7) (Root on 4th string RECOMMENDED)", frets = "xx4665", fingers = "--IRLM" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/gminmaj7.html", chord = "Gm(Maj7) (Root on 4th string RECOMMENDED)", frets = "xx5776", fingers = "--IRLM" },
+  { by = "jazz-guitar-licks", url = "https://www.jazz-guitar-licks.com/pages/chords/minor-major-seventh-guitar-chord-diagrams.html", chord = "minor Major 7 drop 2, strings 4-1, root voicing (minor-major-7-drop-2-chords.png)", frets = "xx(10)(12)(12)(11)", note = "chart has no fret numbers and no fingers (movable); frets given here with the root at C" },
+  { by = "mike-tyka", url = "https://miketyka.com/guitar/chordshp.htm", chord = "Fmin(maj7) (4th string root shapes)", frets = "xx3554" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Cmmaj7", frets = "xx(10)(12)(12)(11)", fingers = "--IRLM" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Ebmmaj7", frets = "xx1332", fingers = "--IRLM" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Fmmaj7", frets = "xx3554", fingers = "--IRLM" },
+]
+
+"x3x443" = [
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/a-flat-minmaj7.html", chord = "Abm(Maj7) (Root on 5th string)", frets = "x(11)x(12)(12)(11)", fingers = "-I-RLM" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/aminmaj7.html", chord = "Am(Maj7) (Root on 5th string)", frets = "x(12)x(13)(13)(12)", fingers = "-I-RLM" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/b-flat-minmaj7.html", chord = "Bbm(Maj7) (Root on 5th string)", frets = "x1x221", fingers = "-I-RLM" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/bminmaj7.html", chord = "Bm(Maj7) (Root on 5th string)", frets = "x2x332", fingers = "-I-RLM" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/cminmaj7.html", chord = "Cm(Maj7) (Root on 5th string)", frets = "x3x443", fingers = "-I-RLM" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/d-flat-minmaj7.html", chord = "Dbm(Maj7) (Root on 5th string)", frets = "x4x554", fingers = "-I-RLM" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/dminmaj7.html", chord = "Dm(Maj7) (Root on 5th string)", frets = "x5x665", fingers = "-I-RLM" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/e-flat-minmaj7.html", chord = "Ebm(Maj7) (Root on 5th string)", frets = "x6x776", fingers = "-I-RLM" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/eminmaj7.html", chord = "Em(Maj7) (Root on 5th string)", frets = "x7x887", fingers = "-I-RLM" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/fminmaj7.html", chord = "Fm(Maj7) (Root on 5th string)", frets = "x8x998", fingers = "-I-RLM" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/g-flat-minmaj7.html", chord = "Gbm(Maj7) (Root on 5th string)", frets = "x9x(10)(10)9", fingers = "-I-RLM" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/gminmaj7.html", chord = "Gm(Maj7) (Root on 5th string)", frets = "x(10)x(11)(11)(10)", fingers = "-I-RLM" },
+  { by = "jazzguitar-be", url = "https://www.jazzguitar.be/blog/minor-major-seventh-chords/", chord = "DmMaj7, shape 5 of 16", frets = "x5x665", via = "image", note = "tab, no fingers; the other 12 shapes have the 3rd, 5th or 7th in the bass" },
+  { by = "jazz-guitar-licks", url = "https://www.jazz-guitar-licks.com/pages/chords/minor-major-seventh-guitar-chord-diagrams.html", chord = "Minor Major 7 drop 3, root on 5th string, root voicing (minor-major-7-drop-3-chords-1.png)", frets = "x3x443", note = "chart has no fret numbers and no fingers (movable); frets given here with the root at C" },
+]
+
+"xx3110" = [
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/fminmaj7.html", chord = "Fm(Maj7) (Open position)", frets = "xx3110", fingers = "--LIM-" },
+]
+
+"x20332" = [
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/bminmaj7.html", chord = "Bm(Maj7) (Open position RECOMMENDED)", frets = "x20332", fingers = "-I-RLM" },
+]
+
+"x31003" = [
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/cminmaj7.html", chord = "Cm(Maj7) (Open position RECOMMENDED)", frets = "x31003", fingers = "-RI--L" },
+]
+
+"8(10)9888" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b-flat/m-maj7/textual/", chord = "Bbm(maj7) pos4", frets = "687666", fingers = "IRMIII" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/99-minormajor-7", chord = "A chart", frets = "576555", fingers = "IRMIII", note = "chart caption: 'This is a fifth position barre chord voicing for Am(maj7).'" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/2-b/80-bminormajor-7", chord = "Bb chart", frets = "687666", fingers = "IRMIII" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Dmmaj7", frets = "(10)(12)(11)(10)(10)(10)", fingers = "IRMIII" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Ebmmaj7", frets = "(11)(13)(12)(11)(11)(11)", fingers = "IRMIII" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Fmmaj7", frets = "132111", fingers = "IRMIII" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "F#mmaj7", frets = "243222", fingers = "IRMIII" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Gmmaj7", frets = "354333", fingers = "IRMIII" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Abmmaj7", frets = "465444", fingers = "IRMIII" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Ammaj7", frets = "576555", fingers = "IRMIII" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Bbmmaj7", frets = "687666", fingers = "IRMIII" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Bmmaj7", frets = "798777", fingers = "IRMIII" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Cmmaj7", frets = "8(10)9888", fingers = "IRMIII" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "C#mmaj7", frets = "9(11)(10)999", fingers = "IRMIII" },
+]

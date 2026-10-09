@@ -1,0 +1,445 @@
+# Where each voicing of data/chords/minor.toml is published, keyed by its frets from the 6th string to the 1st.
+# The format is described in data/README.md.
+
+"x3101x" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/92-minor", chord = "Cm", frets = "x3101x", fingers = "-LI-M-", note = "caption: This is the \"open\" Cm chord." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/m/textual/", chord = "Cm", frets = "x3101x", fingers = "-LI-M-", note = "Position 1" },
+  { by = "mike-tyka", url = "https://miketyka.com/guitar/chordshp.htm", chord = "Cmin (exotic open string chords)", frets = "x3101x", note = "frets only, no fingers" },
+]
+
+"xx0231" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/dmin", chord = "Dm", frets = "xx0231", fingers = "---MLI", via = "browser", note = "diagram label 'Open'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/dmin", chord = "Dm", frets = "xx0231", fingers = "---MRI", via = "browser", note = "diagram label 'Open'" },
+  { by = "fender", url = "https://www.fender.com/play/lessons/dm-open-position-v1", chord = "Dm Open Position (v1)", frets = "xx0231", fingers = "---MRI", via = "reader", note = "instructor: Nikki Stevens" },
+  { by = "musicradar", url = "https://www.musicradar.com/tutorials/guitar-chords/get-strumming-the-22-essential-beginner-blues-and-folk-guitar-chords-every-guitarist-should-learn-first", chord = "Dm", frets = "xx0231", fingers = "---MRI", note = "diagram" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/4-d/92-minor", chord = "Dm", frets = "xx0231", fingers = "---MRI", note = "caption: The D minor chord is often used in music of all styles, so you best memorize this D minor chord chart and tabl" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/4-d/92-minor", chord = "Dm", frets = "xx0231", fingers = "---MLI", note = "caption: This is an alternate fingering for the \"open\" Dm chord." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d/m/textual/", chord = "Dm", frets = "xx0231", fingers = "---MRI", note = "Position 4" },
+  { by = "mike-tyka", url = "https://miketyka.com/guitar/chordshp.htm", chord = "Dmin", frets = "xx0231", note = "frets only, no fingers" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Dm", frets = "xx0231", fingers = "---MRI" },
+]
+
+"022000" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/emin", chord = "Em", frets = "022000", fingers = "-MR---", via = "browser", note = "diagram label 'Open'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/emin", chord = "Em", frets = "022000", fingers = "-IM---", via = "browser", note = "diagram label 'Open'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/emin", chord = "Em", frets = "022000", fingers = "-RL---", via = "browser", note = "diagram label 'Open'" },
+  { by = "fender", url = "https://www.fender.com/play/lessons/em-open-position-v2", chord = "Em Open Position (v2)", frets = "022000", fingers = "-MR---", via = "reader", note = "instructor: Scott Goldbaum" },
+  { by = "fender", url = "https://www.fender.com/articles/chords/learn-how-to-play-e-minor-chord", chord = "Em (open position)", frets = "022000", fingers = "-MR---", via = "reader" },
+  { by = "musicradar", url = "https://www.musicradar.com/tutorials/guitar-chords/get-strumming-the-22-essential-beginner-blues-and-folk-guitar-chords-every-guitarist-should-learn-first", chord = "Em", frets = "022000", fingers = "-MR---", note = "diagram" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/92-minor", chord = "Em", frets = "022000", fingers = "-MR---", note = "caption: The E minor chord can be played by flattening the third scale degree of E major. Instead of playing the first " },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/92-minor", chord = "Em", frets = "022000", fingers = "-RL---", note = "caption: This is an alternate way to finger the E Minor chord." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/92-minor", chord = "Em", frets = "022000", fingers = "-IM---", note = "caption: An alternate fingering is applied to this Em chord." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e/m/textual/", chord = "Em", frets = "022000", fingers = "-MR---", note = "Position 1" },
+  { by = "mike-tyka", url = "https://miketyka.com/guitar/chordshp.htm", chord = "Emin", frets = "022000", note = "frets only, no fingers" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Em", frets = "022000", fingers = "-MR---" },
+]
+
+"x02210" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/amin", chord = "Am", frets = "x02210", fingers = "--MRI-", via = "browser", note = "diagram label 'Open'" },
+  { by = "fender", url = "https://www.fender.com/play/lessons/a-minor-open-position-v1", chord = "Am Open Position (v1)", frets = "x02210", fingers = "--MRI-", via = "reader", note = "instructor: Matt Lake" },
+  { by = "fender", url = "https://www.fender.com/articles/chords/learn-how-to-play-a-minor-guitar-chord", chord = "Am", frets = "x02210", fingers = "--MRI-", via = "reader" },
+  { by = "musicradar", url = "https://www.musicradar.com/tutorials/guitar-chords/get-strumming-the-22-essential-beginner-blues-and-folk-guitar-chords-every-guitarist-should-learn-first", chord = "Am", frets = "x02210", fingers = "--MRI-", note = "diagram" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/92-minor", chord = "Am", frets = "x02210", fingers = "--MRI-", note = "caption: The \"A Minor\" chord is an easy transition from the \"A Major\" chord. Simply move your finger on the \"B\" string " },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/92-minor", chord = "Am", frets = "x02210", fingers = "--RLM-", note = "caption: This is an alternate way to finger the A minor chord.  Using this fingering is good practice for the A minor s" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a/m/textual/", chord = "Am", frets = "x02210", fingers = "--MRI-", note = "Position 1" },
+  { by = "mike-tyka", url = "https://miketyka.com/guitar/chordshp.htm", chord = "Amin", frets = "x02210", note = "frets only, no fingers" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Am", frets = "x02210", fingers = "--MRI-" },
+]
+
+"8(10)(10)888" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/a-flat-m", chord = "Abm", frets = "466444", fingers = "IRLIII", via = "browser", note = "diagram label 'Fret 3'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/a-sharp-m", chord = "A#m", frets = "688666", fingers = "IRLIII", via = "browser", note = "diagram label 'Fret 5'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/amin", chord = "Am", frets = "577555", fingers = "IRLIII", via = "browser", note = "diagram label 'Fret 4'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/b-flat-m", chord = "Bbm", frets = "688666", fingers = "IRLIII", via = "browser", note = "diagram label 'Fret 5'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/b-m", chord = "Bm", frets = "799777", fingers = "IRLIII", via = "browser", note = "diagram label 'Fret 6'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/c-m", chord = "Cm", frets = "8(10)(10)888", fingers = "IRLIII", via = "browser", note = "diagram label 'Fret 7'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/c-sharp-m", chord = "C#m", frets = "9(11)(11)999", fingers = "IRLIII", via = "browser", note = "diagram label 'Fret 8'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/d-flat-m", chord = "Dbm", frets = "9(11)(11)999", fingers = "IRLIII", via = "browser", note = "diagram label 'Fret 8'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/d-sharp-m", chord = "D#m", frets = "(11)(13)(13)(11)(11)(11)", fingers = "IRLIII", via = "browser", note = "diagram label 'Fret 10'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/dmin", chord = "Dm", frets = "(10)(12)(12)(10)(10)(10)", fingers = "IRLIII", via = "browser", note = "diagram label 'Fret 9'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/e-flat-m", chord = "Ebm", frets = "(11)(13)(13)(11)(11)(11)", fingers = "IRLIII", via = "browser", note = "diagram label 'Fret 10'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/emin", chord = "Em", frets = "(12)(14)(14)(12)(12)(12)", fingers = "IRLIII", via = "browser", note = "diagram label 'Fret 11'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/f-m", chord = "Fm", frets = "133111", fingers = "IRLIII", via = "browser", note = "diagram label 'Fret 1'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/f-sharp-m", chord = "F#m", frets = "244222", fingers = "IRLIII", via = "browser", note = "diagram label 'Fret 1'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/g-flat-m", chord = "Gbm", frets = "244222", fingers = "IRLIII", via = "browser", note = "diagram label 'Fret 1'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/g-m", chord = "Gm", frets = "355333", fingers = "IRLIII", via = "browser", note = "diagram label 'Fret 2'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/g-sharp-m", chord = "G#m", frets = "466444", fingers = "IRLIII", via = "browser", note = "diagram label 'Fret 3'" },
+  { by = "fender", url = "https://www.fender.com/play/lessons/am-5th-position-v1", chord = "Am 5th Position (v1)", frets = "577555", fingers = "IRLIII", via = "reader", note = "page text says 'E (2nd) string' for the first index-finger note; strum 6 strings; instructor: Blake Straus" },
+  { by = "fender", url = "https://www.fender.com/play/lessons/em-12th-position-v1", chord = "Em 12th Position (v1)", frets = "(12)(14)(14)(12)(12)(12)", fingers = "IRLIII", via = "reader", note = "instructor: Johnny Ashby" },
+  { by = "fender", url = "https://www.fender.com/articles/chords/learn-how-to-play-e-minor-chord", chord = "Em barre chord, 12th position", frets = "(12)(14)(14)(12)(12)(12)", fingers = "IRLIII", via = "reader" },
+  { by = "fender", url = "https://www.fender.com/articles/chords/learn-to-play-the-b-minor-chord-on-guitar", chord = "Bm (barre version number two)", frets = "799777", fingers = "IRLIII", via = "reader" },
+  { by = "guitar-world", url = "https://www.guitarworld.com/lessons/how-to-play-barre-chords", chord = "Fm chord (Em shape)", frets = "133111", fingers = "IRLIII", note = "diagram" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/73-bminor", chord = "Abm", frets = "466444", fingers = "IRLIII", note = "caption: This Abm chord utilizes the visual shape of the \"open\" Em chord." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/92-minor", chord = "Am", frets = "577555", fingers = "IRLIII" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/2-b/73-bminor", chord = "Bbm", frets = "688666", fingers = "IRLIII", note = "caption: This fingering for Bbm is based on the visual shape of the \"open\" Em chord." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/2-b/92-minor", chord = "Bm", frets = "799777", fingers = "IRLIII", note = "caption: The \"B\" minor barre chord is yet another chord where you are required to barre all six strings of the guitar w" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/38-minor", chord = "C#m", frets = "9(11)(11)999", fingers = "IRLIII", note = "caption: The C# minor chord features a barre across all six strings at the 9th fret." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/92-minor", chord = "Cm", frets = "8(10)(10)888", fingers = "IRLIII", note = "caption: This is a Cm barre chord. The shape of this chord is based on the \"open\" Em voicing." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/4-d/73-bminor", chord = "Dbm", frets = "9(11)(11)999", fingers = "IRLIII" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/4-d/92-minor", chord = "Dm", frets = "(10)(12)(12)(10)(10)(10)", fingers = "IRLIII", note = "caption: This is the D Minor Barre Chord played using the E minor shape on the 10th fret." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/6-f/38-minor", chord = "F#m", frets = "244222", fingers = "IRLIII", note = "caption: This is the F# minor barre chord.  This chord can be quite difficult to finger. Hang in there! You will get it" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/6-f/92-minor", chord = "Fm", frets = "133111", fingers = "IRLIII", note = "caption: This voicing of Fm features a full barre or \"grand barre\" across all six strings.  This barre chord shape is b" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/7-g/38-minor", chord = "G#m", frets = "466444", fingers = "IRLIII", note = "caption: This is the barre chord version of the G# minor chord." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/7-g/92-minor", chord = "Gm", frets = "355333", fingers = "IRLIII", note = "caption: This is the G minor chord played in barre form.  It uses the E minor shape barre chord on the 3rd fret." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a-flat/m/textual/", chord = "Abm", frets = "466444", fingers = "IRLIII", note = "Position 1" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a/m/textual/", chord = "Am", frets = "577555", fingers = "IRLIII", note = "Position 2" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b-flat/m/textual/", chord = "Bbm", frets = "688666", fingers = "IRLIII", note = "Position 2" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b/m/textual/", chord = "Bm", frets = "799777", fingers = "IRLIII", note = "Position 2" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c-sharp/m/textual/", chord = "C#m", frets = "9(11)(11)999", fingers = "IRLIII", note = "Position 2" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/m/textual/", chord = "Cm", frets = "8(10)(10)888", fingers = "IRLIII", note = "Position 3" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d/m/textual/", chord = "Dm", frets = "(10)(12)(12)(10)(10)(10)", fingers = "IRLIII", note = "Position 3" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e-flat/m/textual/", chord = "Ebm", frets = "(11)(13)(13)(11)(11)(11)", fingers = "IRLIII", note = "Position 3" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f-sharp/m/textual/", chord = "F#m", frets = "244222", fingers = "IRLIII", note = "Position 1" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f/m/textual/", chord = "Fm", frets = "133111", fingers = "IRLIII", note = "Position 1" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g/m/textual/", chord = "Gm", frets = "355333", fingers = "IRLIII", note = "Position 1" },
+  { by = "mike-tyka", url = "https://miketyka.com/guitar/chordshp.htm", chord = "Gmin (6th-string root)", frets = "355333", note = "frets only, no fingers" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Dm", frets = "(10)(12)(12)(10)(10)(10)", fingers = "IRLIII" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Ebm", frets = "(11)(13)(13)(11)(11)(11)", fingers = "IRLIII" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Fm", frets = "133111", fingers = "IRLIII" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "F#m", frets = "244222", fingers = "IRLIII" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Gm", frets = "355333", fingers = "IRLIII" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Abm", frets = "466444", fingers = "IRLIII" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Am", frets = "577555", fingers = "IRLIII" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Bbm", frets = "688666", fingers = "IRLIII" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Bm", frets = "799777", fingers = "IRLIII" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Cm", frets = "8(10)(10)888", fingers = "IRLIII" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "C#m", frets = "9(11)(11)999", fingers = "IRLIII" },
+]
+
+"x35543" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/a-flat-m", chord = "Abm", frets = "x(11)(13)(13)(12)(11)", fingers = "-IRLMI", via = "browser", note = "diagram label 'Fret 10'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/a-sharp-m", chord = "A#m", frets = "x13321", fingers = "-IRLMI", via = "browser", note = "diagram label 'Fret 1'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/amin", chord = "Am", frets = "x(12)(14)(14)(13)(12)", fingers = "-IRLMI", via = "browser", note = "diagram label 'Fret 11'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/b-flat-m", chord = "Bbm", frets = "x13321", fingers = "-IRLMI", via = "browser", note = "diagram label 'Fret 1'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/b-m", chord = "Bm", frets = "x24432", fingers = "-IRLMI", via = "browser", note = "diagram label 'Fret 1'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/c-m", chord = "Cm", frets = "x35543", fingers = "-IRLMI", via = "browser", note = "diagram label 'Fret 2'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/c-sharp-m", chord = "C#m", frets = "x46654", fingers = "-IRLMI", via = "browser", note = "diagram label 'Fret 3'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/d-flat-m", chord = "Dbm", frets = "x46654", fingers = "-IRLMI", via = "browser", note = "diagram label 'Fret 3'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/d-sharp-m", chord = "D#m", frets = "x68876", fingers = "-IRLMI", via = "browser", note = "diagram label 'Fret 5'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/dmin", chord = "Dm", frets = "x57765", fingers = "-IRLMI", via = "browser", note = "diagram label 'Fret 4'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/e-flat-m", chord = "Ebm", frets = "x68876", fingers = "-IRLMI", via = "browser", note = "diagram label 'Fret 5'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/emin", chord = "Em", frets = "x79987", fingers = "-IRLMI", via = "browser", note = "diagram label 'Fret 6'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/f-m", chord = "Fm", frets = "x8(10)(10)98", fingers = "-IRLMI", via = "browser", note = "diagram label 'Fret 7'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/f-sharp-m", chord = "F#m", frets = "x9(11)(11)(10)9", fingers = "-IRLMI", via = "browser", note = "diagram label 'Fret 8'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/g-flat-m", chord = "Gbm", frets = "x9(11)(11)(10)9", fingers = "-IRLMI", via = "browser", note = "diagram label 'Fret 8'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/g-m", chord = "Gm", frets = "x(10)(12)(12)(11)(10)", fingers = "-IRLMI", via = "browser", note = "diagram label 'Fret 9'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/g-sharp-m", chord = "G#m", frets = "x(11)(13)(13)(12)(11)", fingers = "-IRLMI", via = "browser", note = "diagram label 'Fret 10'" },
+  { by = "fender", url = "https://www.fender.com/play/lessons/bm-2nd-position-v2", chord = "Bm 2nd Position (v2)", frets = "x24432", fingers = "-IRLMI", via = "reader", note = "instructor: Matt Lake" },
+  { by = "fender", url = "https://www.fender.com/play/lessons/c-minor-3rd-position-v1", chord = "Cm 3rd Position (v1)", frets = "x35543", fingers = "-IRLMI", via = "reader", note = "instructor: Nikki Stevens" },
+  { by = "fender", url = "https://www.fender.com/play/lessons/dm-5th-position-v1", chord = "Dm 5th Position (v1)", frets = "x57765", fingers = "-IRLMI", via = "reader", note = "instructor: Scott Goldbaum" },
+  { by = "fender", url = "https://www.fender.com/articles/chords/learn-to-play-the-b-minor-chord-on-guitar", chord = "Bm (2nd position)", frets = "x24432", fingers = "-IRLMI", via = "reader" },
+  { by = "guitar-world", url = "https://www.guitarworld.com/lessons/how-to-play-barre-chords", chord = "Dm chord (Am shape)", frets = "x57765", fingers = "-IRLMI", note = "diagram" },
+  { by = "guitar-world", url = "https://www.guitarworld.com/lessons/how-to-play-barre-chords", chord = "Em", frets = "x79987", note = "tab example (no fingers)" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/2-b/73-bminor", chord = "Bbm", frets = "x13321", fingers = "-IRLMI", note = "caption: This is a Bb minor barre chord." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/2-b/92-minor", chord = "Bm", frets = "x24432", fingers = "-IRLMI", note = "caption: This is a barre chord version of Bm played in second position." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/38-minor", chord = "C#m", frets = "x46654", fingers = "-IRLMI", note = "caption: This version of the C# minor chord is played with the A minor shape at the 4th fret." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/92-minor", chord = "Cm", frets = "x35543", fingers = "-IRLMI", note = "caption: This is the C minor chord played in barre form.  This voicing utilizes the visual shape of the \"open\" Am chord" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/4-d/73-bminor", chord = "Dbm", frets = "x46654", fingers = "-IRLMI", note = "caption: This Dbm barre chord utilizes the visual shape of the \"open\" Am chord." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/4-d/92-minor", chord = "Dm", frets = "x57765", fingers = "-IRLMI", note = "caption: Here is the \"D\" minor (Dm) barre chord using the \"A\" minor (Am) shape." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/73-bminor", chord = "Ebm", frets = "x68876", fingers = "-IRLMI", note = "caption: This voicing for Ebm is based on the visual shape of the \"open\" Am chord." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/92-minor", chord = "Em", frets = "x79987", fingers = "-IRLMI", note = "caption: This E minor barre chord is played using the A minor shape at the 7th fret." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/6-f/92-minor", chord = "Fm", frets = "x8(10)(10)98", fingers = "-IRLMI", note = "caption: This is a barre chord played in eighth position.  It utilizes the basic \"open\" Am chord shape." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/7-g/92-minor", chord = "Gm", frets = "x(10)(12)(12)(11)(10)", fingers = "-IRLMI", note = "caption: This is the G minor barre chord played using the Am shape at the 10th fret." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a-flat/m/textual/", chord = "Abm", frets = "x(11)(13)(13)(12)(11)", fingers = "-IRLMI", note = "Position 3" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b-flat/m/textual/", chord = "Bbm", frets = "x13321", fingers = "-IRLMI", note = "Position 1" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b/m/textual/", chord = "Bm", frets = "x24432", fingers = "-IRLMI", note = "Position 1" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c-sharp/m/textual/", chord = "C#m", frets = "x46654", fingers = "-IRLMI", note = "Position 1" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/m/textual/", chord = "Cm", frets = "x35543", fingers = "-IRLMI", note = "Position 2" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d/m/textual/", chord = "Dm", frets = "x57765", fingers = "-IRLMI", note = "Position 2" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e-flat/m/textual/", chord = "Ebm", frets = "x68876", fingers = "-IRLMI", note = "Position 2" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e/m/textual/", chord = "Em", frets = "x79987", fingers = "-IRLMI", note = "Position 5" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f-sharp/m/textual/", chord = "F#m", frets = "x9(11)(11)(10)9", fingers = "-IRLMI", note = "Position 3" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f/m/textual/", chord = "Fm", frets = "x8(10)(10)98", fingers = "-IRLMI", note = "Position 3" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g/m/textual/", chord = "Gm", frets = "x(10)(12)(12)(11)(10)", fingers = "-IRLMI", note = "Position 3" },
+  { by = "mike-tyka", url = "https://miketyka.com/guitar/chordshp.htm", chord = "Cmin (5th-string root)", frets = "x35543", note = "frets only, no fingers" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Bbm", frets = "x13321", fingers = "-IRLMI" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Em", frets = "x79987", fingers = "-IRLMI" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Fm", frets = "x8(10)(10)98", fingers = "-IRLMI" },
+]
+
+"xx(10)888" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/a-flat-m", chord = "Abm", frets = "xx6444", fingers = "--RIII", via = "browser", note = "diagram label 'Fret 3'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/a-sharp-m", chord = "A#m", frets = "xx8666", fingers = "--RIII", via = "browser", note = "diagram label 'Fret 5'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/amin", chord = "Am", frets = "xx7555", fingers = "--RIII", via = "browser", note = "diagram label 'Fret 4'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/b-flat-m", chord = "Bbm", frets = "xx8666", fingers = "--RIII", via = "browser", note = "diagram label 'Fret 5'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/b-m", chord = "Bm", frets = "xx9777", fingers = "--RIII", via = "browser", note = "diagram label 'Fret 6'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/c-m", chord = "Cm", frets = "xx(10)888", fingers = "--RIII", via = "browser", note = "diagram label 'Fret 7'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/c-sharp-m", chord = "C#m", frets = "xx(11)999", fingers = "--RIII", via = "browser", note = "diagram label 'Fret 8'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/d-flat-m", chord = "Dbm", frets = "xx(11)999", fingers = "--RIII", via = "browser", note = "diagram label 'Fret 8'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/d-sharp-m", chord = "D#m", frets = "xx(13)(11)(11)(11)", fingers = "--RIII", via = "browser", note = "diagram label 'Fret 10'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/dmin", chord = "Dm", frets = "xx(12)(10)(10)(10)", fingers = "--RIII", via = "browser", note = "diagram label 'Fret 9'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/e-flat-m", chord = "Ebm", frets = "xx(13)(11)(11)(11)", fingers = "--RIII", via = "browser", note = "diagram label 'Fret 10'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/emin", chord = "Em", frets = "xx(14)(12)(12)(12)", fingers = "--RIII", via = "browser", note = "diagram label 'Fret 11'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/f-m", chord = "Fm", frets = "xx3111", fingers = "--RIII", via = "browser", note = "diagram label 'Fret 1'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/f-sharp-m", chord = "F#m", frets = "xx4222", fingers = "--RIII", via = "browser", note = "diagram label 'Fret 1'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/g-flat-m", chord = "Gbm", frets = "xx4222", fingers = "--RIII", via = "browser", note = "diagram label 'Fret 1'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/g-m", chord = "Gm", frets = "xx5333", fingers = "--RIII", via = "browser", note = "diagram label 'Fret 2'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/g-sharp-m", chord = "G#m", frets = "xx6444", fingers = "--RIII", via = "browser", note = "diagram label 'Fret 3'" },
+  { by = "fender", url = "https://www.fender.com/play/lessons/f-sharp-minor-2nd-position-v1", chord = "F#m 2nd Position (v1)", frets = "xx4222", fingers = "--RIII", via = "reader", note = "instructor: Scott Goldbaum" },
+  { by = "fender", url = "https://www.fender.com/play/lessons/fm-1st-position-v1", chord = "Fm 1st Position (v1)", frets = "xx3111", fingers = "--RIII", via = "reader", note = "instructor: *   Time to Finish" },
+  { by = "fender", url = "https://www.fender.com/articles/chords/how-to-play-an-f-minor-guitar-chord", chord = "Fm", frets = "xx3111", fingers = "--RIII", via = "reader" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/92-minor", chord = "Am", frets = "xx7555", fingers = "--RIII", note = "caption: This voicing of A minor is based on the shape of the \"open\" E minor chord.  This A minor chord begins the song" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/2-b/92-minor", chord = "Bm", frets = "xx9777", fingers = "--RIII", note = "caption: This is an abbreviated version of the full B minor barre chord." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/38-minor", chord = "C#m", frets = "xx(11)999", fingers = "--RIII", note = "caption: This voicing of C#m is based on the visual shape of the \"open\" Em chord." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/92-minor", chord = "Cm", frets = "xx(10)888", fingers = "--RIII", note = "caption: This is an abbreviated version of the Cm barre chord played in eighth position." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/4-d/92-minor", chord = "Dm", frets = "xx(12)(10)(10)(10)", fingers = "--RIII", note = "caption: This is an abbreviated version of a full Dm barre chord." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/6-f/38-minor", chord = "F#m", frets = "xx4222", fingers = "--RIII", note = "caption: This is an abbreviated version of an F#m barre chord." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/6-f/92-minor", chord = "Fm", frets = "xx3111", fingers = "--RIII", note = "caption: This image shows how to play the F minor chord.  As you can see, there is an F minor chord chart, tablature, a" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/7-g/92-minor", chord = "Gm", frets = "xx5333", fingers = "--RIII", note = "caption: This is an abbreviated version of the full G minor barre chord.  This version is much easier to play." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a/m/textual/", chord = "Am", frets = "xx7555", fingers = "--RIII", note = "Position 6" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b/m/textual/", chord = "Bm", frets = "xx9777", fingers = "--RIII", note = "Position 9" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c-sharp/m/textual/", chord = "C#m", frets = "xx(11)999", fingers = "--RIII", note = "Position 8" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/m/textual/", chord = "Cm", frets = "xx(10)888", fingers = "--RIII", note = "Position 13" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d/m/textual/", chord = "Dm", frets = "xx(12)(10)(10)(10)", fingers = "--RIII", note = "Position 10" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f-sharp/m/textual/", chord = "F#m", frets = "xx4222", fingers = "--RIII", note = "Position 5" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f/m/textual/", chord = "Fm", frets = "xx3111", fingers = "--RIII", note = "Position 4" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Bbm", frets = "xx8666", fingers = "--RIII" },
+]
+
+"xx(10)(12)(13)(11)" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/a-flat-m", chord = "Abm", frets = "xx8(10)(11)9", fingers = "--IRLM", via = "browser", note = "diagram label 'Fret 7'; drawn +2 semitones off the page's key (as displayed the frets spell Bbm); the diagram's interval labels match this shape, so it is cited for the shape only" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/a-sharp-m", chord = "A#m", frets = "xx(10)(12)(13)(11)", fingers = "--IRLM", via = "browser", note = "diagram label 'Fret 9'; drawn +2 semitones off the page's key (as displayed the frets spell Cm); the diagram's interval labels match this shape, so it is cited for the shape only" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/amin", chord = "Am", frets = "xx9(11)(12)(10)", fingers = "--IRLM", via = "browser", note = "diagram label 'Fret 8'; drawn +2 semitones off the page's key (as displayed the frets spell Bm); the diagram's interval labels match this shape, so it is cited for the shape only" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/b-flat-m", chord = "Bbm", frets = "xx(10)(12)(13)(11)", fingers = "--IRLM", via = "browser", note = "diagram label 'Fret 9'; drawn +2 semitones off the page's key (as displayed the frets spell Cm); the diagram's interval labels match this shape, so it is cited for the shape only" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/b-m", chord = "Bm", frets = "xx(11)(13)(14)(12)", fingers = "--IRLM", via = "browser", note = "diagram label 'Fret 10'; drawn +2 semitones off the page's key (as displayed the frets spell C#m); the diagram's interval labels match this shape, so it is cited for the shape only" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/c-m", chord = "Cm", frets = "xx(12)(14)(15)(13)", fingers = "--IRLM", via = "browser", note = "diagram label 'Fret 11'; drawn +2 semitones off the page's key (as displayed the frets spell Dm); the diagram's interval labels match this shape, so it is cited for the shape only" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/c-sharp-m", chord = "C#m", frets = "xx1342", fingers = "--IRLM", via = "browser", note = "diagram label 'Fret 1'; drawn +2 semitones off the page's key (as displayed the frets spell Ebm); the diagram's interval labels match this shape, so it is cited for the shape only" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/d-flat-m", chord = "Dbm", frets = "xx1342", fingers = "--IRLM", via = "browser", note = "diagram label 'Fret 1'; drawn +2 semitones off the page's key (as displayed the frets spell Ebm); the diagram's interval labels match this shape, so it is cited for the shape only" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/d-sharp-m", chord = "D#m", frets = "xx3564", fingers = "--IRLM", via = "browser", note = "diagram label 'Fret 2'; drawn +2 semitones off the page's key (as displayed the frets spell Fm); the diagram's interval labels match this shape, so it is cited for the shape only" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/dmin", chord = "Dm", frets = "xx2453", fingers = "--IRLM", via = "browser", note = "diagram label 'Fret 1'; drawn +2 semitones off the page's key (as displayed the frets spell Em); the diagram's interval labels match this shape, so it is cited for the shape only" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/e-flat-m", chord = "Ebm", frets = "xx3564", fingers = "--IRLM", via = "browser", note = "diagram label 'Fret 2'; drawn +2 semitones off the page's key (as displayed the frets spell Fm); the diagram's interval labels match this shape, so it is cited for the shape only" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/emin", chord = "Em", frets = "xx4675", fingers = "--IRLM", via = "browser", note = "diagram label 'Fret 3'; drawn +2 semitones off the page's key (as displayed the frets spell F#m); the diagram's interval labels match this shape, so it is cited for the shape only" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/f-m", chord = "Fm", frets = "xx5786", fingers = "--IRLM", via = "browser", note = "diagram label 'Fret 4'; drawn +2 semitones off the page's key (as displayed the frets spell Gm); the diagram's interval labels match this shape, so it is cited for the shape only" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/f-sharp-m", chord = "F#m", frets = "xx6897", fingers = "--IRLM", via = "browser", note = "diagram label 'Fret 5'; drawn +2 semitones off the page's key (as displayed the frets spell Abm); the diagram's interval labels match this shape, so it is cited for the shape only" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/g-flat-m", chord = "Gbm", frets = "xx6897", fingers = "--IRLM", via = "browser", note = "diagram label 'Fret 5'; drawn +2 semitones off the page's key (as displayed the frets spell Abm); the diagram's interval labels match this shape, so it is cited for the shape only" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/g-m", chord = "Gm", frets = "xx79(10)8", fingers = "--IRLM", via = "browser", note = "diagram label 'Fret 6'; drawn +2 semitones off the page's key (as displayed the frets spell Am); the diagram's interval labels match this shape, so it is cited for the shape only" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/g-sharp-m", chord = "G#m", frets = "xx8(10)(11)9", fingers = "--IRLM", via = "browser", note = "diagram label 'Fret 7'; drawn +2 semitones off the page's key (as displayed the frets spell Bbm); the diagram's interval labels match this shape, so it is cited for the shape only" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/2-b/92-minor", chord = "Bm", frets = "xx9(11)(12)(10)", note = "caption: This voicing for Bm utilizes the visual chord shape of the \"open\" Dm chord." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/92-minor", chord = "Cm", frets = "xx(10)(12)(13)(11)", fingers = "--IRLM", note = "caption: This Cm voicing utilizes the visual shape of the \"open\" Dm chord." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/6-f/92-minor", chord = "Fm", frets = "xx3564", fingers = "--IRLM", note = "caption: This voicing of F minor is based on the shape of the \"open\" D minor chord." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/7-g/92-minor", chord = "Gm", frets = "xx5786", fingers = "--IRLM", note = "caption: This voicing for Gm utilizes the visual shape of the basic \"open\" Dm chord." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a-flat/m/textual/", chord = "Abm", frets = "xx6897", fingers = "--IRLM", note = "Position 2" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b-flat/m/textual/", chord = "Bbm", frets = "xx8(10)(11)9", fingers = "--IRLM", note = "Position 3" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b/m/textual/", chord = "Bm", frets = "xx9(11)(12)(10)", fingers = "--IRLM", note = "Position 3" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c-sharp/m/textual/", chord = "C#m", frets = "xx(11)(13)(14)(12)", fingers = "--IRLM", note = "Position 3" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/m/textual/", chord = "Cm", frets = "xx(10)(12)(13)(11)", fingers = "--IRLM", note = "Position 10" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f-sharp/m/textual/", chord = "F#m", frets = "xx4675", fingers = "--IRLM", note = "Position 2" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f/m/textual/", chord = "Fm", frets = "xx3564", fingers = "--IRLM", note = "Position 2" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g/m/textual/", chord = "Gm", frets = "xx5786", fingers = "--IRLM", note = "Position 2" },
+  { by = "mike-tyka", url = "https://miketyka.com/guitar/chordshp.htm", chord = "Fmin (4th-string root)", frets = "xx3564", note = "frets only, no fingers" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Ebm", frets = "xx1342", fingers = "--IRLM" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Fm", frets = "xx3564", fingers = "--IRLM" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Gm", frets = "xx5786", fingers = "--IRLM" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Abm", frets = "xx6897", fingers = "--IRLM" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Bbm", frets = "xx8(10)(11)9", fingers = "--IRLM" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Bm", frets = "xx9(11)(12)(10)", fingers = "--IRLM" },
+]
+
+"x(15)(13)(12)(13)x" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/a-flat-m", chord = "Abm", frets = "x(11)989x", fingers = "-LMIR-", via = "browser", note = "diagram label 'Fret 7'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/a-sharp-m", chord = "A#m", frets = "x(13)(11)(10)(11)x", fingers = "-LMIR-", via = "browser", note = "diagram label 'Fret 9'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/amin", chord = "Am", frets = "x(12)(10)9(10)x", fingers = "-LMIR-", via = "browser", note = "diagram label 'Fret 8'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/b-flat-m", chord = "Bbm", frets = "x(13)(11)(10)(11)x", fingers = "-LMIR-", via = "browser", note = "diagram label 'Fret 9'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/b-m", chord = "Bm", frets = "x(14)(12)(11)(12)x", fingers = "-LMIR-", via = "browser", note = "diagram label 'Fret 10'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/c-m", chord = "Cm", frets = "x(15)(13)(12)(13)x", fingers = "-LMIR-", via = "browser", note = "diagram label 'Fret 11'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/c-sharp-m", chord = "C#m", frets = "x4212x", fingers = "-LMIR-", via = "browser", note = "diagram label 'Fret 1'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/d-flat-m", chord = "Dbm", frets = "x4212x", fingers = "-LMIR-", via = "browser", note = "diagram label 'Fret 1'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/d-sharp-m", chord = "D#m", frets = "x6434x", fingers = "-LMIR-", via = "browser", note = "diagram label 'Fret 2'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/dmin", chord = "Dm", frets = "x5323x", fingers = "-LMIR-", via = "browser", note = "diagram label 'Fret 1'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/e-flat-m", chord = "Ebm", frets = "x6434x", fingers = "-LMIR-", via = "browser", note = "diagram label 'Fret 2'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/emin", chord = "Em", frets = "x7545x", fingers = "-LMIR-", via = "browser", note = "diagram label 'Fret 3'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/f-m", chord = "Fm", frets = "x8656x", fingers = "-LMIR-", via = "browser", note = "diagram label 'Fret 4'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/f-sharp-m", chord = "F#m", frets = "x9767x", fingers = "-LMIR-", via = "browser", note = "diagram label 'Fret 5'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/g-flat-m", chord = "Gbm", frets = "x9767x", fingers = "-LMIR-", via = "browser", note = "diagram label 'Fret 5'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/g-m", chord = "Gm", frets = "x(10)878x", fingers = "-LMIR-", via = "browser", note = "diagram label 'Fret 6'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/g-sharp-m", chord = "G#m", frets = "x(11)989x", fingers = "-LMIR-", via = "browser", note = "diagram label 'Fret 7'" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/92-minor", chord = "Cm", frets = "x(15)(13)(12)(13)x", fingers = "-LMIR-", note = "caption: In this chord diagram, the \"open\" Cm shape is transposed one octave higher." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/6-f/92-minor", chord = "Fm", frets = "x8656x", fingers = "-LMIR-", note = "caption: This voicing for Fm is based on the visual shape of the \"open\" Cm chord." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/7-g/92-minor", chord = "Gm", frets = "x(10)878x", fingers = "-LMIR-", note = "caption: This Gm voicing utilizes the visual shape of the \"open\" Cm chord." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/m/textual/", chord = "Cm", frets = "x(15)(13)(12)(13)x", fingers = "-LMIR-", note = "Position 11" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f/m/textual/", chord = "Fm", frets = "x8656x", fingers = "-LMIR-", note = "Position 7" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "C#m", frets = "x4212x", fingers = "-LMIR-" },
+]
+
+"x3554x" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/a-flat-m", chord = "Abm", frets = "x(11)(13)(13)(12)x", fingers = "-IRLM-", via = "browser", note = "diagram label 'Fret 10'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/a-sharp-m", chord = "A#m", frets = "x1332x", fingers = "-IRLM-", via = "browser", note = "diagram label 'Fret 1'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/amin", chord = "Am", frets = "x(12)(14)(14)(13)x", fingers = "-IRLM-", via = "browser", note = "diagram label 'Fret 11'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/b-flat-m", chord = "Bbm", frets = "x1332x", fingers = "-IRLM-", via = "browser", note = "diagram label 'Fret 1'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/b-m", chord = "Bm", frets = "x2443x", fingers = "-IRLM-", via = "browser", note = "diagram label 'Fret 1'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/c-m", chord = "Cm", frets = "x3554x", fingers = "-IRLM-", via = "browser", note = "diagram label 'Fret 2'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/c-sharp-m", chord = "C#m", frets = "x4665x", fingers = "-IRLM-", via = "browser", note = "diagram label 'Fret 3'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/d-flat-m", chord = "Dbm", frets = "x4665x", fingers = "-IRLM-", via = "browser", note = "diagram label 'Fret 3'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/d-sharp-m", chord = "D#m", frets = "x6887x", fingers = "-IRLM-", via = "browser", note = "diagram label 'Fret 5'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/dmin", chord = "Dm", frets = "x5776x", fingers = "-IRLM-", via = "browser", note = "diagram label 'Fret 4'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/e-flat-m", chord = "Ebm", frets = "x6887x", fingers = "-IRLM-", via = "browser", note = "diagram label 'Fret 5'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/emin", chord = "Em", frets = "x7998x", fingers = "-IRLM-", via = "browser", note = "diagram label 'Fret 6'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/f-m", chord = "Fm", frets = "x8(10)(10)9x", fingers = "-IRLM-", via = "browser", note = "diagram label 'Fret 7'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/f-sharp-m", chord = "F#m", frets = "x9(11)(11)(10)x", fingers = "-IRLM-", via = "browser", note = "diagram label 'Fret 8'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/g-flat-m", chord = "Gbm", frets = "x9(11)(11)(10)x", fingers = "-IRLM-", via = "browser", note = "diagram label 'Fret 8'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/g-m", chord = "Gm", frets = "x(10)(12)(12)(11)x", fingers = "-IRLM-", via = "browser", note = "diagram label 'Fret 9'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/g-sharp-m", chord = "G#m", frets = "x(11)(13)(13)(12)x", fingers = "-IRLM-", via = "browser", note = "diagram label 'Fret 10'" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/2-b/92-minor", chord = "Bm", frets = "x2443x", fingers = "-IRLM-" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/38-minor", chord = "C#m", frets = "x4665x", fingers = "-IRLM-", note = "caption: This is the C# minor chord." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/92-minor", chord = "Cm", frets = "x3554x", fingers = "-IRLM-", note = "caption: Here you can see a chord chart, tablature, and a picture of the C minor chord in action.  Be sure to master th" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/4-d/92-minor", chord = "Dm", frets = "x5776x", fingers = "-IRLM-", note = "caption: The first string is omitted from this Dm voicing.  This chord is based on the visual shape of the basic \"open\"" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/73-bminor", chord = "Ebm", frets = "x6887x", fingers = "-IRLM-" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/6-f/38-minor", chord = "F#m", frets = "x9(11)(11)(10)x", fingers = "-IRLM-", note = "caption: This is a slightly abbreviated version of an F#m barre chord.  This chord shape has its lowest root note on th" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b/m/textual/", chord = "Bm", frets = "x2443x", fingers = "-IRLM-", note = "Position 5" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c-sharp/m/textual/", chord = "C#m", frets = "x4665x", fingers = "-IRLM-", note = "Position 4" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/m/textual/", chord = "Cm", frets = "x3554x", fingers = "-IRLM-", note = "Position 4" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d/m/textual/", chord = "Dm", frets = "x5776x", fingers = "-IRLM-", note = "Position 14" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e-flat/m/textual/", chord = "Ebm", frets = "x6887x", fingers = "-IRLM-", note = "Position 5" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f-sharp/m/textual/", chord = "F#m", frets = "x9(11)(11)(10)x", fingers = "-IRLM-", note = "Position 4" },
+]
+
+"xx2000" = [
+  { by = "fender", url = "https://www.fender.com/play/lessons/em-open-position-v1", chord = "Em Open Position (v1)", frets = "xx2000", fingers = "--M---", via = "reader", note = "instructor: Johnny Ashby" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/92-minor", chord = "Em", frets = "xx2000", fingers = "--M---", note = "caption: This is an abbreviated version of the \"open\" Em voicing." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e/m/textual/", chord = "Em", frets = "xx2000", fingers = "--M---", note = "Position 14" },
+]
+
+"8(10)x8x8" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/4-d/92-minor", chord = "Dm", frets = "(10)(12)x(10)x(10)", fingers = "IR-I-I", note = "caption: This Dm chord is played fingerstyle." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d/m/textual/", chord = "Dm", frets = "(10)(12)x(10)x(10)", fingers = "IR-I-I", note = "Position 11" },
+]
+
+"8xx8xx" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/4-d/92-minor", chord = "Dm", frets = "(10)xx(10)xx", fingers = "M--R--", note = "caption: This voicing for D minor omits the fifth of the chord." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d/m/textual/", chord = "Dm", frets = "(10)xx(10)xx", fingers = "M--R--", note = "Position 5" },
+]
+
+"022003" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/92-minor", chord = "Em", frets = "022003", fingers = "-MR--L", note = "caption: The third of this Em chord (G) is doubled." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e/m/textual/", chord = "Em", frets = "022003", fingers = "-MR--L", note = "Position 17" },
+]
+
+"0220xx" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/92-minor", chord = "Em", frets = "0220xx", fingers = "-MR---", note = "caption: This is an abbreviated version of the \"open E\" minor chord." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e/m/textual/", chord = "Em", frets = "0220xx", fingers = "-MR---", note = "Position 6" },
+]
+
+"8xx88x" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/7-g/73-bminor", chord = "Gbm", frets = "2xx22x", fingers = "I--II-", note = "caption: This is a Gbm triad." },
+]
+
+"8xx888" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/7-g/92-minor", chord = "Gm", frets = "3xx333", fingers = "I--MRL", note = "caption: This voicing for Gm is played fingerstyle." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/7-g/92-minor", chord = "Gm", frets = "3xx333", fingers = "M--RRR", note = "caption: This voicing for Gm is played fingerstyle." },
+]
+
+"8(10)(10)88x" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/7-g/38-minor", chord = "G#m", frets = "46644x", fingers = "IRLII-" },
+]
+
+"8(10)x8xx" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/7-g/38-minor", chord = "G#m", frets = "46x4xx", fingers = "IL-M--", note = "caption: This G#m chord omits the fourth string." },
+]
+
+"8x(10)88x" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/92-minor", chord = "Am", frets = "5x755x", fingers = "I-RII-", note = "caption: This A minor chord is played fingerstyle.  It can be played with a pick if the thumb frets the low root note o" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/2-b/92-minor", chord = "Bm", frets = "7x977x", fingers = "I-RII-", note = "caption: This B minor chord is played fingerstyle.  It can be played with a pick if the thumb frets the low root note o" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a/m/textual/", chord = "Am", frets = "5x755x", fingers = "I-RII-", note = "Position 17" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b/m/textual/", chord = "Bm", frets = "7x977x", fingers = "I-RII-", note = "Position 13" },
+]
+
+"8655xx" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/92-minor", chord = "Cm", frets = "8655xx", fingers = "LMII--", note = "caption: This Cm chord utilizes the visual shape of the \"open\" Gm chord." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/6-f/92-minor", chord = "Fm", frets = "(13)(11)(10)(10)xx", fingers = "LMII--", note = "caption: This voicing for Fm is based on the visual shape of the \"open\" Gm chord." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/7-g/92-minor", chord = "Gm", frets = "(15)(13)(12)(12)xx", fingers = "LMII--", note = "caption: This voicing for Gm is played in 12th position." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/m/textual/", chord = "Cm", frets = "8655xx", fingers = "LMII--", note = "Position 9" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f/m/textual/", chord = "Fm", frets = "(13)(11)(10)(10)xx", fingers = "LMII--", note = "Position 8" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Em", frets = "(12)(10)99xx", fingers = "LRIM--" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Fm", frets = "(13)(11)(10)(10)xx", fingers = "LMII--" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Cm", frets = "8655xx", fingers = "LMII--" },
+]
+
+"865xxx" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/92-minor", chord = "Cm", frets = "865xxx", fingers = "LMI---", note = "caption: This is a closed position voicing of a Cm triad." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/m/textual/", chord = "Cm", frets = "865xxx", fingers = "LMI---", note = "Position 19" },
+]
+
+"8x(10)888" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/a-flat-m", chord = "Abm", frets = "4x6444", fingers = "I-RIII", via = "browser", note = "diagram label 'Fret 3'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/a-sharp-m", chord = "A#m", frets = "6x8666", fingers = "I-RIII", via = "browser", note = "diagram label 'Fret 5'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/amin", chord = "Am", frets = "5x7555", fingers = "I-RIII", via = "browser", note = "diagram label 'Fret 4'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/b-flat-m", chord = "Bbm", frets = "6x8666", fingers = "I-RIII", via = "browser", note = "diagram label 'Fret 5'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/b-m", chord = "Bm", frets = "7x9777", fingers = "I-RIII", via = "browser", note = "diagram label 'Fret 6'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/c-m", chord = "Cm", frets = "8x(10)888", fingers = "I-RIII", via = "browser", note = "diagram label 'Fret 7'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/c-sharp-m", chord = "C#m", frets = "9x(11)999", fingers = "I-RIII", via = "browser", note = "diagram label 'Fret 8'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/d-flat-m", chord = "Dbm", frets = "9x(11)999", fingers = "I-RIII", via = "browser", note = "diagram label 'Fret 8'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/d-sharp-m", chord = "D#m", frets = "(11)x(13)(11)(11)(11)", fingers = "I-RIII", via = "browser", note = "diagram label 'Fret 10'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/dmin", chord = "Dm", frets = "(10)x(12)(10)(10)(10)", fingers = "I-RIII", via = "browser", note = "diagram label 'Fret 9'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/e-flat-m", chord = "Ebm", frets = "(11)x(13)(11)(11)(11)", fingers = "I-RIII", via = "browser", note = "diagram label 'Fret 10'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/emin", chord = "Em", frets = "(12)x(14)(12)(12)(12)", fingers = "I-RIII", via = "browser", note = "diagram label 'Fret 11'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/f-m", chord = "Fm", frets = "1x3111", fingers = "I-RIII", via = "browser", note = "diagram label 'Fret 1'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/f-sharp-m", chord = "F#m", frets = "2x4222", fingers = "I-RIII", via = "browser", note = "diagram label 'Fret 1'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/g-flat-m", chord = "Gbm", frets = "2x4222", fingers = "I-RIII", via = "browser", note = "diagram label 'Fret 1'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/g-m", chord = "Gm", frets = "3x5333", fingers = "I-RIII", via = "browser", note = "diagram label 'Fret 2'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/g-sharp-m", chord = "G#m", frets = "4x6444", fingers = "I-RIII", via = "browser", note = "diagram label 'Fret 3'" },
+]
+
+"86xxxx" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/2-b/73-bminor", chord = "Bbm", frets = "64xxxx", fingers = "RI----", note = "caption: This \"power chord\" voicing for Bbm is commonly used in metal." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/38-minor", chord = "C#m", frets = "97xxxx", fingers = "RI----", note = "caption: This \"power chord\" voicing for C#m is commonly used in metal." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/7-g/38-minor", chord = "G#m", frets = "42xxxx", fingers = "RI----", note = "caption: This is a G#m chord with the fifth omitted." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/7-g/92-minor", chord = "Gm", frets = "31xxxx", fingers = "RI----", note = "caption: The fifth is omitted from this Gm chord." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b-flat/m/textual/", chord = "Bbm", frets = "64xxxx", fingers = "RI----", note = "Position 5" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c-sharp/m/textual/", chord = "C#m", frets = "97xxxx", fingers = "RI----", note = "Position 7" },
+]
+
+"x0x210" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/92-minor", chord = "Am", frets = "x0x210", fingers = "---MI-", note = "caption: The fourth string is omitted from this Am voicing." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a/m/textual/", chord = "Am", frets = "x0x210", fingers = "---MI-", note = "Position 11" },
+]
+
+"x20xxx" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/2-b/92-minor", chord = "Bm", frets = "x20xxx", fingers = "-I----", note = "caption: This is a partial open Bm chord omitting the fifth." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b/m/textual/", chord = "Bm", frets = "x20xxx", fingers = "-I----", note = "Position 12" },
+]
+
+"x310xx" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/c-m", chord = "Cm", frets = "x310xx", fingers = "-RI---", via = "browser", note = "diagram label 'Open'" },
+]
+
+"x3x04x" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/92-minor", chord = "Cm", frets = "x3x04x", fingers = "-I--M-", note = "caption: This voicing for Cm is used in the song \"Blackbird\" by the Beatles." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/m/textual/", chord = "Cm", frets = "x3x04x", fingers = "-I--M-", note = "Position 7" },
+]
+
+"x3x543" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/92-minor", chord = "Cm", frets = "x3x543", fingers = "-I-RMI", note = "caption: The fifth string is omitted from this voicing of Cm." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/4-d/92-minor", chord = "Dm", frets = "x5x765", fingers = "-I-RMI", note = "caption: The fifth string is omitted from this fifth position Dm voicing." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/m/textual/", chord = "Cm", frets = "x3x543", fingers = "-I-RMI", note = "Position 8" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d/m/textual/", chord = "Dm", frets = "x5x765", fingers = "-I-RMI", note = "Position 15" },
+]
+
+"x31xxx" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/38-minor", chord = "C#m", frets = "x42xxx", fingers = "-RI---", note = "caption: This \"power chord\" voicing for C#m is commonly used in metal. The root note is located on the fifth string." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/92-minor", chord = "Em", frets = "x75xxx", fingers = "-RI---", note = "caption: This Em chord is used in the interlude section of \"One\" by Metallica." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c-sharp/m/textual/", chord = "C#m", frets = "x42xxx", fingers = "-RI---", note = "Position 6" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e/m/textual/", chord = "Em", frets = "x75xxx", fingers = "-RI---", note = "Position 9" },
+]
+
+"x(15)(13)(12)xx" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/92-minor", chord = "Am", frets = "x(12)(10)9xx", fingers = "-LMI--", note = "caption: This is an Am triad. The root note is located on the fifth string." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/4-d/92-minor", chord = "Dm", frets = "x532xx", fingers = "-LMI--", note = "caption: This is a three string voicing for Dm played on the fifth, fourth, and third strings." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a/m/textual/", chord = "Am", frets = "x(12)(10)9xx", fingers = "-LMI--", note = "Position 20" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d/m/textual/", chord = "Dm", frets = "x532xx", fingers = "-LMI--", note = "Position 17" },
+]
+
+"xx(10)88x" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/38-minor", chord = "A#m", frets = "xx866x", fingers = "--RII-", note = "caption: This A# minor chord utilizes a movable voicing." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/92-minor", chord = "Cm", frets = "xx(10)88x", fingers = "--RII-", note = "caption: This is a Cm triad played in root position." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/7-g/92-minor", chord = "Gm", frets = "xx533x", fingers = "--RII-", note = "caption: This is a Gm triad played in root position." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/m/textual/", chord = "Cm", frets = "xx(10)88x", fingers = "--RII-", note = "Position 14" },
+]
+
+"xx200x" = [
+  { by = "fender", url = "https://www.fender.com/play/lessons/em-open-position-v3", chord = "Em Open Position (v3)", frets = "xx200x", fingers = "--I---", via = "reader", note = "instructor: Johnny Ashby" },
+]
+
+"xx(10)8xx" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/92-minor", chord = "Am", frets = "xx75xx", fingers = "--RI--", note = "caption: The fifth is omitted from this voicing of Am." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a/m/textual/", chord = "Am", frets = "xx75xx", fingers = "--RI--", note = "Position 9" },
+]

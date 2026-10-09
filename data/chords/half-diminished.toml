@@ -1,0 +1,25 @@
+# Half-diminished (ø) chords (Cm7♭5). The format is described in data/README.md; the sources are in data/evidence/half-diminished.toml.
+symbol   = "m7♭5"
+name     = "half-diminished"
+also     = "ø"
+formula  = "1 ♭3 ♭5 ♭7"
+optional = []
+about    = "minor 7th with ♭5"
+
+voicings = [
+  # movable shapes are written with the root on C; the book shows the open voicings of a root in this order
+  { chord = "Dm7♭5",  strings = "x x 0 1I 1I 1I" },
+  { chord = "Fm7♭5",  strings = "1I x 1M 1R 0 x" },
+  { chord = "Am7♭5",  strings = "x 0 1I 0 1M x" },
+  { chord = "Cm7♭5",  strings = "8M x 8R 8L 7I x" },
+  { chord = "Cm7♭5",  strings = "x 3I 4R 3M 4L x" },
+  { chord = "Cm7♭5",  strings = "x x 10I 11R 11R 11R" },
+  { chord = "Cm7♭5",  strings = "x 3M x 3R 4L 2I" },
+  { chord = "Em7♭5",  strings = "0 1I 0 0 3L 0" },
+  { chord = "Em7♭5",  strings = "0 1I 2M 3R 3L 3L" },
+  { chord = "Cm7♭5",  strings = "8I 9M 10R 11L 11L 11L" },
+  { chord = "Cm7♭5",  strings = "8I 9M 8I 8I 11L 8I" },
+  { chord = "Cm7♭5",  strings = "8I 9M 8I 8I x x" },
+  { chord = "Bm7♭5",  strings = "x 2M 0 2R 3L 1I" },
+  { chord = "C♯m7♭5", strings = "x 4R 2I 0 0 0" },
+]

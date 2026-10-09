@@ -1,0 +1,231 @@
+# Where each voicing of data/chords/augmented.toml is published, keyed by its frets from the 6th string to the 1st.
+# The format is described in data/README.md.
+
+"xx0332" = [
+  { by = "jamplay", url = "https://www.jamplay.com/tools/guitar-chords/1-standard/4-d/114-aug", chord = "Daug", frets = "xx0332", fingers = "---RLM" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d/aug/textual/", chord = "D aug (position 4)", frets = "xx0332", fingers = "---RLM" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/d-aug", chord = "DAug (Open)", frets = "xx0332", fingers = "---MRI", via = "browser" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Daug-guitar-chord,106.html", chord = "Daug", frets = "xx0332", fingers = "---MRI" },
+  { by = "dummies", url = "https://www.dummies.com/article/academics-the-arts/music/instruments/guitar/how-to-play-augmented-chords-on-the-guitar-155541/", chord = "Daug", frets = "xx0332", via = "image" },
+  { by = "guitar-world", url = "https://www.guitarworld.com/lessons/augmented-chords-suspense", chord = "Daug/Daug5 (Example 1)", frets = "xx0332", via = "image" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Daug", frets = "xx0332", fingers = "---MRI" },
+]
+
+"321003" = [
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Gaug-guitar-chord,353.html", chord = "Gaug", frets = "321003", fingers = "RMI--L" },
+  { by = "fender", url = "https://www.fender.com/articles/scales/harmonic-minor-guitar-scale", chord = "G Augmented", frets = "321003", fingers = "RMI--L", via = "image" },
+]
+
+"x0322x" = [
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/how-to-play-augmented-chords-on-guitar/", chord = "A augmented chord (1st fret)", frets = "x0322x", fingers = "--RIM-", via = "image" },
+  { by = "guitar-world", url = "https://www.guitarworld.com/lessons/augmented-chords-suspense", chord = "Aaug/Aaug5 (Example 2)", frets = "x0322x", via = "image" },
+]
+
+"x3211x" = [
+  { by = "jamplay", url = "https://www.jamplay.com/tools/guitar-chords/1-standard/3-c/114-aug", chord = "Caug", frets = "x3211x", fingers = "-RMII-" },
+  { by = "jamplay", url = "https://www.jamplay.com/tools/guitar-chords/1-standard/4-d/114-aug", chord = "Daug", frets = "x5433x", fingers = "-RMII-" },
+  { by = "jamplay", url = "https://www.jamplay.com/tools/guitar-chords/1-standard/5-e/114-aug", chord = "Eaug", frets = "x7655x", fingers = "-RMII-" },
+  { by = "jamplay", url = "https://www.jamplay.com/tools/guitar-chords/1-standard/6-f/115-aug", chord = "F#aug", frets = "x9877x", fingers = "-RMII-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c-sharp/aug/textual/", chord = "C# aug (position 1)", frets = "x4322x", fingers = "-RMII-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/aug/textual/", chord = "C aug (position 1)", frets = "x3211x", fingers = "-RMII-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d-flat/aug/textual/", chord = "Db aug (position 1)", frets = "x4322x", fingers = "-RMII-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d/aug/textual/", chord = "D aug (position 1)", frets = "x5433x", fingers = "-RMII-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e/aug/textual/", chord = "E aug (position 4)", frets = "x7655x", fingers = "-RMII-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f-sharp/aug/textual/", chord = "F# aug (position 5)", frets = "x9877x", fingers = "-RMII-" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/a-aug", chord = "AAug (Fret 9)", frets = "x(12)(11)(10)(10)x", fingers = "-RMII-", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/a-flat-aug", chord = "AbAug (Fret 8)", frets = "x(11)(10)99x", fingers = "-RMII-", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/b-aug", chord = "BAug (Fret 11)", frets = "x(14)(13)(12)(12)x", fingers = "-RMII-", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/b-flat-aug", chord = "BbAug (Fret 10)", frets = "x(13)(12)(11)(11)x", fingers = "-RMII-", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/c-aug", chord = "CAug (Fret 1)", frets = "x3211x", fingers = "-RMII-", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/c-sharp-aug", chord = "C#Aug (Fret 1)", frets = "x4322x", fingers = "-RMII-", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/d-aug", chord = "DAug (Fret 2)", frets = "x5433x", fingers = "-RMII-", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/e-aug", chord = "EAug (Fret 4)", frets = "x7655x", fingers = "-RMII-", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/e-flat-aug", chord = "EbAug (Fret 3)", frets = "x6544x", fingers = "-RMII-", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/f-aug", chord = "FAug (Fret 5)", frets = "x8766x", fingers = "-RMII-", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/f-sharp-aug", chord = "F#Aug (Fret 6)", frets = "x9877x", fingers = "-RMII-", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/g-aug", chord = "GAug (Fret 7)", frets = "x(10)988x", fingers = "-RMII-", via = "browser" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Daug-guitar-chord,123.html", chord = "Daug", frets = "x5433x", fingers = "-LRIM-" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Faug-guitar-chord,277.html", chord = "Faug", frets = "x8766x", fingers = "-LRIM-" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Gaug-guitar-chord,370.html", chord = "Gaug", frets = "x(10)988x", fingers = "-RMII-" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/how-to-play-augmented-chords-on-guitar/", chord = "D augmented chord (3rd fret)", frets = "x5433x", fingers = "-RMII-", via = "image" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/how-to-play-augmented-chords-on-guitar/", chord = "Augmented shape, 5th string (no fret number)", frets = "x3211x", fingers = "-LRII-", via = "image" },
+  { by = "musicradar", url = "https://www.musicradar.com/how-to/guitar-skills-expand-your-repertoire-with-these-unusual-chords", chord = "Caug", frets = "x3211x", fingers = "-RMII-", via = "image" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/D_aug-guitar-chord,162.html", chord = "D#aug", frets = "x6544x" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/F_aug-guitar-chord,323.html", chord = "F#aug", frets = "x9877x" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/C%23aug-guitar-chord,58.html", chord = "C#aug", frets = "x4322x" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Dbaug-guitar-chord,617.html", chord = "Dbaug", frets = "x4322x" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Ebaug-guitar-chord,665.html", chord = "Ebaug", frets = "x6544x" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Abaug-guitar-chord,787.html", chord = "Abaug", frets = "x(11)(10)99x" },
+  { by = "mike-tyka", url = "https://miketyka.com/guitar/chordshp.htm", chord = "Caug,C+", frets = "x3211x" },
+  { by = "dummies", url = "https://www.dummies.com/article/academics-the-arts/music/instruments/guitar/how-to-play-augmented-chords-on-the-guitar-155541/", chord = "Daug", frets = "x5433x", via = "image" },
+  { by = "guitar-world", url = "https://www.guitarworld.com/lessons/augmented-chords-suspense", chord = "Daug/Daug5 (Example 3)", frets = "x5433x", via = "image" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a-flat/aug/textual/", chord = "Ab aug (position 1)", frets = "x7655x", fingers = "-RMII-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a-sharp/aug/textual/", chord = "A# aug (position 1)", frets = "x5433x", fingers = "-RMII-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a/aug/textual/", chord = "A aug (position 1)", frets = "x4322x", fingers = "-RMII-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b-flat/aug/textual/", chord = "Bb aug (position 1)", frets = "x5433x", fingers = "-RMII-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f/aug/textual/", chord = "F aug (position 1)", frets = "x4322x", fingers = "-RMII-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g-flat/aug/textual/", chord = "Gb aug (position 1)", frets = "x5433x", fingers = "-RMII-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g-sharp/aug/textual/", chord = "G# aug (position 1)", frets = "x7655x", fingers = "-RMII-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g/aug/textual/", chord = "G aug (position 1)", frets = "x6544x", fingers = "-RMII-" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Caug (also Aaug, Abaug, Daug, Eaug, Ebaug, F#aug, Faug, Gaug)", frets = "x3211x", fingers = "-RMII-" },
+]
+
+"xx(10)998" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c-sharp/aug/textual/", chord = "C# aug (position 3)", frets = "xx(11)(10)(10)9", fingers = "--LMRI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/aug/textual/", chord = "C aug (position 3)", frets = "xx(10)998", fingers = "--LMRI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d-flat/aug/textual/", chord = "Db aug (position 3)", frets = "xx(11)(10)(10)9", fingers = "--LMRI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d-sharp/aug/textual/", chord = "D# aug (position 3)", frets = "xx(13)(12)(12)(11)", fingers = "--LMRI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d/aug/textual/", chord = "D aug (position 3)", frets = "xx(12)(11)(11)(10)", fingers = "--LMRI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e-flat/aug/textual/", chord = "Eb aug (position 3)", frets = "xx(13)(12)(12)(11)", fingers = "--LMRI" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Daug-guitar-chord,138.html", chord = "Daug", frets = "xx(12)(11)(11)(10)", fingers = "--LMRI" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Caug-guitar-chord,22.html", chord = "Caug", frets = "xx(10)998", fingers = "--LMRI" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Faug-guitar-chord,260.html", chord = "Faug", frets = "xx3221", fingers = "--LMRI" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Gaug-guitar-chord,386.html", chord = "Gaug", frets = "xx5443", fingers = "--LMRI" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Aaug-guitar-chord,467.html", chord = "Aaug", frets = "xx7665", fingers = "--LMRI" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Baug-guitar-chord,601.html", chord = "Baug", frets = "xx9887", fingers = "--LMRI" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/F%23aug-guitar-chord,306.html", chord = "F#aug", frets = "xx4332" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Gbaug-guitar-chord,707.html", chord = "Gbaug", frets = "xx4332" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/C_aug-guitar-chord,75.html", chord = "C#aug", frets = "xx(11)(10)(10)9" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Abaug-guitar-chord,771.html", chord = "Abaug", frets = "xx6554" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Bbaug-guitar-chord,814.html", chord = "Bbaug", frets = "xx8776" },
+  { by = "dummies", url = "https://www.dummies.com/article/academics-the-arts/music/instruments/guitar/how-to-play-augmented-chords-on-the-guitar-155541/", chord = "Daug", frets = "xx(12)(11)(11)(10)", via = "image" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a-flat/aug/textual/", chord = "Ab aug (position 3)", frets = "xx(14)(13)(13)(12)", fingers = "--LMRI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a-sharp/aug/textual/", chord = "A# aug (position 3)", frets = "xx(12)(11)(11)(10)", fingers = "--LMRI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a/aug/textual/", chord = "A aug (position 3)", frets = "xx(11)(10)(10)9", fingers = "--LMRI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b-flat/aug/textual/", chord = "Bb aug (position 3)", frets = "xx(12)(11)(11)(10)", fingers = "--LMRI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b/aug/textual/", chord = "B aug (position 3)", frets = "xx(13)(12)(12)(11)", fingers = "--LMRI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f-sharp/aug/textual/", chord = "F# aug (position 3)", frets = "xx(12)(11)(11)(10)", fingers = "--LMRI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f/aug/textual/", chord = "F aug (position 3)", frets = "xx(11)(10)(10)9", fingers = "--LMRI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g-flat/aug/textual/", chord = "Gb aug (position 3)", frets = "xx(12)(11)(11)(10)", fingers = "--LMRI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g-sharp/aug/textual/", chord = "G# aug (position 3)", frets = "xx(14)(13)(13)(12)", fingers = "--LMRI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g/aug/textual/", chord = "G aug (position 3)", frets = "xx(13)(12)(12)(11)", fingers = "--LMRI" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Caug (also Baug, Bbaug, Ebaug, F#aug, Faug)", frets = "xx(10)998", fingers = "--LMRI" },
+]
+
+"8765xx" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a-sharp/aug/textual/", chord = "A# aug (position 2)", frets = "6543xx", fingers = "LRMI--" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a/aug/textual/", chord = "A aug (position 2)", frets = "5432xx", fingers = "LRMI--" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b-flat/aug/textual/", chord = "Bb aug (position 2)", frets = "6543xx", fingers = "LRMI--" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Daug-guitar-chord,150.html", chord = "Daug", frets = "(10)987xx", fingers = "LRMI--" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Eaug-guitar-chord,237.html", chord = "Eaug", frets = "(12)(11)(10)9xx", fingers = "LRMI--" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Caug-guitar-chord,39.html", chord = "Caug", frets = "8765xx", fingers = "LRMI--" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Aaug-guitar-chord,484.html", chord = "Aaug", frets = "5432xx", fingers = "LRMI--" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Baug-guitar-chord,585.html", chord = "Baug", frets = "7654xx", fingers = "LRMI--" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/G_aug-guitar-chord,407.html", chord = "G#aug", frets = "4321xx" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/A_aug-guitar-chord,513.html", chord = "A#aug", frets = "6543xx" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Ebaug-guitar-chord,681.html", chord = "Ebaug", frets = "(11)(10)98xx" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Abaug-guitar-chord,754.html", chord = "Abaug", frets = "4321xx" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Bbaug-guitar-chord,797.html", chord = "Bbaug", frets = "6543xx" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/C_aug-guitar-chord,90.html", chord = "C#aug", frets = "9876xx" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a-flat/aug/textual/", chord = "Ab aug (position 2)", frets = "8765xx", fingers = "LRMI--" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c-sharp/aug/textual/", chord = "C# aug (position 2)", frets = "5432xx", fingers = "LRMI--" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/aug/textual/", chord = "C aug (position 2)", frets = "4321xx", fingers = "LRMI--" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d-flat/aug/textual/", chord = "Db aug (position 2)", frets = "5432xx", fingers = "LRMI--" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d/aug/textual/", chord = "D aug (position 2)", frets = "6543xx", fingers = "LRMI--" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e/aug/textual/", chord = "E aug (position 2)", frets = "4321xx", fingers = "LRMI--" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f-sharp/aug/textual/", chord = "F# aug (position 2)", frets = "6543xx", fingers = "LRMI--" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f/aug/textual/", chord = "F aug (position 2)", frets = "5432xx", fingers = "LRMI--" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g-flat/aug/textual/", chord = "Gb aug (position 2)", frets = "6543xx", fingers = "LRMI--" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g-sharp/aug/textual/", chord = "G# aug (position 2)", frets = "8765xx", fingers = "LRMI--" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g/aug/textual/", chord = "G aug (position 2)", frets = "7654xx", fingers = "LRMI--" },
+]
+
+"87655x" = [
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/how-to-play-augmented-chords-on-guitar/", chord = "C augmented chord (5th fret)", frets = "87655x", fingers = "LRMII-", via = "image" },
+  { by = "guitar-world", url = "https://www.guitarworld.com/lessons/augmented-chords-suspense", chord = "Caug/Caug5 (Example 5)", frets = "87655x", via = "image" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Caug (also Aaug, Abaug, Bbaug, C#aug, Daug, Ebaug, F#aug, Faug)", frets = "87655x", fingers = "LRMII-" },
+]
+
+"032110" = [
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Eaug-guitar-chord,204.html", chord = "Eaug", frets = "032110", fingers = "-LRIM-" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Eaug", frets = "032110", fingers = "-LRIM-" },
+]
+
+"0x2110" = [
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/how-to-play-augmented-chords-on-guitar/", chord = "E augmented chord", frets = "0x2110", fingers = "--RIM-", via = "image" },
+]
+
+"210xxx" = [
+  { by = "jamplay", url = "https://www.jamplay.com/tools/guitar-chords/1-standard/6-f/115-aug", chord = "F#aug", frets = "210xxx", fingers = "MI----" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f-sharp/aug/textual/", chord = "F# aug (position 4)", frets = "210xxx", fingers = "MI----" },
+]
+
+"32100x" = [
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/how-to-play-augmented-chords-on-guitar/", chord = "G augmented chord (1st fret)", frets = "32100x", fingers = "RMI---", via = "image" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Gaug", frets = "32100x", fingers = "RMI---" },
+]
+
+"3210xx" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b/aug/textual/", chord = "B aug (position 2)", frets = "3210xx", fingers = "LRM---" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d-sharp/aug/textual/", chord = "D# aug (position 2)", frets = "3210xx", fingers = "LRM---" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e-flat/aug/textual/", chord = "Eb aug (position 2)", frets = "3210xx", fingers = "LRM---" },
+]
+
+"3x1003" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/g-aug", chord = "GAug (Open)", frets = "3x1003", fingers = "R-I--L", via = "browser" },
+]
+
+"8(11)(10)9xx" = [
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Caug-guitar-chord,918.html", chord = "Caug", frets = "8(11)(10)9xx", fingers = "ILRM--" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Aaug-guitar-chord,929.html", chord = "Aaug", frets = "5876xx", fingers = "ILRM--" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Bbaug-guitar-chord,933.html", chord = "Bbaug", frets = "6987xx" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Baug-guitar-chord,934.html", chord = "Baug", frets = "7(10)98xx", fingers = "ILRM--" },
+]
+
+"876xxx" = [
+  { by = "jamplay", url = "https://www.jamplay.com/tools/guitar-chords/1-standard/7-g/114-aug", chord = "Gaug", frets = "(15)(14)(13)xxx", fingers = "RMI---" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g/aug/textual/", chord = "G aug (position 14)", frets = "(15)(14)(13)xxx", fingers = "RMI---" },
+]
+
+"8x(10)99x" = [
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/how-to-play-augmented-chords-on-guitar/", chord = "F augmented chord (1st fret)", frets = "1x322x", fingers = "I-LMR-", via = "image" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Daug (also Abaug, Baug, Ebaug, Gaug)", frets = "(10)x(12)(11)(11)x", fingers = "I-LMR-" },
+]
+
+"8xx998" = [
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/how-to-play-augmented-chords-on-guitar/", chord = "Augmented shape, 6th string, barre (no fret number)", frets = "8xx998", fingers = "I--MRI", via = "image" },
+]
+
+"x03221" = [
+  { by = "jamplay", url = "https://www.jamplay.com/tools/guitar-chords/1-standard/1-a/114-aug", chord = "Aaug", frets = "x03221", fingers = "--LMRI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a/aug/textual/", chord = "A aug (position 4)", frets = "x03221", fingers = "--LMRI" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Aaug-guitar-chord,450.html", chord = "Aaug", frets = "x03221", fingers = "--LMRI" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Aaug", frets = "x03221", fingers = "--LMRI" },
+]
+
+"x2100x" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b/aug/textual/", chord = "B aug (position 1)", frets = "x2100x", fingers = "-RM---" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d-sharp/aug/textual/", chord = "D# aug (position 1)", frets = "x2100x", fingers = "-RM---" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e-flat/aug/textual/", chord = "Eb aug (position 1)", frets = "x2100x", fingers = "-RM---" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Baug", frets = "x2100x", fingers = "-MI---" },
+]
+
+"x32110" = [
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Caug-guitar-chord,4.html", chord = "Caug", frets = "x32110", fingers = "-LRIM-" },
+]
+
+"x321xx" = [
+  { by = "jamplay", url = "https://www.jamplay.com/tools/guitar-chords/1-standard/7-g/114-aug", chord = "Gaug", frets = "x(10)98xx", fingers = "-RMI--" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g/aug/textual/", chord = "G aug (position 10)", frets = "x(10)98xx", fingers = "-RMI--" },
+]
+
+"x3655x" = [
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/how-to-play-augmented-chords-on-guitar/", chord = "B augmented chord (2nd fret)", frets = "x2544x", fingers = "-ILMR-", via = "image" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Caug (also Bbaug)", frets = "x3655x", fingers = "-ILMR-" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Eaug", frets = "x7(10)99x" },
+]
+
+"x3x554" = [
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/how-to-play-augmented-chords-on-guitar/", chord = "Augmented shape, 5th string (no fret number)", frets = "x3x554", fingers = "-I-RLM", via = "image" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Faug", frets = "x8x(10)(10)9", fingers = "-I-RLM" },
+]
+
+"xx(10)99x" = [
+  { by = "jamplay", url = "https://www.jamplay.com/tools/guitar-chords/1-standard/7-g/114-aug", chord = "Gaug", frets = "xx544x", fingers = "--MII-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g/aug/textual/", chord = "G aug (position 5)", frets = "xx544x", fingers = "--MII-" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "F#aug (also Abaug, Bbaug, Gaug)", frets = "xx433x", fingers = "--MII-" },
+]
+
+"xx2110" = [
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Eaug-guitar-chord,1008.html", chord = "Eaug", frets = "xx2110", fingers = "--RIM-" },
+]

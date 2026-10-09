@@ -1,0 +1,128 @@
+# Where each voicing of data/chords/augmented-7th.toml is published, keyed by its frets from the 6th string to the 1st.
+# The format is described in data/README.md.
+
+"0x011x" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e/7-sharp-5/textual/", chord = "E7(#5) (position 4)", frets = "0x011x", fingers = "---II-" },
+  { by = "jamplay", url = "https://www.jamplay.com/tools/guitar-chords/1-standard/5-e/9-75", chord = "E7(#5)", frets = "0x011x", fingers = "---II-" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/7sharp5.html", chord = "E7#5 (diagram)", frets = "0x011x", via = "image" },
+]
+
+"8x899x" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/a-7-sharp5", chord = "A7 #5 (Fret 4)", frets = "5x566x", fingers = "I-MRL-", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/a-flat-7-sharp5", chord = "Ab7 #5 (Fret 3)", frets = "4x455x", fingers = "I-MRL-", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/a-sharp-7-sharp5", chord = "A#7 #5 (Fret 5)", frets = "6x677x", fingers = "I-MRL-", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/b-7-sharp5", chord = "B7 #5 (Fret 6)", frets = "7x788x", fingers = "I-MRL-", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/b-flat-7-sharp5", chord = "Bb7 #5 (Fret 5)", frets = "6x677x", fingers = "I-MRL-", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/c-7-sharp5", chord = "C7 #5 (Fret 7)", frets = "8x899x", fingers = "I-MRL-", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/c-sharp-7-sharp5", chord = "C#7 #5 (Fret 8)", frets = "9x9(10)(10)x", fingers = "I-MRL-", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/d-7-sharp5", chord = "D7 #5 (Fret 9)", frets = "(10)x(10)(11)(11)x", fingers = "I-MRL-", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/d-flat-7-sharp5", chord = "Db7 #5 (Fret 8)", frets = "9x9(10)(10)x", fingers = "I-MRL-", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/d-sharp-7-sharp5", chord = "D#7 #5 (Fret 10)", frets = "(11)x(11)(12)(12)x", fingers = "I-MRL-", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/e-7-sharp5", chord = "E7 #5 (Fret 11)", frets = "(12)x(12)(13)(13)x", fingers = "I-MRL-", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/e-flat-7-sharp5", chord = "Eb7 #5 (Fret 10)", frets = "(11)x(11)(12)(12)x", fingers = "I-MRL-", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/f-7-sharp5", chord = "F7 #5 (Fret 1)", frets = "1x122x", fingers = "I-MRL-", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/f-sharp-7-sharp5", chord = "F#7 #5 (Fret 1)", frets = "2x233x", fingers = "I-MRL-", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/g-7-sharp5", chord = "G7 #5 (Fret 2)", frets = "3x344x", fingers = "I-MRL-", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/g-flat-7-sharp5", chord = "Gb7 #5 (Fret 1)", frets = "2x233x", fingers = "I-MRL-", via = "browser" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/g-sharp-7-sharp5", chord = "G#7 #5 (Fret 3)", frets = "4x455x", fingers = "I-MRL-", via = "browser" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a-flat/7-sharp-5/textual/", chord = "Ab7(#5) (position 4)", frets = "4x455x", fingers = "I-MRL-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a/7-sharp-5/textual/", chord = "A7(#5) (position 4)", frets = "5x566x", fingers = "I-MRL-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b-flat/7-sharp-5/textual/", chord = "Bb7(#5) (position 5)", frets = "6x677x", fingers = "I-MRL-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/7-sharp-5/textual/", chord = "C7(#5) (position 4)", frets = "8x899x", fingers = "I-MRL-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d/7-sharp-5/textual/", chord = "D7(#5) (position 5)", frets = "(10)x(10)(11)(11)x", fingers = "I-MRL-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f/7-sharp-5/textual/", chord = "F7(#5) (position 4)", frets = "1x122x", fingers = "I-MRL-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g/7-sharp-5/textual/", chord = "G7(#5) (position 4)", frets = "3x344x", fingers = "I-MRL-" },
+  { by = "guitar-command", url = "https://www.guitarcommand.com/altered-chords/", chord = "7#5 (Common Altered Chords; diagram has no fret number)", frets = "8x899x", fingers = "I-MRL-", via = "image" },
+  { by = "jamplay", url = "https://www.jamplay.com/tools/guitar-chords/1-standard/1-a/58-b75", chord = "Ab7(#5)", frets = "4x455x", fingers = "I-MRL-" },
+  { by = "jamplay", url = "https://www.jamplay.com/tools/guitar-chords/1-standard/1-a/9-75", chord = "A7(#5)", frets = "5x566x", fingers = "I-MRL-" },
+  { by = "jamplay", url = "https://www.jamplay.com/tools/guitar-chords/1-standard/2-b/58-b75", chord = "Bb7(#5)", frets = "6x677x", fingers = "I-MRL-" },
+  { by = "jamplay", url = "https://www.jamplay.com/tools/guitar-chords/1-standard/3-c/9-75", chord = "C7(#5)", frets = "8x899x", fingers = "I-MRL-" },
+  { by = "jamplay", url = "https://www.jamplay.com/tools/guitar-chords/1-standard/4-d/9-75", chord = "D7(#5)", frets = "(10)x(10)(11)(11)x", fingers = "I-MRL-" },
+  { by = "jamplay", url = "https://www.jamplay.com/tools/guitar-chords/1-standard/6-f/9-75", chord = "F7(#5)", frets = "1x122x", fingers = "I-MRL-" },
+  { by = "jamplay", url = "https://www.jamplay.com/tools/guitar-chords/1-standard/7-g/9-75", chord = "G7(#5)", frets = "3x344x", fingers = "I-MRL-" },
+  { by = "guitar-command", url = "https://www.guitarcommand.com/altered-chords/", chord = "G7#5, 3fr (Progression With Altered Dominant)", frets = "3x344x", via = "image" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/7sharp5.html", chord = "C7#5 (diagram)", frets = "8x899x", via = "image" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/7sharp5.html", chord = "C#7#5 (diagram)", frets = "9x9(10)(10)x", via = "image" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/7sharp5.html", chord = "D7#5 (diagram)", frets = "(10)x(10)(11)(11)x", via = "image" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/7sharp5.html", chord = "Eb7#5 (diagram)", frets = "(11)x(11)(12)(12)x", via = "image" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/7sharp5.html", chord = "F7#5 (diagram)", frets = "1x122x", via = "image" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/7sharp5.html", chord = "F#7#5 (diagram)", frets = "2x233x", via = "image" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/7sharp5.html", chord = "G7#5 (diagram)", frets = "3x344x", via = "image" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/7sharp5.html", chord = "G#7#5 (diagram)", frets = "4x455x", via = "image" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/7sharp5.html", chord = "A7#5 (diagram)", frets = "5x566x", via = "image" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/7sharp5.html", chord = "Bb7#5 (diagram)", frets = "6x677x", via = "image" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/7sharp5.html", chord = "B7#5 (diagram)", frets = "7x788x", via = "image" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/7sharp5.html", chord = "E7#5", frets = "(12)x(12)(13)(13)x", note = "page text: 'could of course also be played as 12 X 12 13 13 X'" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/aaug7.html", chord = "Aaug7 closed (Root on 6th string RECOMMENDED)", frets = "5x566x", via = "data" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/aug7.html", chord = "Caug7 (diagram)", frets = "8x899x", via = "image" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/aug7.html", chord = "Faug7 (diagram)", frets = "1x122x", via = "image" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/aug7.html", chord = "Gaug7 (diagram)", frets = "3x344x", via = "image" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/aug7.html", chord = "F# / Gb aug7: 2X233X", frets = "2x233x" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/aug7.html", chord = "G# / Ab aug7: 4X455X", frets = "4x455x" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/baug7.html", chord = "Baug7 closed (Root on 6th string RECOMMENDED)", frets = "7x788x", via = "data" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/caug7.html", chord = "Caug7 closed (Root on 6th string RECOMMENDED)", frets = "8x899x", via = "data" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/daug7.html", chord = "Daug7 closed (Root on 6th string)", frets = "(10)x(10)(11)(11)x", via = "data" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/eaug7.html", chord = "Eaug7 closed (Root on 6th string RECOMMENDED)", frets = "(12)x(12)(13)(13)x", via = "data" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/faug7.html", chord = "Faug7 closed (Root on 6th string RECOMMENDED)", frets = "1x122x", via = "data" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/gaug7.html", chord = "Gaug7 closed (Root on 6th string RECOMMENDED)", frets = "3x344x", via = "data" },
+  { by = "jazz-guitar-licks", url = "https://www.jazz-guitar-licks.com/pages/chords/dominant-seventh-sharp-five-chord-guitar-diagrams-and-voicings.html", chord = "7#5 drop 3, strings 6,4,3,2, root position (R b7 3 #5)", frets = "8x899x", via = "image" },
+  { by = "mike-tyka", url = "https://miketyka.com/guitar/chordshp.htm", chord = "G7#5", frets = "3x344x" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Baug7, Bbaug7, C#aug7, Daug7, Eaug7, Ebaug7, F#aug7, Gaug7", frets = "9x9(10)(10)x", fingers = "I-MRL-" },
+]
+
+"x3635x" = [
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/A-chord/_7sharp5", chord = "A7#5 Variation 3", frets = "x(12)(15)(12)(14)x", fingers = "-ILIR-", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/Ab-chord/_7sharp5", chord = "Ab7#5 Variation 3", frets = "x(11)(14)(11)(13)x", fingers = "-ILIR-", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/B-chord/_7sharp5", chord = "B7#5 Variation 3", frets = "x2524x", fingers = "-ILIR-", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/Bb-chord/_7sharp5", chord = "Bb7#5 Variation 3", frets = "x1413x", fingers = "-ILIR-", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/C-chord/_7sharp5", chord = "C7#5 Variation 3", frets = "x3635x", fingers = "-ILIR-", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/D-chord/_7sharp5", chord = "D7#5 Variation 3", frets = "x5857x", fingers = "-ILIR-", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/Db-chord/_7sharp5", chord = "Db7#5 Variation 3", frets = "x4746x", fingers = "-ILIR-", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/E-chord/_7sharp5", chord = "E7#5 Variation 3", frets = "x7(10)79x", fingers = "-ILIR-", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/Eb-chord/_7sharp5", chord = "Eb7#5 Variation 3", frets = "x6968x", fingers = "-ILIR-", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/F-chord/_7sharp5", chord = "F7#5 Variation 3", frets = "x8(11)8(10)x", fingers = "-ILIR-", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/G-chord/_7sharp5", chord = "G7#5 Variation 3", frets = "x(10)(13)(10)(12)x", fingers = "-ILIR-", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/Gb-chord/_7sharp5", chord = "Gb7#5 Variation 3", frets = "x9(12)9(11)x", fingers = "-ILIR-", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "jazz-guitar-licks", url = "https://www.jazz-guitar-licks.com/pages/chords/dominant-seventh-sharp-five-chord-guitar-diagrams-and-voicings.html", chord = "7#5 drop 2, strings 5-2, root position (R #5 b7 3)", frets = "x3635x", via = "image" },
+  { by = "mike-tyka", url = "https://miketyka.com/guitar/chordshp.htm", chord = "C7#5", frets = "x3635x" },
+]
+
+"xx(10)(13)(11)(12)" = [
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/A-chord/_7sharp5", chord = "A7#5 Variation 2", frets = "xx7(10)89", fingers = "--ILMR", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/Ab-chord/_7sharp5", chord = "Ab7#5 Variation 2", frets = "xx6978", fingers = "--ILMR", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/B-chord/_7sharp5", chord = "B7#5 Variation 2", frets = "xx9(12)(10)(11)", fingers = "--ILMR", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/Bb-chord/_7sharp5", chord = "Bb7#5 Variation 2", frets = "xx8(11)9(10)", fingers = "--ILMR", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/C-chord/_7sharp5", chord = "C7#5 Variation 2", frets = "xx(10)(13)(11)(12)", fingers = "--ILMR", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/D-chord/_7sharp5", chord = "D7#5 Variation 2", frets = "xx(12)(15)(13)(14)", fingers = "--ILMR", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/Db-chord/_7sharp5", chord = "Db7#5 Variation 2", frets = "xx(11)(14)(12)(13)", fingers = "--ILMR", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/E-chord/_7sharp5", chord = "E7#5 Variation 2", frets = "xx2534", fingers = "--ILMR", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/Eb-chord/_7sharp5", chord = "Eb7#5 Variation 2", frets = "xx1423", fingers = "--ILMR", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/F-chord/_7sharp5", chord = "F7#5 Variation 2", frets = "xx3645", fingers = "--ILMR", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/G-chord/_7sharp5", chord = "G7#5 Variation 2", frets = "xx5867", fingers = "--ILMR", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "guitar-tricks", url = "https://www.guitartricks.com/chords/Gb-chord/_7sharp5", chord = "Gb7#5 Variation 2", frets = "xx4756", fingers = "--ILMR", via = "data", note = "shape read from the chart data the page draws from (toolbox-assets/chord-chart/chords_db.js)" },
+  { by = "jazz-guitar-licks", url = "https://www.jazz-guitar-licks.com/pages/chords/dominant-seventh-sharp-five-chord-guitar-diagrams-and-voicings.html", chord = "7#5 drop 2, strings 4-1, root position (R #5 b7 3)", frets = "xx(10)(13)(11)(12)", via = "image" },
+  { by = "mike-tyka", url = "https://miketyka.com/guitar/chordshp.htm", chord = "F7#5", frets = "xx3645" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Aaug7, Abaug7, Baug7, Bbaug7, Caug7, Eaug7, Ebaug7, F#aug7, Faug7, Gaug7", frets = "xx(10)(13)(11)(12)", fingers = "--ILMR" },
+]
+
+"030130" = [
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/eaug7.html", chord = "Eaug7 open (Open position RECOMMENDED)", frets = "030130", fingers = "-M-IL-", via = "data" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/aug7.html", chord = "Eaug7 (diagram)", frets = "030130", via = "image" },
+]
+
+"x03021" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a/7-sharp-5/textual/", chord = "A7(#5) (position 1)", frets = "x03021", fingers = "--R-MI" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Aaug7", frets = "x03021", fingers = "--R-MI" },
+]
+
+"x03223" = [
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/aaug7.html", chord = "Aaug7 open (Alt fingerings)", frets = "x03223", fingers = "--RIML", via = "data" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/aug7.html", chord = "Aaug7", frets = "x03223", note = "page text: 'option that includes the 5th is X03223'" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Aaug7", frets = "x03223", fingers = "--MIIR" },
+]
+
+"x21203" = [
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/baug7.html", chord = "Baug7 open (Open position)", frets = "x21203", fingers = "-MIR-L", via = "data" },
+  { by = "guitar-chord-org", url = "https://www.guitar-chord.org/aug7.html", chord = "Baug7 (diagram)", frets = "x21203", via = "image" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Baug7", frets = "x21203", fingers = "-MIR-L" },
+]

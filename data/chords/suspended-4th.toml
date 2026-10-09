@@ -1,0 +1,38 @@
+# Suspended 4th chords (Csus4). The format is described in data/README.md; the sources are in data/evidence/suspended-4th.toml.
+symbol   = "sus4"
+name     = "suspended 4th"
+formula  = "1 4 5"
+optional = ["5"]
+about    = "4 replaces the 3rd"
+
+voicings = [
+  # movable shapes are written with the root on C; the book shows the open voicings of a root in this order
+  { chord = "Csus4", strings = "x 3R 3L 0 1I x" },
+  { chord = "Dsus4", strings = "x x 0 2I 3R 3L" },
+  { chord = "Esus4", strings = "0 2M 2R 2L 0 0" },
+  { chord = "Gsus4", strings = "3R x 0 0 1I 3L" },
+  { chord = "Asus4", strings = "x 0 2M 2R 3L 0" },
+  { chord = "Bsus4", strings = "x 2I 4R 4L 0 0" },
+  { chord = "Csus4", strings = "x 3I 5R 5R 6L x" },
+  { chord = "Csus4", strings = "x x 10R 10L 8I 8I" },
+  { chord = "Csus4", strings = "8I 10M 10R 10L 8I 8I" },
+  { chord = "Csus4", strings = "x 3I 5M 5R 6L 3I" },
+  { chord = "Csus4", strings = "x 15R 15L 12I 13M x" },
+  { chord = "Csus4", strings = "x 3R 3L 0 1I 1I" },
+  { chord = "Csus4", strings = "x x 10I 12M 13R 13L" },
+  { chord = "Gsus4", strings = "3R x 0 0 1I x" },
+  { chord = "Csus4", strings = "8I 8I 10R 10L 8I 8I" },
+  { chord = "Esus4", strings = "x x 2M 2R 0 0" },
+  { chord = "Esus4", strings = "0 0 2I 2M 0 0" },
+  { chord = "Esus4", strings = "0 0 2I 4M 0 0" },
+  { chord = "Esus4", strings = "0 0 x x 0 0" },
+  { chord = "Esus4", strings = "0 0 x x 0 x" },
+  { chord = "Csus4", strings = "8I 10M 10R 10L x x" },
+  { chord = "Gsus4", strings = "3M 3R 0 0 1I 3L" },
+  { chord = "Csus4", strings = "8I x 10R 10R x x" },
+  { chord = "Asus4", strings = "x 0 0 2M 3R 0" },
+  { chord = "Asus4", strings = "x 0 2I 2I 3M x" },
+  { chord = "Csus4", strings = "x 3I 3I 5R 6L 3I" },
+  { chord = "Dsus4", strings = "x x 0 0 3R 3L" },
+  { chord = "Csus4", strings = "x x 10R 10L 8I x" },
+]

@@ -1,0 +1,211 @@
+# Where each voicing of data/chords/dominant-13th.toml is published, keyed by its frets from the 6th string to the 1st.
+# The format is described in data/README.md.
+
+"3x3200" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g/13/textual/", chord = "G13", frets = "3x3200", fingers = "R-LM--" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/G13-guitar-chord,366.html", chord = "G13", frets = "3x3200", note = "fingering list on the page (2 3 1 3 4 2) does not match the 4 fretted notes; identical to a JamPlay/fachords chart: counted in cluster JP" },
+]
+
+"x32335" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/a-13", chord = "A13", frets = "x(12)(11)(12)(12)(14)", fingers = "-MIRRL", via = "browser", note = "diagram label 'Fret 10'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/a-flat-13", chord = "Ab13", frets = "x(11)(10)(11)(11)(13)", fingers = "-MIRRL", via = "browser", note = "diagram label 'Fret 9'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/b-13", chord = "B13", frets = "x21224", fingers = "-MIRRL", via = "browser", note = "diagram label 'Fret 1'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/b-flat-13", chord = "Bb13", frets = "x(13)(12)(13)(13)(15)", fingers = "-MIRRL", via = "browser", note = "diagram label 'Fret 11'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/c-13", chord = "C13", frets = "x32335", fingers = "-MIRRL", via = "browser", note = "diagram label 'Fret 1'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/c-sharp-13", chord = "C#13", frets = "x43446", fingers = "-MIRRL", via = "browser", note = "diagram label 'Fret 2'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/d-13", chord = "D13", frets = "x54557", fingers = "-MIRRL", via = "browser", note = "diagram label 'Fret 3'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/e-13", chord = "E13", frets = "x76779", fingers = "-MIRRL", via = "browser", note = "diagram label 'Fret 5'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/e-flat-13", chord = "Eb13", frets = "x65668", fingers = "-MIRRL", via = "browser", note = "diagram label 'Fret 4'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/f-13", chord = "F13", frets = "x8788(10)", fingers = "-MIRRL", via = "browser", note = "diagram label 'Fret 6'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/f-sharp-13", chord = "F#13", frets = "x9899(11)", fingers = "-MIRRL", via = "browser", note = "diagram label 'Fret 7'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/g-13", chord = "G13", frets = "x(10)9(10)(10)(12)", fingers = "-MIRRL", via = "browser", note = "diagram label 'Fret 8'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/guitar-lessons/blues-chord-extensions-bl-206", chord = "C13 (grip diagram BRG-206-C13-1.gif)", frets = "x32335", fingers = "-MIRRL", via = "archive" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/102-13", chord = "A13", frets = "x(12)(11)(12)(12)(14)", fingers = "-MIRRL", note = "caption: This A13 chord features a rather large finger stretch." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/102-13", chord = "C13", frets = "x32335", fingers = "-MIRRL", note = "caption: This C13 voicing features a rather large finger stretch." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/4-d/102-13", chord = "D13", frets = "x54557", fingers = "-MIRRL", note = "caption: This D13 voicing is formed by adding the 13th (B) to a common D9 voicing." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/4-d/120-b13", chord = "Db13", frets = "x43446", fingers = "-MIRRL" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/102-13", chord = "E13", frets = "x76779", fingers = "-MIRRL", note = "caption: This is arguably the most common way to finger the fifth string root version of the E13 ch" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/120-b13", chord = "Eb13/Bb", frets = "x65668", fingers = "-MIRRL", note = "caption: This is an Eb13 chord." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/6-f/102-13", chord = "F13", frets = "x8788(10)", fingers = "-MIRRL", note = "caption: This F13 voicing utilizes a movable chord shape. The root note is located on the fifth str" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/7-g/102-13", chord = "G13", frets = "x(10)9(10)(10)(12)", fingers = "-MIRRL", note = "caption: This G13 chord features a rather large finger stretch." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a-flat/13/textual/", chord = "Ab13", frets = "x(11)(10)(11)(11)(13)", fingers = "-MIRRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a/13/textual/", chord = "A13", frets = "x(12)(11)(12)(12)(14)", fingers = "-MIRRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b/13/textual/", chord = "B13", frets = "x21224", fingers = "-MIRRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c-sharp/13/textual/", chord = "C#13", frets = "x43446", fingers = "-MIRRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/13/textual/", chord = "C13", frets = "x32335", fingers = "-MIRRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d-flat/13/textual/", chord = "Db13", frets = "x43446", fingers = "-MIRRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d-sharp/13/textual/", chord = "D#13", frets = "x65668", fingers = "-MIRRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d/13/textual/", chord = "D13", frets = "x54557", fingers = "-MIRRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e-flat/13/textual/", chord = "Eb13", frets = "x65668", fingers = "-MIRRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e/13/textual/", chord = "E13", frets = "x76779", fingers = "-MIRRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f-sharp/13/textual/", chord = "F#13", frets = "x9899(11)", fingers = "-MIRRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f/13/textual/", chord = "F13", frets = "x8788(10)", fingers = "-MIRRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g-flat/13/textual/", chord = "Gb13", frets = "x9899(11)", fingers = "-MIRRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g-sharp/13/textual/", chord = "G#13", frets = "x(11)(10)(11)(11)(13)", fingers = "-MIRRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g/13/textual/", chord = "G13", frets = "x(10)9(10)(10)(12)", fingers = "-MIRRL" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/G13-guitar-chord,383.html", chord = "G13 (other position)", frets = "x(10)9(10)(10)(12)", note = "identical to a JamPlay/fachords chart: counted in cluster JP" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db/blob/master/src/db/guitar/chords/G/13.js", chord = "G13", frets = "x(10)9(10)(10)(12)", fingers = "-MIRRL" },
+  { by = "guitar-player", url = "https://www.guitarplayer.com/technique/extended-altered-chords-expand-your-vocabulary-with-advanced-chord-voicings-tab", chord = "C13, Figure 12", frets = "x32335", fingers = "-MIRRL" },
+  { by = "onlineguitarbooks", url = "https://onlineguitarbooks.com/c13-chord/", chord = "C13 with 9 (C13-Chord-with-9-Included.png)", frets = "x32335", fingers = "-MIRRL" },
+]
+
+"8x89(10)x" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/a-13", chord = "A13", frets = "5x567x", fingers = "I-MRL-", via = "browser", note = "diagram label 'Fret 4'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/a-flat-13", chord = "Ab13", frets = "4x456x", fingers = "I-MRL-", via = "browser", note = "diagram label 'Fret 3'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/b-13", chord = "B13", frets = "7x789x", fingers = "I-MRL-", via = "browser", note = "diagram label 'Fret 6'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/b-flat-13", chord = "Bb13", frets = "6x678x", fingers = "I-MRL-", via = "browser", note = "diagram label 'Fret 5'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/c-13", chord = "C13", frets = "8x89(10)x", fingers = "I-MRL-", via = "browser", note = "diagram label 'Fret 7'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/c-sharp-13", chord = "C#13", frets = "9x9(10)(11)x", fingers = "I-MRL-", via = "browser", note = "diagram label 'Fret 8'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/d-13", chord = "D13", frets = "(10)x(10)(11)(12)x", fingers = "I-MRL-", via = "browser", note = "diagram label 'Fret 9'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/e-13", chord = "E13", frets = "(12)x(12)(13)(14)x", fingers = "I-MRL-", via = "browser", note = "diagram label 'Fret 11'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/e-flat-13", chord = "Eb13", frets = "(11)x(11)(12)(13)x", fingers = "I-MRL-", via = "browser", note = "diagram label 'Fret 10'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/f-13", chord = "F13", frets = "1x123x", fingers = "I-MRL-", via = "browser", note = "diagram label 'Fret 1'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/f-sharp-13", chord = "F#13", frets = "2x234x", fingers = "I-MRL-", via = "browser", note = "diagram label 'Fret 1'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/g-13", chord = "G13", frets = "3x345x", fingers = "I-MRL-", via = "browser", note = "diagram label 'Fret 2'" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/guitar-lessons/blues-chord-extensions-bl-206", chord = "G13 (grip diagram BRG-206-G13-1.gif)", frets = "3x345x", fingers = "I-MRL-", via = "archive" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/102-13", chord = "A13", frets = "5x567x", fingers = "I-MRL-", note = "caption: This voicing for A13 is commonly used in the jazz genre." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/120-b13", chord = "Ab13", frets = "4x456x", fingers = "I-MRL-", note = "caption: This voicing for Ab13 utilizes a common, movable dominant thirteenth voicing." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/2-b/102-13", chord = "B13", frets = "7x789x", fingers = "I-MRL-", note = "caption: This B13 chord utilizes a common, movable dominant thirteenth voicing. The root note is lo" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/2-b/120-b13", chord = "Bb13", frets = "6x678x", fingers = "I-MRL-", note = "caption: This is a dominant thirteenth voicing featuring a sixth string root note." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/102-13", chord = "C13", frets = "8x89(10)x", fingers = "I-MRL-", note = "caption: This is the C13 chord with its root note on the 6th string, 8th fret." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/4-d/102-13", chord = "D13", frets = "(10)x(10)(11)(12)x", fingers = "I-MRL-", note = "caption: This voicing for D13 is commonly used in the jazz genre." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/4-d/120-b13", chord = "Db13", frets = "9x9(10)(11)x", fingers = "I-MRL-", note = "caption: This dominant thirteenth shape is commonly used in jazz comping." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/6-f/102-13", chord = "F13", frets = "1x123x", fingers = "I-MRL-", note = "caption: This is an F13 chord." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/6-f/138-13", chord = "F#13", frets = "2x234x", fingers = "I-MRL-", note = "caption: This F#13 voicing is frequently used in blues and jazz music." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/7-g/102-13", chord = "G13", frets = "3x345x", fingers = "I-MRL-", note = "caption: This voicing for G13 is commonly used in the jazz genre." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/7-g/120-b13", chord = "Gb13", frets = "2x234x", fingers = "I-MRL-", note = "caption: This is a Gb dominant thirteenth chord." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/7-g/138-13", chord = "G#13", frets = "4x456x", fingers = "I-MRL-", note = "caption: This G#13 voicing utilizes a common, movable chord shape." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a-flat/13/textual/", chord = "Ab13", frets = "4x456x", fingers = "I-MRL-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a/13/textual/", chord = "A13", frets = "5x567x", fingers = "I-MRL-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b-flat/13/textual/", chord = "Bb13", frets = "6x678x", fingers = "I-MRL-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b/13/textual/", chord = "B13", frets = "7x789x", fingers = "I-MRL-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/13/textual/", chord = "C13", frets = "8x89(10)x", fingers = "I-MRL-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d-flat/13/textual/", chord = "Db13", frets = "9x9(10)(11)x", fingers = "I-MRL-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d/13/textual/", chord = "D13", frets = "(10)x(10)(11)(12)x", fingers = "I-MRL-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f-sharp/13/textual/", chord = "F#13", frets = "2x234x", fingers = "I-MRL-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f/13/textual/", chord = "F13", frets = "1x123x", fingers = "I-MRL-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g-flat/13/textual/", chord = "Gb13", frets = "2x234x", fingers = "I-MRL-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g-sharp/13/textual/", chord = "G#13", frets = "4x456x", fingers = "I-MRL-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g/13/textual/", chord = "G13", frets = "3x345x", fingers = "I-MRL-" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db/blob/master/src/db/guitar/chords/D/13.js", chord = "D13", frets = "(10)x(10)(11)(12)x", fingers = "I-MRL-" },
+  { by = "akordy", url = "https://akordy.kytary.cz/en/chord/a13", chord = "A13 (variation 6)", frets = "5x567x" },
+  { by = "guitar-player", url = "https://www.guitarplayer.com/technique/extended-altered-chords-expand-your-vocabulary-with-advanced-chord-voicings-tab", chord = "C13, Figure 12 (8fr.)", frets = "8x89(10)x", fingers = "I-MRL-" },
+  { by = "onlineguitarbooks", url = "https://onlineguitarbooks.com/c13-chord/", chord = "C13", frets = "8x89(10)x", fingers = "I-MRL-", note = "page text: 'standard shape'; diagram C13-Chord-Guitar.png" },
+  { by = "onlineguitarbooks", url = "https://onlineguitarbooks.com/c13-chord/", chord = "C13 root-6 (C13-Chord-Root-6-and-Root-5.png)", frets = "8x89(10)x", fingers = "I-IMR-" },
+]
+
+"8x8755" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/2-b/102-13", chord = "B13", frets = "7x7644", fingers = "R-LMII", note = "caption: This is a rather unique voicing for B13." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a-flat/13/textual/", chord = "Ab13", frets = "4x4311", fingers = "R-LMII" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a-sharp/13/textual/", chord = "A#13", frets = "6x6533", fingers = "L-RMII" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b-flat/13/textual/", chord = "Bb13", frets = "6x6533", fingers = "L-RMII" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b/13/textual/", chord = "B13", frets = "7x7644", fingers = "L-RMII" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c-sharp/13/textual/", chord = "C#13", frets = "9x9866", fingers = "R-LMII" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/13/textual/", chord = "C13", frets = "8x8755", fingers = "R-LMII" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d-flat/13/textual/", chord = "Db13", frets = "9x9866", fingers = "R-LMII" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d-sharp/13/textual/", chord = "D#13", frets = "(11)x(11)(10)88", fingers = "R-LMII" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d/13/textual/", chord = "D13", frets = "(10)x(10)977", fingers = "R-LMII" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e-flat/13/textual/", chord = "Eb13", frets = "(11)x(11)(10)88", fingers = "R-LMII" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f/13/textual/", chord = "F13", frets = "(13)x(13)(12)(10)(10)", fingers = "R-LMII" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g-sharp/13/textual/", chord = "G#13", frets = "4x4311", fingers = "R-LMII" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Bb13-guitar-chord,827.html", chord = "Bb13 (other position)", frets = "6x6533", note = "identical to a JamPlay/fachords chart: counted in cluster JP" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/D13-guitar-chord,119.html", chord = "D13", frets = "(10)x(10)977", fingers = "R-LMII", note = "identical to a JamPlay/fachords chart: counted in cluster JP" },
+  { by = "guitar-player", url = "https://www.guitarplayer.com/technique/extended-altered-chords-expand-your-vocabulary-with-advanced-chord-voicings-tab", chord = "C13, Figure 12 (5fr.)", frets = "8x8755", fingers = "R-LMII" },
+]
+
+"8x89(10)(10)" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/120-b13", chord = "Ab13", frets = "4x4566", fingers = "I-MRLL", note = "caption: This is an Ab13 voicing." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/102-13", chord = "C13", frets = "8x89(10)(10)", fingers = "I-MRLL", note = "caption: The fifth string is omitted from this voicing of C13." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/7-g/102-13", chord = "G13", frets = "3x3455", fingers = "I-MRLL", note = "caption: This voicing for G13 utilizes a movable chord shape. The fifth string is omitted from this" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a-flat/13/textual/", chord = "Ab13", frets = "4x4566", fingers = "I-IMRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a-sharp/13/textual/", chord = "A#13", frets = "6x6788", fingers = "I-IMRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a/13/textual/", chord = "A13", frets = "5x5677", fingers = "I-IMRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b-flat/13/textual/", chord = "Bb13", frets = "6x6788", fingers = "I-IMRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b/13/textual/", chord = "B13", frets = "7x7899", fingers = "I-IMRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c-sharp/13/textual/", chord = "C#13", frets = "9x9(10)(11)(11)", fingers = "I-IMRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/13/textual/", chord = "C13", frets = "8x89(10)(10)", fingers = "I-IMRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d-flat/13/textual/", chord = "Db13", frets = "9x9(10)(11)(11)", fingers = "I-IMRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d-sharp/13/textual/", chord = "D#13", frets = "(11)x(11)(12)(13)(13)", fingers = "I-IMRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d/13/textual/", chord = "D13", frets = "(10)x(10)(11)(12)(12)", fingers = "I-IMRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e-flat/13/textual/", chord = "Eb13", frets = "(11)x(11)(12)(13)(13)", fingers = "I-IMRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f-sharp/13/textual/", chord = "F#13", frets = "2x2344", fingers = "I-IMRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f/13/textual/", chord = "F13", frets = "1x1233", fingers = "I-IMRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g-flat/13/textual/", chord = "Gb13", frets = "2x2344", fingers = "I-IMRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g-sharp/13/textual/", chord = "G#13", frets = "4x4566", fingers = "I-IMRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g/13/textual/", chord = "G13", frets = "3x3455", fingers = "I-IMRL" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/A13-guitar-chord,480.html", chord = "A13", frets = "5x5677", fingers = "I-MRLL" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/Bb13-guitar-chord,827.html", chord = "Bb13", frets = "6x6788", note = "no fingering shown; identical to a JamPlay/fachords chart: counted in cluster JP" },
+  { by = "tabs4acoustic", url = "https://www.tabs4acoustic.com/en/G13-guitar-chord,383.html", chord = "G13", frets = "3x3455", fingers = "I-MRLL", note = "identical to a JamPlay/fachords chart: counted in cluster JP" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db/blob/master/src/db/guitar/chords/G/13.js", chord = "G13", frets = "3x3455", fingers = "I-IMRL" },
+  { by = "guitar-world", url = "https://www.guitarworld.com/lessons/chords/13th-chords-demystified", chord = "G13, Example 1 (Richard Barrett)", frets = "3x3455", note = "diagram without finger numbers" },
+  { by = "onlineguitarbooks", url = "https://onlineguitarbooks.com/c13-chord/", chord = "C13 with 9 (C13-Chord-with-9-Included.png)", frets = "8x89(10)(10)", fingers = "I-MRLL" },
+]
+
+"8(10)89(10)8" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/102-13", chord = "A13", frets = "575675", fingers = "IRIMLI", note = "caption: This is a movable voicing for A13." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/2-b/102-13", chord = "B13", frets = "797897", fingers = "IRIMLI", note = "caption: This is a movable voicing for B13." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/102-13", chord = "C13", frets = "8(10)89(10)8", fingers = "IRIMLI", note = "caption: This is a barre chord voicing for C13." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/4-d/102-13", chord = "D13", frets = "(10)(12)(10)(11)(12)(10)", fingers = "IRIMLI" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/7-g/102-13", chord = "G13", frets = "353453", fingers = "IRIMLI", note = "caption: This voicing for G13 utilizes a common movable barre chord shape." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a/13/textual/", chord = "A13", frets = "575675", fingers = "IRIMLI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b/13/textual/", chord = "B13", frets = "797897", fingers = "IRIMLI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/13/textual/", chord = "C13", frets = "8(10)89(10)8", fingers = "IRIMLI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d/13/textual/", chord = "D13", frets = "(10)(12)(10)(11)(12)(10)", fingers = "IRIMLI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g/13/textual/", chord = "G13", frets = "353453", fingers = "IRIMLI" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db/blob/master/src/db/guitar/chords/A/13.js", chord = "A13", frets = "575675", fingers = "IRIMLI" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db/blob/master/src/db/guitar/chords/Ab/13.js", chord = "Ab13", frets = "464564", fingers = "IRIMLI" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db/blob/master/src/db/guitar/chords/C/13.js", chord = "C13", frets = "8(10)89(10)8", fingers = "IRIMLI" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db/blob/master/src/db/guitar/chords/F/13.js", chord = "F13", frets = "131231", fingers = "IRIMLI" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db/blob/master/src/db/guitar/chords/G/13.js", chord = "G13", frets = "353453", fingers = "IRIMLI" },
+  { by = "akordy", url = "https://akordy.kytary.cz/en/chord/a13", chord = "A13 (variation 3)", frets = "575675" },
+  { by = "onlineguitarbooks", url = "https://onlineguitarbooks.com/c13-chord/", chord = "C13 (C13-Chord-10-Shapes.png)", frets = "8(10)89(10)8", fingers = "IRIMLI" },
+]
+
+"020120" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/102-13", chord = "E13", frets = "020120", fingers = "-M-IR-", note = "caption: This voicing for E13 is played in \"open\" position." },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e/13/textual/", chord = "E13", frets = "020120", fingers = "-M-IR-" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db/blob/master/src/db/guitar/chords/E/13.js", chord = "E13", frets = "020120", fingers = "-M-IR-" },
+]
+
+"0x0122" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e/13/textual/", chord = "E13", frets = "0x0122", fingers = "---IMR" },
+]
+
+"8(10)89(10)(10)" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/7-g/102-13", chord = "G13", frets = "353455", fingers = "IRIMLL", note = "caption: This voicing for G13 utilizes a common movable barre chord shape. Notice how the pinkie fi" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g/13/textual/", chord = "G13", frets = "353455", fingers = "IRIMLL" },
+]
+
+"878555" = [
+  { by = "onlineguitarbooks", url = "https://onlineguitarbooks.com/c13-chord/", chord = "C13 (C13-Chord-10-Shapes.png)", frets = "878555", fingers = "RMLIII" },
+]
+
+"8x89(10)8" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/2-b/120-b13", chord = "Bb13", frets = "6x6786", fingers = "I-IMRI" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/102-13", chord = "C13", frets = "8x89(10)8", fingers = "I-IMRI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b-flat/13/textual/", chord = "Bb13", frets = "6x6786", fingers = "I-IMRI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/13/textual/", chord = "C13", frets = "8x89(10)8", fingers = "I-IMRI" },
+]
+
+"x10113" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a-sharp/13/textual/", chord = "A#13", frets = "x10113", fingers = "-I-MRL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b-flat/13/textual/", chord = "Bb13", frets = "x10113", fingers = "-I-MRL" },
+]
+
+"x32355" = [
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db/blob/master/src/db/guitar/chords/A/13.js", chord = "A13", frets = "x(12)(11)(12)(14)(14)", fingers = "-MIRLL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db/blob/master/src/db/guitar/chords/Ab/13.js", chord = "Ab13", frets = "x(11)(10)(11)(13)(13)", fingers = "-MIRLL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db/blob/master/src/db/guitar/chords/B/13.js", chord = "B13", frets = "x21244", fingers = "-MIRLL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db/blob/master/src/db/guitar/chords/Bb/13.js", chord = "Bb13", frets = "x(13)(12)(13)(15)(15)", fingers = "-MIRLL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db/blob/master/src/db/guitar/chords/C/13.js", chord = "C13", frets = "x32355", fingers = "-MIRLL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db/blob/master/src/db/guitar/chords/Eb/13.js", chord = "Eb13", frets = "x65688", fingers = "-MIRLL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db/blob/master/src/db/guitar/chords/F/13.js", chord = "F13", frets = "x878(10)(10)", fingers = "-MIRLL" },
+  { by = "akordy", url = "https://akordy.kytary.cz/en/chord/a13", chord = "A13 (variation 4)", frets = "x(12)(11)(12)(14)(14)" },
+  { by = "onlineguitarbooks", url = "https://onlineguitarbooks.com/c13-chord/", chord = "C13 root-5 (C13-Chord-Root-6-and-Root-5.png)", frets = "x32355", fingers = "-MIRLL" },
+]
+
+"x3x355" = [
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/4-d/102-13", chord = "D13", frets = "x5x577", fingers = "-I-MLL", note = "caption: This is a D13 chord." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/120-b13", chord = "Eb13/Bb", frets = "x6x688", fingers = "-I-MLL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d/13/textual/", chord = "D13", frets = "x5x577", fingers = "-I-MLL" },
+]

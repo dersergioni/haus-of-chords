@@ -1,0 +1,28 @@
+# Added 9th chords (Cadd9). The format is described in data/README.md; the sources are in data/evidence/added-9th.toml.
+symbol   = "add9"
+name     = "added 9th"
+formula  = "1 3 5 9"
+optional = ["5"]
+about    = "major + 9, no 7th"
+
+voicings = [
+  # movable shapes are written with the root on C; the book shows the open voicings of a root in this order
+  { chord = "Cadd9", strings = "x 3M 2I 0 3R 3L" },
+  { chord = "Cadd9", strings = "x 3R 2M 0 3L 0" },
+  { chord = "Eadd9", strings = "0 2M 4L 1I 0 0" },
+  { chord = "Gadd9", strings = "3M x 0 2I 0 3R" },
+  { chord = "Aadd9", strings = "x 0 2I 4L 2M 0" },
+  { chord = "Cadd9", strings = "x x 10R 9M 8I 10L" },
+  { chord = "Cadd9", strings = "8R 7I x 7M 8L x", skip = { roots = ["G"], why = "for G this is the open G shape again, at the 2nd fret: the book keeps the open 3x0203" } },
+  { chord = "Cadd9", strings = "x 3M 2I x 3R 3L" },
+  { chord = "Cadd9", strings = "x 3R 0 0 1I 0" },
+  { chord = "Gadd9", strings = "3R x 0 2M 0 x" },
+  { chord = "Eadd9", strings = "0 2M 2R 1I 0 2L" },
+  { chord = "Cadd9", strings = "8L x 5I 7R 5I x" },
+  { chord = "Cadd9", strings = "x 3I 0 0 3M 0" },
+  { chord = "Cadd9", strings = "x 3M 2I 0 3R x" },
+  { chord = "Cadd9", strings = "x 3M x 0 3R 0" },
+  { chord = "Cadd9", strings = "x 15R 14M 12I 15L x" },
+  { chord = "Cadd9", strings = "x 3M 2I 5L 3R x" },
+  { chord = "Cadd9", strings = "x 3M 2I x 3R x" },
+]

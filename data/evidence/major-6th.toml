@@ -1,0 +1,301 @@
+# Where each voicing of data/chords/major-6th.toml is published, keyed by its frets from the 6th string to the 1st.
+# The format is described in data/README.md.
+
+"x32210" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/6/textual", chord = "C6", frets = "x32210", fingers = "-LMRI-" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/c-maj-6", chord = "CMaj 6", frets = "x32210", fingers = "-LMRI-", via = "reader" },
+  { by = "mike-tyka", url = "https://miketyka.com/guitar/chordshp.htm", chord = "C6", frets = "x32210" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "C6", frets = "x32210", fingers = "-LMRI-" },
+]
+
+"xx0202" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d/6/textual", chord = "D6", frets = "xx0202", fingers = "---M-R" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/d-maj-6", chord = "DMaj 6", frets = "xx0202", fingers = "---M-R", via = "reader" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/d-maj-6", chord = "DMaj 6", frets = "xx0202", fingers = "---I-M", via = "reader" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/4-d/3-6", chord = "D6", frets = "xx0202", fingers = "---M-R", note = "JamPlay caption: This page contains a D6 chord chart, D6 tablature, and an image of the D6 chord being played." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/4-d/3-6", chord = "D6", frets = "xx0202", fingers = "---I-M", note = "JamPlay caption: This is an alternate way to fret an \"open\" D6 chord." },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "D6", frets = "xx0202", fingers = "---M-R" },
+]
+
+"022120" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e/6/textual", chord = "E6", frets = "022120", fingers = "-MRIL-" },
+  { by = "fender", url = "https://www.fender.com/play/lessons/e6-open-position-v1", chord = "E6 Open Position (v1)", frets = "022120", fingers = "-MRIL-", via = "reader", note = "instructor Blake Straus" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/e-maj-6", chord = "EMaj 6", frets = "022120", fingers = "-MRIL-", via = "reader" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/3-6", chord = "E6", frets = "022120", fingers = "-MRIL-", note = "JamPlay caption: This is a very common voicing for E6.  This chord is used rather frequently in blues guitar music." },
+  { by = "mike-tyka", url = "https://miketyka.com/guitar/chordshp.htm", chord = "E6", frets = "022120" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "E6", frets = "022120", fingers = "-MRIL-" },
+]
+
+"x02222" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a/6/textual", chord = "A6", frets = "x02222", fingers = "--IIII" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/a-maj-6", chord = "AMaj 6", frets = "x02222", fingers = "--IIII", via = "reader" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/3-6", chord = "A6", frets = "x02222", fingers = "--IMRL", note = "JamPlay caption: This is one possible way to finger an A6 chord." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/3-6", chord = "A6", frets = "x02222", fingers = "--MMMR", note = "JamPlay caption: This is an alternate fingering for the \"open\" A6 chord." },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "A6", frets = "x02222", fingers = "--IIII" },
+]
+
+"8x798x" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a/6/textual", chord = "A6", frets = "5x465x", fingers = "M-ILR-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b-flat/6/textual", chord = "Bb6", frets = "6x576x", fingers = "M-ILR-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/6/textual", chord = "C6", frets = "8x798x", fingers = "M-ILR-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f-sharp/6/textual", chord = "F#6", frets = "2x132x", fingers = "M-ILR-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g/6/textual", chord = "G6", frets = "3x243x", fingers = "M-ILR-" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/a-6", chord = "A6", frets = "5x465x", fingers = "M-ILR-", via = "reader" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/a-flat-6", chord = "Ab6", frets = "4x354x", fingers = "M-ILR-", via = "reader" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/a-sharp-6", chord = "A#6", frets = "6x576x", fingers = "M-ILR-", via = "reader" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/b-6", chord = "B6", frets = "7x687x", fingers = "M-ILR-", via = "reader" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/c-6", chord = "C6", frets = "8x798x", fingers = "M-ILR-", via = "reader" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/c-sharp-6", chord = "C#6", frets = "9x8(10)9x", fingers = "M-ILR-", via = "reader" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/d-sharp-6", chord = "D#6", frets = "(11)x(10)(12)(11)x", fingers = "M-ILR-", via = "reader" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/d6", chord = "D6", frets = "(10)x9(11)(10)x", fingers = "M-ILR-", via = "reader" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/e6", chord = "E6", frets = "(12)x(11)(13)(12)x", fingers = "M-ILR-", via = "reader" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/f-6", chord = "F6", frets = "(13)x(12)(14)(13)x", fingers = "M-ILR-", via = "reader" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/f-sharp-6", chord = "F#6", frets = "2x132x", fingers = "M-ILR-", via = "reader" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/g-6", chord = "G6", frets = "3x243x", fingers = "M-ILR-", via = "reader" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/how-to-play-major-6-chords-on-guitar/", chord = "Major 6 (generic diagram; drawn here with root C)", frets = "8x798x", fingers = "M-ILR-", via = "image", note = "movable diagram labelled by intervals" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/3-6", chord = "A6", frets = "5x465x", fingers = "M-ILR-", note = "JamPlay caption: This voicing for A6 utilizes a common, movable chord shape.  It is used frequently in the jazz and western swing styles." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/2-b/52-b6", chord = "Bb6", frets = "6x576x", fingers = "M-ILR-", note = "JamPlay caption: This Bb6 chord utilizes a common, movable chord shape." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/3-6", chord = "C6", frets = "8x798x", fingers = "M-ILR-", note = "JamPlay caption: C 6 played with the root note on the 6th string, 8th fret." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/6-f/17-6", chord = "F#6", frets = "2x132x", fingers = "M-ILR-", note = "JamPlay caption: This voicing for F#6 is commonly used in the jazz and western swing genres." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/7-g/3-6", chord = "G6", frets = "3x243x", fingers = "M-ILR-", note = "JamPlay caption: This voicing for G6 is commonly used in the jazz and western swing genres." },
+  { by = "mike-tyka", url = "https://miketyka.com/guitar/chordshp.htm", chord = "G6", frets = "3x243x" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "C6", frets = "8x798x", fingers = "M-ILR-" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Eb6", frets = "(11)x(10)(12)(11)x", fingers = "M-ILR-" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "F#6", frets = "2x132x", fingers = "M-ILR-" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "G6", frets = "3x243x", fingers = "M-ILR-" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Ab6", frets = "4x354x", fingers = "M-ILR-" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "A6", frets = "5x465x", fingers = "M-ILR-" },
+]
+
+"xx(10)9(10)8" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a-flat/6/textual", chord = "Ab6", frets = "xx6564", fingers = "--RMLI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a/6/textual", chord = "A6", frets = "xx7675", fingers = "--RMLI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b-flat/6/textual", chord = "Bb6", frets = "xx8786", fingers = "--RMLI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/6/textual", chord = "C6", frets = "xx(10)9(10)8", fingers = "--RMLI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d-flat/6/textual", chord = "C#6", frets = "xx(11)(10)(11)9", fingers = "--RMLI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d/6/textual", chord = "D6", frets = "xx(12)(11)(12)(10)", fingers = "--RMLI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e-flat/6/textual", chord = "Eb6", frets = "xx(13)(12)(13)(11)", fingers = "--RMLI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e/6/textual", chord = "E6", frets = "xx(14)(13)(14)(12)", fingers = "--RMLI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f/6/textual", chord = "F6", frets = "xx3231", fingers = "--RMLI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g/6/textual", chord = "G6", frets = "xx5453", fingers = "--RMRI" },
+  { by = "fender", url = "https://www.fender.com/play/lessons/f6-1st-position-v3", chord = "F6 1st Position (v3)", frets = "xx3231", fingers = "--RMLI", via = "reader", note = "instructor Scott Goldbaum" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/a-6", chord = "A6", frets = "xx7675", fingers = "--RMLI", via = "reader" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/a-flat-6", chord = "Ab6", frets = "xx6564", fingers = "--RMLI", via = "reader" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/a-sharp-6", chord = "A#6", frets = "xx8786", fingers = "--RMLI", via = "reader" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/b-6", chord = "B6", frets = "xx9897", fingers = "--RMLI", via = "reader" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/c-6", chord = "C6", frets = "xx(10)9(10)8", fingers = "--RMLI", via = "reader" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/c-sharp-6", chord = "C#6", frets = "xx(11)(10)(11)9", fingers = "--RMLI", via = "reader" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/d-sharp-6", chord = "D#6", frets = "xx(13)(12)(13)(11)", fingers = "--RMLI", via = "reader" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/d6", chord = "D6", frets = "xx(12)(11)(12)(10)", fingers = "--RMLI", via = "reader" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/e6", chord = "E6", frets = "xx(14)(13)(14)(12)", fingers = "--RMLI", via = "reader" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/f-6", chord = "F6", frets = "xx3231", fingers = "--RMLI", via = "reader" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/f-sharp-6", chord = "F#6", frets = "xx4342", fingers = "--RMLI", via = "reader" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/g-6", chord = "G6", frets = "xx5453", fingers = "--RMLI", via = "reader" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/3-6", chord = "A6", frets = "xx7675", fingers = "--RMLI", note = "JamPlay caption: This A6 voicing is played in fifth position." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/52-b6", chord = "Ab6", frets = "xx6564", fingers = "--RMLI", note = "JamPlay caption: This is an Ab6 voicing." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/2-b/52-b6", chord = "Bb6", frets = "xx8786", fingers = "--RMLI", note = "JamPlay caption: This is a Bb6 chord." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/3-6", chord = "C6", frets = "xx(10)9(10)8", fingers = "--RMLI", note = "JamPlay caption: This voicing for C6 utilizes a movable chord shape." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/4-d/3-6", chord = "D6", frets = "xx(12)(11)(12)(10)", fingers = "--RMLI", note = "JamPlay caption: This voicing for D6 utilizes a movable chord shape." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/4-d/52-b6", chord = "Db6", frets = "xx(11)(10)(11)9", fingers = "--RMLI" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/3-6", chord = "E6", frets = "xx(14)(13)(14)(12)", fingers = "--RMLI", note = "JamPlay caption: This is an E6 chord played in 12th position." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/52-b6", chord = "Eb6", frets = "xx(13)(12)(13)(11)", fingers = "--RMLI" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/6-f/3-6", chord = "F6", frets = "xx3231", fingers = "--RMLI", note = "JamPlay caption: This voicing of F6 can be moved anywhere on the fretboard to form a new major sixth chord." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/7-g/3-6", chord = "G6", frets = "xx5453", fingers = "--RMRI", note = "JamPlay caption: This voicing for G6 utilizes a movable chord shape." },
+]
+
+"x3221x" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a-flat/6/textual", chord = "Ab6", frets = "x(11)(10)(10)9x", fingers = "-LMRI-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c-sharp/6/textual", chord = "C#6", frets = "x4332x", fingers = "-LMRI-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/6/textual", chord = "C6", frets = "x3221x", fingers = "-LMRI-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d-sharp/6/textual", chord = "Eb6", frets = "x6554x", fingers = "-LMRI-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d/6/textual", chord = "D6", frets = "x5443x", fingers = "-LMRI-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e/6/textual", chord = "E6", frets = "x7665x", fingers = "-LMRI-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f-sharp/6/textual", chord = "F#6", frets = "x9887x", fingers = "-LMRI-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f/6/textual", chord = "F6", frets = "x8776x", fingers = "-LMRI-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g/6/textual", chord = "G6", frets = "x(10)998x", fingers = "-LMRI-" },
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/how-to-play-major-6-chords-on-guitar/", chord = "Major 6 (generic diagram; drawn here with root C)", frets = "x3221x", fingers = "-LMRI-", via = "image", note = "movable diagram labelled by intervals" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/3-6", chord = "C6", frets = "x3221x", fingers = "-LMRI-", note = "JamPlay caption: This voicing for C6 is commonly used in the jazz genre. The root note is located on the fifth and second strings." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/4-d/3-6", chord = "D6", frets = "x5443x", fingers = "-LMRI-", note = "JamPlay caption: This voicing for D6 utilizes a common, movable chord shape.  The root note is located on the fifth string." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/4-d/52-b6", chord = "Db6", frets = "x4332x", fingers = "-LMRI-", note = "JamPlay caption: This is a Db6 chord." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/3-6", chord = "E6", frets = "x7665x", fingers = "-LMRI-", note = "JamPlay caption: This voicing for E6 utilizes a common chord shape.  The root note is located on the fifth string." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/6-f/3-6", chord = "F6", frets = "x8776x", fingers = "-LMRI-", note = "JamPlay caption: This voicing for F6 is commonly used in the jazz genre. The root note is located on the fifth string." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/7-g/52-b6", chord = "Gb6", frets = "x9887x", fingers = "-LMRI-" },
+  { by = "mike-tyka", url = "https://miketyka.com/guitar/chordshp.htm", chord = "C6", frets = "x3221x" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "C#6", frets = "x4332x", fingers = "-LMRI-" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "D6", frets = "x5443x", fingers = "-LMRI-" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Eb6", frets = "x6554x", fingers = "-LMRI-" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "E6", frets = "x7665x", fingers = "-LMRI-" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "F6", frets = "x8776x", fingers = "-LMRI-" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Ab6", frets = "x(11)(10)(10)9x", fingers = "-LMRI-" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "A6", frets = "x(12)(11)(11)(10)x", fingers = "-LMRI-" },
+]
+
+"x35555" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a-sharp/6/textual", chord = "Bb6", frets = "x13333", fingers = "-IRRRR" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b/6/textual", chord = "B6", frets = "x24444", fingers = "-IRRRR" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c-sharp/6/textual", chord = "C#6", frets = "x46666", fingers = "-IRRRR" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/6/textual", chord = "C6", frets = "x35555", fingers = "-IRRRR" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d-sharp/6/textual", chord = "Eb6", frets = "x68888", fingers = "-IRRRR" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d/6/textual", chord = "D6", frets = "x57777", fingers = "-IRRRR" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e/6/textual", chord = "E6", frets = "x79999", fingers = "-IRRRR" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f-sharp/6/textual", chord = "F#6", frets = "x9(11)(11)(11)(11)", fingers = "-IRRRR" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f/6/textual", chord = "F6", frets = "x8(10)(10)(10)(10)", fingers = "-IRRRR" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/a-6", chord = "A6", frets = "x(12)(14)(14)(14)(14)", fingers = "-IRRRR", via = "reader" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/a-flat-6", chord = "Ab6", frets = "x(11)(13)(13)(13)(13)", fingers = "-IRRRR", via = "reader" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/a-sharp-6", chord = "A#6", frets = "x13333", fingers = "-IRRRR", via = "reader" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/b-6", chord = "B6", frets = "x24444", fingers = "-IRRRR", via = "reader" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/c-6", chord = "C6", frets = "x35555", fingers = "-IRRRR", via = "reader" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/c-sharp-6", chord = "C#6", frets = "x46666", fingers = "-IRRRR", via = "reader" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/d-sharp-6", chord = "D#6", frets = "x68888", fingers = "-IRRRR", via = "reader" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/d6", chord = "D6", frets = "x57777", fingers = "-IRRRR", via = "reader" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/e6", chord = "E6", frets = "x79999", fingers = "-IRRRR", via = "reader" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/f-6", chord = "F6", frets = "x8(10)(10)(10)(10)", fingers = "-IRRRR", via = "reader" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/f-sharp-6", chord = "F#6", frets = "x9(11)(11)(11)(11)", fingers = "-IRRRR", via = "reader" },
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/g-6", chord = "G6", frets = "x(10)(12)(12)(12)(12)", fingers = "-IRRRR", via = "reader" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/2-b/3-6", chord = "B6", frets = "x24444", fingers = "-IRRRR", note = "JamPlay caption: This B6 voicing features a four string barre performed by the third finger." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/2-b/52-b6", chord = "Bb6", frets = "x13333", fingers = "-ILLLL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "C6", frets = "x35555", fingers = "-IRRRL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "C#6", frets = "x46666", fingers = "-IRRRR" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "D6", frets = "x57777", fingers = "-IRRRL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Eb6", frets = "x68888", fingers = "-IRRRR" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "E6", frets = "x79999", fingers = "-IRRRR" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "F#6", frets = "x9(11)(11)(11)(11)", fingers = "-IRRRR" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "G6", frets = "x(10)(12)(12)(12)(12)", fingers = "-IRRRL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Bb6", frets = "x13333", fingers = "-IRRRR" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "B6", frets = "x24444", fingers = "-IRRRR" },
+]
+
+"02212x" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e/6/textual", chord = "E6", frets = "02212x", fingers = "-MRIL-" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/3-6", chord = "E6", frets = "02212x", fingers = "-MRIL-", note = "JamPlay caption: The first string is omitted from this \"open\" E6 chord." },
+]
+
+"320000" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g/6/textual", chord = "G6", frets = "320000" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/7-g/3-6", chord = "G6", frets = "320000", fingers = "MI----", note = "JamPlay caption: This is an \"open\" voicing for G6." },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "G6", frets = "320000", fingers = "MI----" },
+]
+
+"320030" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g/6/textual", chord = "G6", frets = "320030", fingers = "MI--R-" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/7-g/3-6", chord = "G6", frets = "320030", fingers = "MI--R-", note = "JamPlay caption: When the note E is added to G major, a G6 chord is formed." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/7-g/3-6", chord = "G6", frets = "320030", fingers = "MI--L-", note = "JamPlay caption: This is one possible way to finger an \"open\" G6 chord." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/7-g/3-6", chord = "G6", frets = "320030", fingers = "RM--L-", note = "JamPlay caption: This is another fingering option for an \"open\" G6 chord." },
+]
+
+"3x0000" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/g-maj-6", chord = "GMaj 6", frets = "3x0000", fingers = "R-----", via = "reader" },
+]
+
+"8xx9(10)x" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a-flat/6/textual", chord = "Ab6", frets = "4xx56x", fingers = "I--RL-" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/52-b6", chord = "Ab6", frets = "4xx56x", fingers = "I--RL-" },
+]
+
+"8x79(10)x" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b-flat/6/textual", chord = "Bb6", frets = "6x578x", fingers = "M-IRL-" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/2-b/52-b6", chord = "Bb6", frets = "6x578x", fingers = "M-IRL-", note = "JamPlay caption: The sixth (E) is doubled in this Bb6 voicing." },
+]
+
+"8x(10)9(10)8" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a-flat/6/textual", chord = "Ab6", frets = "4x6564", fingers = "I-RMLI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a-sharp/6/textual", chord = "Bb6", frets = "6x8786", fingers = "I-RMLI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a/6/textual", chord = "A6", frets = "5x7675", fingers = "I-RMLI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b/6/textual", chord = "B6", frets = "7x9897", fingers = "I-RMLI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c-sharp/6/textual", chord = "C#6", frets = "9x(11)(10)(11)9", fingers = "I-RMLI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/6/textual", chord = "C6", frets = "8x(10)9(10)8", fingers = "I-RMLI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d-sharp/6/textual", chord = "Eb6", frets = "(11)x(13)(12)(13)(11)", fingers = "I-RMLI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d/6/textual", chord = "D6", frets = "(10)x(12)(11)(12)(10)", fingers = "I-RMLI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f-sharp/6/textual", chord = "F#6", frets = "2x4342", fingers = "I-RMLI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f/6/textual", chord = "F6", frets = "1x3231", fingers = "I-RMLI" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/g/6/textual", chord = "G6", frets = "3x5453", fingers = "I-RMLI" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/3-6", chord = "A6", frets = "5x7675", note = "JamPlay caption: This is a Hendrix style voicing for A6." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/4-d/3-6", chord = "D6", frets = "(10)x(12)(11)(12)(10)", note = "JamPlay caption: This is a Hendrix style voicing for D6." },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "C6", frets = "8x(10)9(10)8", fingers = "I-RMLI" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "C#6", frets = "9x(11)(10)(11)9", fingers = "I-RMLI" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "F6", frets = "1x3231", fingers = "I-RMLI" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "F#6", frets = "2x4342", fingers = "I-RMLI" },
+]
+
+"8x755x" = [
+  { by = "jg-music-lessons", url = "https://jgmusiclessons.com/how-to-play-major-6-chords-on-guitar/", chord = "Major 6 (generic diagram; drawn here with root C)", frets = "8x755x", fingers = "L-RII-", via = "image", note = "movable diagram labelled by intervals" },
+]
+
+"8x79xx" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a-flat/6/textual", chord = "Ab6", frets = "4x35xx", fingers = "M-IL--" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b-flat/6/textual", chord = "Bb6", frets = "6x57xx", fingers = "M-IR--" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/6/textual", chord = "C6", frets = "8x79xx", fingers = "M-IL--" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/52-b6", chord = "Ab6", frets = "4x35xx", fingers = "M-IL--", note = "JamPlay caption: This is an Ab6 voicing." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/2-b/52-b6", chord = "Bb6", frets = "6x57xx", fingers = "M-IR--", note = "JamPlay caption: This is a three string voicing of Bb6." },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/3-6", chord = "C6", frets = "8x79xx", fingers = "M-IL--", note = "JamPlay caption: This voicing for C6 is commonly used in the jazz genre." },
+]
+
+"x3525x" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b-flat/6/textual", chord = "Bb6", frets = "x(13)(15)(12)(15)x", fingers = "-MRIL-" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/2-b/52-b6", chord = "Bb6", frets = "x(13)(15)(12)(15)x", fingers = "-MRIL-", note = "JamPlay caption: This is a Bb6 voicing." },
+]
+
+"x04220" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a/6/textual", chord = "A6", frets = "x04220", fingers = "--LIM-" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/3-6", chord = "A6", frets = "x04220", fingers = "--LIM-", note = "JamPlay caption: Another variation of the A6 Chord." },
+]
+
+"x0422x" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/a-maj-6", chord = "AMaj 6", frets = "x0422x", fingers = "--RII-", via = "reader" },
+]
+
+"x1003x" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b-flat/6/textual", chord = "Bb6", frets = "x1003x", fingers = "-I--L-" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/2-b/52-b6", chord = "Bb6", frets = "x1003x", fingers = "-I--L-" },
+]
+
+"x1303x" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b-flat/6/textual", chord = "Bb6", frets = "x1303x", fingers = "-IR-L-" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/2-b/52-b6", chord = "Bb6", frets = "x1303x", fingers = "-IR-L-", note = "JamPlay caption: This is an \"open\" Bb6 chord." },
+]
+
+"x1x033" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b-flat/6/textual", chord = "Bb6", frets = "x1x033", fingers = "-I--RL" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/2-b/52-b6", chord = "Bb6", frets = "x1x033", fingers = "-I--RL", note = "JamPlay caption: This voicing for Bb6 is used in the introduction/verse to the song \"December\" by Collective Soul." },
+]
+
+"x1x03x" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b-flat/6/textual", chord = "Bb6", frets = "x1x03x", fingers = "-I--L-" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/2-b/52-b6", chord = "Bb6", frets = "x1x03x", fingers = "-I--L-", note = "JamPlay caption: This voicing for Bb6 is used in the song \"Blackbird\" by the Beatles." },
+]
+
+"x3xx55" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b-flat/6/textual", chord = "Bb6", frets = "x1xx33", fingers = "-I--RL" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/2-b/52-b6", chord = "Bb6", frets = "x1xx33", fingers = "-I--RL", note = "JamPlay caption: The fifth (F) is omitted from this Bb6 voicing." },
+]
+
+"x2110x" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/b/6/textual", chord = "B6", frets = "x2110x", fingers = "-RIM--" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "B6", frets = "x2110x", fingers = "-RIM--" },
+]
+
+"x322xx" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/c/6/textual", chord = "C6", frets = "x322xx", fingers = "-MII--" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/f/6/textual", chord = "F6", frets = "x877xx", fingers = "-MII--" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/3-c/3-6", chord = "C6", frets = "x322xx", fingers = "-MII--", note = "JamPlay caption: This voicing for C6 is commonly used in the jazz genre.\nThe fifth is omitted from the chord.  The root note is located o" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/6-f/3-6", chord = "F6", frets = "x877xx", fingers = "-MII--", note = "JamPlay caption: This three string voicing for F6 is commonly used in the jazz genre." },
+]
+
+"x3x210" = [
+  { by = "justinguitar", url = "https://www.justinguitar.com/chords/c-maj-6", chord = "CMaj 6", frets = "x3x210", fingers = "-R-MI-", via = "reader" },
+]
+
+"xx(10)9(10)x" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/d-flat/6/textual", chord = "C#6", frets = "xx(11)(10)(11)x", fingers = "--RML-" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/e-flat/6/textual", chord = "Eb6", frets = "xx(13)(12)(13)x", fingers = "--RML-" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/4-d/52-b6", chord = "Db6", frets = "xx(11)(10)(11)x", fingers = "--RML-" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/5-e/52-b6", chord = "Eb6", frets = "xx(13)(12)(13)x", fingers = "--RML-" },
+]
+
+"xx(10)(12)(10)(12)" = [
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a-flat/6/textual", chord = "Ab6", frets = "xx6868", fingers = "--IRIL" },
+  { by = "fachords", url = "https://www.fachords.com/guitar-chord/a-sharp/6/textual", chord = "Bb6", frets = "xx8(10)8(10)", fingers = "--IRIL" },
+  { by = "jamplay", url = "https://jamplay.com/tools/guitar-chords/1-standard/1-a/52-b6", chord = "Ab6", frets = "xx6868", fingers = "--IRIL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "Eb6", frets = "xx1313", fingers = "--IRIL" },
+  { by = "chords-db", url = "https://github.com/tombatossals/chords-db", chord = "B6", frets = "xx9(11)9(11)", fingers = "--IRIL" },
+]
